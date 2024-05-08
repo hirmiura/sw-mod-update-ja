@@ -162,7 +162,7 @@ msgstr ""
 
 msgctxt "/1336F8BD4FB7994AB96E18A090521ED8"
 msgid "1 grid"
-msgstr ""
+msgstr "1グリッド"
 
 msgctxt "/F06C562C4158540454DB02A296F5521C"
 msgid "1 Technology"
@@ -182,7 +182,7 @@ msgstr ""
 
 msgctxt "/2C3724544B7F5E72B5EE8299EE65FF76"
 msgid "2 units"
-msgstr ""
+msgstr "2ユニット"
 
 msgctxt "/D2246F0D430F07499B2312A692D8B989"
 msgid "2 times"
@@ -843,7 +843,7 @@ msgstr ""
 
 msgctxt "/A44EFF464B52A9DEC8E75BAE32E74459"
 msgid "Ready"
-msgstr ""
+msgstr "準備完了"
 
 msgctxt "/2350FCF842A725C6D15CB5B929C593FD"
 msgid "Gazing into the abyss"
@@ -979,7 +979,7 @@ msgstr ""
 
 msgctxt "/955054154E325461D875D581A2465D7F"
 msgid "Initially ready for assembly"
-msgstr ""
+msgstr "最初に装着できる"
 
 msgctxt "/1F8AE34845446FDF9923C4B24C131D09"
 msgid "Initially, all unlocked units can be selected"
@@ -1199,7 +1199,7 @@ msgstr ""
 
 msgctxt "/2D76A45E4268E2B411BF9396B23F8254"
 msgid "Uninstall"
-msgstr ""
+msgstr "外す"
 
 msgctxt "/9DD9BEFA41B83AE97496A9A25FDA7F6C"
 msgid "Force shooting"
@@ -1527,7 +1527,7 @@ msgstr ""
 
 msgctxt "/B2E7A2994EB402AD591834A526F86D2F"
 msgid "Spray"
-msgstr ""
+msgstr "噴射"
 
 msgctxt "/ACC649DA4D5A96FC48A22A81F9D522D2"
 msgid "Jet backtracking"
@@ -1970,11 +1970,11 @@ msgstr ""
 
 msgctxt "/7D5B7A0C4B2A35DF1F8705A53FC61DF7"
 msgid "Laboratory"
-msgstr ""
+msgstr "研究所"
 
 msgctxt "/E6580DB14677D9F316889AB333D719E2"
 msgid "Laboratory"
-msgstr ""
+msgstr "研究所"
 
 msgctxt "/1D974DEC4CA26BCF128780B7EE873B4D"
 msgid "Experimental error"
@@ -2116,7 +2116,7 @@ msgstr ""
 
 msgctxt "/B61EC5024EFCC4FC03C0D9B2715526DD"
 msgid "Continuously damage all enemies within range"
-msgstr ""
+msgstr "範囲内のすべて敵にダメージを与え続ける"
 
 msgctxt "/69461ABF444459622A9939B35944A339"
 msgid ""
@@ -2138,7 +2138,7 @@ msgstr ""
 
 msgctxt "/AE77095D47A74D90E59F7A833A60C600"
 msgid "Range modification"
-msgstr ""
+msgstr "射程補正"
 
 msgctxt "/557553D0419A6FE88AF4959B31A6AB10"
 msgid "Split the bullets passing through this unit into"
@@ -2382,7 +2382,7 @@ msgstr ""
 
 msgctxt "/9B9037864C7EF911B8D211976B5FFB36"
 msgid "Start"
-msgstr ""
+msgstr "開始"
 
 msgctxt "/8B30868C4731F6E766A7758E7524BC2B"
 msgid "Happy"
@@ -2462,11 +2462,11 @@ msgstr ""
 
 msgctxt "/7C114E5D4A44941D4D5D57B35170B12B"
 msgid "Current level:"
-msgstr ""
+msgstr "レベル:"
 
 msgctxt "/8BE3B0AD451F0E157077E8A984CAB67B"
 msgid "Current level:"
-msgstr ""
+msgstr "レベル:"
 
 msgctxt "/F7C8906044F728DA96FA3BA5FA234740"
 msgid "The current evasion value is"
@@ -2755,15 +2755,15 @@ msgstr ""
 
 msgctxt "/51C83D9247F45C7B5F6C0085F34DE2CB"
 msgid "Record"
-msgstr ""
+msgstr "記録"
 
 msgctxt "/993DEDCA4A9B289EACB3659CC7F7B861"
 msgid "Record"
-msgstr ""
+msgstr "記録"
 
 msgctxt "/AFA474C642B79A5D205FE4BC254D4B9B"
 msgid "Record"
-msgstr ""
+msgstr "記録"
 
 msgctxt "/D55538B142B0269A4498A686A9C94585"
 msgid "Defeat the Apostles"
@@ -3129,7 +3129,7 @@ msgstr ""
 
 msgctxt "/6D09C9544F2FB6114DB5F0AF3FF69A0C"
 msgid "Drag and drop"
-msgstr ""
+msgstr "ドラッグ＆ドロップ"
 
 msgctxt "/B11F1D3945A3B9F4E28098B5650A3E97"
 msgid "Challenge"
@@ -3145,7 +3145,7 @@ msgstr ""
 
 msgctxt "/E4571B01491120BB242F759F4EF46FB2"
 msgid "Ranking"
-msgstr ""
+msgstr "ランキング"
 
 msgctxt "/8FB8628D4C8D94CCA5E38091172760CB"
 msgid "Ranking upload failed, please check the network! "
@@ -3153,23 +3153,23 @@ msgstr ""
 
 msgctxt "/D5AEE04A4ABDDF21053553BCBAFD1261"
 msgid "Ranking update in progress"
-msgstr ""
+msgstr "ランキング更新中"
 
 msgctxt "/38442C0049B5F9F4B9FA788C71372B33"
 msgid "Leaderboard"
-msgstr ""
+msgstr "リーダーボード"
 
 msgctxt "/7C5DEA0B45BFD58679BC9B8656EDDA9F"
 msgid "Leaderboard"
-msgstr ""
+msgstr "リーダーボード"
 
 msgctxt "/DDCCAE7D41538D68C9B0CFBC6EB67EC9"
 msgid "Leaderboard"
-msgstr ""
+msgstr "リーダーボード"
 
 msgctxt "/FF57963C4362550CF160888F2E073333"
 msgid "Leaderboard"
-msgstr ""
+msgstr "リーダーボード"
 
 msgctxt "/F4AB8D1F4488F4F615088EBE3A1D376E"
 msgid "Leaderboard data and Record cannot be inherited! "
@@ -3241,7 +3241,7 @@ msgstr ""
 
 msgctxt "/0F7D753C42AF5171475509ACF365F352"
 msgid "Divorce from the core during exploration"
-msgstr ""
+msgstr "探査中はコアから分離する"
 
 msgctxt "/4574CF98475F87CE124EDD9B7925AA6E"
 msgid "Exploration:"
@@ -3635,7 +3635,7 @@ msgstr ""
 
 msgctxt "/D466A28C4FC220097EA19EABC64CA4EA"
 msgid "Unable to penetrate"
-msgstr ""
+msgstr "貫通しない"
 
 msgctxt "/DB0B9ECA4B59B6B41C4B36A6747EB99F"
 msgid "Unable to equip jet crew"
@@ -3767,11 +3767,11 @@ msgstr "知性"
 
 msgctxt "/AEC8BA764F9105D8D34EE0AE22B4F312"
 msgid "Intellegent"
-msgstr ""
+msgstr "知性"
 
 msgctxt "/DEBA66F64C7202B7B6B8CDA15B9B3301"
 msgid "Intellegent"
-msgstr ""
+msgstr "知性"
 
 msgctxt "/4E3FD2744123FA1A9FC17EA28E29479E"
 msgid "The Intelligent Era"
@@ -4554,7 +4554,7 @@ msgstr ""
 
 msgctxt "/E993C0FB4CAF9CEEBE78779EADB9C5C5"
 msgid "Every time away from the core"
-msgstr ""
+msgstr "コアから離れるに従って"
 
 msgctxt "/C8075B944503EED684671CB36EDFF6CB"
 msgid "1 per link"
@@ -4625,7 +4625,7 @@ msgstr ""
 
 msgctxt "/A26C43544787818F94A89885EB81DCE4"
 msgid "Healing"
-msgstr ""
+msgstr "回復"
 
 msgctxt "/2584AEBE49BD21DF150C378EB9C1D85E"
 msgid "Treatment I"
@@ -4745,7 +4745,7 @@ msgstr ""
 
 msgctxt "/00B829F6483FE2D5BD7D958EC042DCF4"
 msgid "Wave number:"
-msgstr ""
+msgstr "ウェーブ数:"
 
 msgctxt "/829B25B34C3629AC313D88891D6CBE55"
 msgid "Turn over a new leaf"
@@ -5303,7 +5303,7 @@ msgstr ""
 
 msgctxt "/ACE1E73F48503631814E2B829537F874"
 msgid "Aiming cursor"
-msgstr ""
+msgstr "カーソルに照準"
 
 msgctxt "/80FB0F334BF4C82FD6686789350D8608"
 msgid "Matrix"
@@ -5919,11 +5919,11 @@ msgstr ""
 
 msgctxt "/2219D4154CFFCCF00A4C1498791B8D0F"
 msgid "Automatic aiming"
-msgstr ""
+msgstr "自動照準"
 
 msgctxt "/D2727339463A1FF9680F79B790FCF762"
 msgid "Custom Core"
-msgstr ""
+msgstr "カスタムコア"
 
 msgctxt "/518682544775A35EA7B9CA9BF14D82B4"
 msgid "Self-awareness"
@@ -5943,11 +5943,11 @@ msgstr ""
 
 msgctxt "/EF1EF67B4769D6E147CE2CA511C6EE13"
 msgid "Chip"
-msgstr ""
+msgstr "チップ"
 
 msgctxt "/41BFF21B4D3E43FB80E3AE82D4BB2F2F"
 msgid "Chip guidebook"
-msgstr ""
+msgstr "チップ図鑑"
 
 msgctxt "/4047EF8340BDA819C056D29726FB51BF"
 msgid "Chip Master"
@@ -5955,11 +5955,11 @@ msgstr ""
 
 msgctxt "/E5640E284BF6503F230F4489D7EE888E"
 msgid "Number of chips:"
-msgstr ""
+msgstr "チップ数:"
 
 msgctxt "/F8A92B8B4F1DFD20AE4B25BB1B726634"
 msgid "Chip:"
-msgstr ""
+msgstr "チップ:"
 
 msgctxt "/068A415046323B3BBBA7509BB6CC7F2D"
 msgid "Valhalla"
@@ -5971,7 +5971,7 @@ msgstr ""
 
 msgctxt "/B02CDFAF4564FF335488A8A88E6A859E"
 msgid "Range"
-msgstr ""
+msgstr "射程"
 
 msgctxt "/703E469740664203D4E4BEAF3D9DC374"
 msgid "All units within the scope"
@@ -6494,7 +6494,7 @@ msgstr "近接ダメージ, 遠隔ダメージ, 量子ダメージ, テクノロ
 
 msgctxt "/D341585046BD3FF04EE308AE2F9D9C86"
 msgid "Return"
-msgstr ""
+msgstr "戻る"
 
 msgctxt "/73750CC14DD5460AF49A28BBDB794AAD"
 msgid "Enter angelic form! "
@@ -6634,7 +6634,7 @@ msgstr ""
 
 msgctxt "/2C1F9D614A5F99A5A6EE7FA442E677F2"
 msgid "Exit"
-msgstr ""
+msgstr "終了"
 
 msgctxt "/B4BFA0234D22FFDB03CD3EB1F8CCBDA4"
 msgid "quit"
@@ -6642,7 +6642,7 @@ msgstr ""
 
 msgctxt "/91EF2A494273226C5DE519800A6DD048"
 msgid "Exit Editing"
-msgstr ""
+msgstr "編集終了"
 
 msgctxt "/46D7EBCF499FBB0E987B6AB8341B33F7"
 msgid "Select"
@@ -7499,7 +7499,7 @@ msgstr ""
 
 msgctxt "/18A065F54A6FF10DCCCF8F835175AACF"
 msgid "High frequency jet attack"
-msgstr ""
+msgstr "高頻度ジェット攻撃"
 
 msgctxt "/F000D817425E5810CB2E2A98E4A81749"
 msgid "Regeneration"
@@ -7635,11 +7635,11 @@ msgstr ""
 
 msgctxt "/712C13A54C6D3DD354940F98EDF05488"
 msgid "(When equipped)"
-msgstr ""
+msgstr "(装着時)"
 
 msgctxt "/9D332CDB41C5E1DAE221B782C0C50378"
 msgid "(When dragging/when not equipped)"
-msgstr ""
+msgstr "(ドラッグ中/非装着時)"
 
 msgctxt "/E45239F44594F668631FE98E2376B588"
 msgid "(Random appearance during exploration)"
