@@ -28,6 +28,9 @@ E_POTRANS	:= $(D_SRC)/potrans/potrans.py
 # URL
 URL_URLOCRES	:= https://github.com/akintos/UnrealLocres/releases/download/1.1.1/UnrealLocres.exe
 
+# locale
+L_LOCALES	:= en ja zh
+
 
 #==============================================================================
 # カラーコード
@@ -104,13 +107,16 @@ unpak: $(E_URPAK) check_link
 #==============================================================================
 .PHONY: unpack_locres
 unpack_locres: ## locresを展開します
-unpack_locres: $(L_LOCRES) $(E_URLOCRES)
-	@echo -e '$(CC_BrBlue)========== $@ ==========$(CC_Reset)'
-	mkdir -p $(D_LOC)
-	$(foreach locale,en ja zh,$(E_URLOCRES) export -f pot $(D_GAME_LOCS)/$(locale)/Game.locres -o $(D_LOC)/$(locale).pot && ) true
+unpack_locres: $(L_LOCRES) $(foreach locale,$(L_LOCALES),$(D_LOC)/$(locale).pot)
 
 $(L_LOCRES):
+	@echo -e '$(CC_BrBlue)========== $@ ==========$(CC_Reset)'
 	$(MAKE) unpak
+
+$(D_LOC)/%.pot: $(D_GAME_LOCS)/%/Game.locres $(E_URLOCRES)
+	@echo -e '$(CC_BrBlue)========== $@ ==========$(CC_Reset)'
+	@mkdir -p $(D_LOC)
+	$(E_URLOCRES) export -f pot $< -o $@
 
 
 #==============================================================================
