@@ -123,6 +123,7 @@ potrans: $(D_LOC)/ja.po
 	$(E_POTRANS) -i $(D_LOC)/ja.po
 
 $(D_LOC)/ja.po: $(D_LOC)/en.pot
+	@echo -e '$(CC_BrBlue)========== $@ ==========$(CC_Reset)'
 	@if ! [[ -f "$@" ]] ; then \
 		msginit --no-translator -l ja_JP.utf8 -i $< -o $@ ; \
 	fi
@@ -152,6 +153,7 @@ $(D_LOC)/StarryGame-Windows_update-ja.pak: $(D_LOC)/Game.locres $(D_LOC)/packing
 	$(E_URPAK) "$(D_LOC_WIN)\StarryGame-Windows_update-ja.pak" -Create="$(D_LOC_WIN)\packing.txt" -compressed -compressionformat=Oodle
 
 $(D_LOC)/packing.txt:
+	@echo -e '$(CC_BrBlue)========== $@ ==========$(CC_Reset)'
 	echo '"$(D_LOC_WIN)\Game.locres" "../../../StarryGame/Content/Localization/Game/ja/"' > $@
 
 
