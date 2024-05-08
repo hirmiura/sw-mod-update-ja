@@ -189,7 +189,7 @@ clean-pak:
 clean-pot: ## potファイルを削除します
 clean-pot:
 	@echo -e '$(CC_BrMagenta)========== $@ ==========$(CC_Reset)'
-	rm -f $(D_loc)/*.pot
+	rm -f $(D_LOC)/*.pot
 
 clean-locres: ## locres周りを削除します
 clean-locres:
