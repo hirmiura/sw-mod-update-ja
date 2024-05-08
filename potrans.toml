@@ -323,8 +323,8 @@ msgid  = '(\s*)Chaining(\s*)$'
 msgstr = '\1連鎖\2'
 
 [[rules]]
-msgid  = '(\s*)Intelligen(ce|t)(\s*)$'
-msgstr = '\1知性\3'
+msgid  = '(\s*)Intell(i|e)gen(ce|t)(\s*)$'
+msgstr = '\1知性\4'
 
 [[rules]]
 msgid  = '(\s*)Seperated(\s*)$'
