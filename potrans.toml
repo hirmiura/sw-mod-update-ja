@@ -1,0 +1,407 @@
+[[rules]]
+msgid  = '(\s*)Armor(\s*)$'
+msgstr = '\1アーマー\2'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? Armor$'
+msgstr = '\1 アーマー'
+
+[[rules]]
+msgid  = 'Armor([+-]\d+%?)$'
+msgstr = '\1 アーマー'
+
+[[rules]]
+msgid  = 'Core Armor([+-]\d+)$'
+msgstr = '\1 コアアーマー'
+
+[[rules]]
+msgid  = '(\s*)Space Gems?(\s*)$'
+msgstr = '\1スペースジェム\2'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? Space Gems?$'
+msgstr = '\1 スペースジェム'
+
+[[rules]]
+msgid  = 'Space Gems?([+-]\d+%?)$'
+msgstr = '\1 スペースジェム'
+
+[[rules]]
+msgid  = '(\s*)Technology(\s*)$'
+msgstr = '\1テクノロジー\2'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? Technology$'
+msgstr = '\1 テクノロジー'
+
+[[rules]]
+msgid  = 'Technology([+-]\d+%?)$'
+msgstr = '\1 テクノロジー'
+
+[[rules]]
+msgid  = '(\s*)Luck(\s*)$'
+msgstr = '\1運\2'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? Luck$'
+msgstr = '\1 運'
+
+[[rules]]
+msgid  = 'Luck([+-]\d+%?)$'
+msgstr = '\1 運'
+
+[[rules]]
+msgid  = '(\s*)Damage(\s*)$'
+msgstr = '\1ダメージ\2'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? Damage$'
+msgstr = '\1 ダメージ'
+
+[[rules]]
+msgid  = 'Damage([+-]\d+%?)$'
+msgstr = '\1 ダメージ'
+
+[[rules]]
+msgid  = '(\d+%)\.? Damage$'
+msgstr = '\1 ダメージ'
+
+[[rules]]
+msgid  = '(\s*)(Operation|Business)(\s*)$'
+msgstr = '\1経営\3'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? (Operation|Business)$'
+msgstr = '\1 経営'
+
+[[rules]]
+msgid  = '(Operation|Business)([+-]\d+%?)$'
+msgstr = '\2 経営'
+
+[[rules]]
+msgid  = '(\s*)Melee(\s*)$'
+msgstr = '\1近接\2'
+
+[[rules]]
+msgid  = '(\s*)Melee Damage(\s*)$'
+msgstr = '\1近接ダメージ\2'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? Melee Damage$'
+msgstr = '\1 近接ダメージ'
+
+[[rules]]
+msgid  = 'Melee Damage([+-]\d+%?)$'
+msgstr = '\1 近接ダメージ'
+
+[[rules]]
+msgid  = 'Core Melee Damage([+-]\d+)$'
+msgstr = '\1 コア近接ダメージ'
+
+[[rules]]
+msgid  = '(\s*)(Ranged|Remote)(\s*)$'
+msgstr = '\1遠隔\3'
+
+[[rules]]
+msgid  = '(\s*)(Ranged|Remote) Damage(\s*)$'
+msgstr = '\1遠隔ダメージ\3'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? (Ranged|Remote) Damage$'
+msgstr = '\1 遠隔ダメージ'
+
+[[rules]]
+msgid  = '(Ranged|Remote) Damage([+-]\d+%?)$'
+msgstr = '\2 遠隔ダメージ'
+
+[[rules]]
+msgid  = '(\s*)Quantum(\s*)$'
+msgstr = '\1量子\2'
+
+[[rules]]
+msgid  = '(\s*)Quantum Damage(\s*)$'
+msgstr = '\1量子ダメージ\2'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? Quantum Damage$'
+msgstr = '\1 量子ダメージ'
+
+[[rules]]
+msgid  = 'Quantum Damage([+-]\d+%?)$'
+msgstr = '\1 量子ダメージ'
+
+[[rules]]
+msgid  = '(\s*)Critical Damage(\s*)$'
+msgstr = '\1クリティカルダメージ\2'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? Critical Damage$'
+msgstr = '\1 クリティカルダメージ'
+
+[[rules]]
+msgid  = 'Critical Damage([+-]\d+%?)$'
+msgstr = '\1 クリティカルダメージ'
+
+[[rules]]
+msgid  = '(\s*)Poisoning(\s*)$'
+msgstr = '\1毒\2'
+
+[[rules]]
+msgid  = '(\s*)Poisoning Damage(\s*)$'
+msgstr = '\1毒ダメージ\2'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? Poisoning Damage$'
+msgstr = '\1 毒ダメージ'
+
+[[rules]]
+msgid  = 'Poisoning Damage([+-]\d+%?)$'
+msgstr = '\1 毒ダメージ'
+
+[[rules]]
+msgid  = '(\s*)Poisoning Damage Interval(\s*)$'
+msgstr = '\1毒ダメージ間隔\2'
+
+[[rules]]
+msgid  = '(\s*)Penetration(\s*)$'
+msgstr = '\1貫通\2'
+
+[[rules]]
+msgid  = '(\s*)Penetration Damage(\s*)$'
+msgstr = '\1貫通ダメージ\2'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? Penetration Damage$'
+msgstr = '\1 貫通ダメージ'
+
+[[rules]]
+msgid  = 'Penetration Damage([+-]\d+%?)$'
+msgstr = '\1 貫通ダメージ'
+
+[[rules]]
+msgid  = '(\s*)Penetration Count(\s*)$'
+msgstr = '\1貫通数\2'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? Penetration Count$'
+msgstr = '\1 貫通数'
+
+[[rules]]
+msgid  = 'Penetration Count([+-]\d+%?)$'
+msgstr = '\1 貫通数'
+
+[[rules]]
+msgid  = '(\s*)Critical hit rate(\s*)$'
+msgstr = '\1クリティカル率\2'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? Critical hit rate$'
+msgstr = '\1 クリティカル率'
+
+[[rules]]
+msgid  = 'Critical hit rate([+-]\d+%?)$'
+msgstr = '\1 クリティカル率'
+
+[[rules]]
+msgid  = '(\s*)Life regeneration(\s*)$'
+msgstr = '\1ライフ再生\2'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? Life regeneration$'
+msgstr = '\1 ライフ再生'
+
+[[rules]]
+msgid  = 'Life regeneration([+-]\d+%?)$'
+msgstr = '\1 ライフ再生'
+
+[[rules]]
+msgid  = '(\s*)Life absorption(\s*)$'
+msgstr = '\1ライフ吸収\2'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? Life absorption$'
+msgstr = '\1 ライフ吸収'
+
+[[rules]]
+msgid  = 'Life absorption([+-]\d+%?)$'
+msgstr = '\1 ライフ吸収'
+
+[[rules]]
+msgid  = '(\s*)Attack Speed(\s*)$'
+msgstr = '\1攻撃速度\2'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? Attack Speed$'
+msgstr = '\1 攻撃速度'
+
+[[rules]]
+msgid  = 'Attack Speed([+-]\d+%?)$'
+msgstr = '\1 攻撃速度'
+
+[[rules]]
+msgid  = '(\s*)Field of View(\s*)$'
+msgstr = '\1視野\2'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? Field of View$'
+msgstr = '\1 視野'
+
+[[rules]]
+msgid  = 'Field of View([+-]\d+%?)$'
+msgstr = '\1 視野'
+
+[[rules]]
+msgid  = '(\s*)Attack Range(\s*)$'
+msgstr = '\1射程\2'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? Attack Range$'
+msgstr = '\1 射程'
+
+[[rules]]
+msgid  = 'Attack Range([+-]\d+%?)$'
+msgstr = '\1 射程'
+
+[[rules]]
+msgid  = '(\s*)Repel(\s*)$'
+msgstr = '\1ノックバック\2'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? Repel$'
+msgstr = '\1 ノックバック'
+
+[[rules]]
+msgid  = 'Repel([+-]\d+%?)$'
+msgstr = '\1 ノックバック'
+
+[[rules]]
+msgid  = '(\s*)Max(imum)? Health(\s*)$'
+msgstr = '\1最大ライフ\3'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? Max(imum)? Health$'
+msgstr = '\1 最大ライフ'
+
+[[rules]]
+msgid  = 'Max(imum)? Health([+-]\d+%?)$'
+msgstr = '\2 最大ライフ'
+
+[[rules]]
+msgid  = '(\s*)Movement Speed(\s*)$'
+msgstr = '\1移動速度\2'
+
+[[rules]]
+msgid  = '([+-]\d+%?)\.? Movement Speed$'
+msgstr = '\1 移動速度'
+
+[[rules]]
+msgid  = 'Movement Speed([+-]\d+%?)$'
+msgstr = '\1 移動速度'
+
+[[rules]]
+msgid  = '(\s*)Dodge(\s*)$'
+msgstr = '\1回避\2'
+
+[[rules]]
+msgid  = '(\s*)Laser(\s*)$'
+msgstr = '\1レーザー\2'
+
+[[rules]]
+msgid  = '(\s*)Firearm(\s*)$'
+msgstr = '\1銃器\2'
+
+[[rules]]
+msgid  = '(\s*)Physics(\s*)$'
+msgstr = '\1物理\2'
+
+[[rules]]
+msgid  = '(\s*)Gimballed(\s*)$'
+msgstr = '\1ジンバル\2'
+
+[[rules]]
+msgid  = '(\s*)Chaining(\s*)$'
+msgstr = '\1連鎖\2'
+
+[[rules]]
+msgid  = '(\s*)Intelligen(ce|t)(\s*)$'
+msgstr = '\1知性\3'
+
+[[rules]]
+msgid  = '(\s*)Seperated(\s*)$'
+msgstr = '\1分離\2'
+
+[[rules]]
+msgid  = '(\s*)Modify(\s*)$'
+msgstr = '\1補正\2'
+
+[[rules]]
+msgid  = '(\s*)Wave(\s*)$'
+msgstr = '\1ウェーブ\2'
+
+[[rules]]
+msgid  = '(\s*)Experience(\s*)$'
+msgstr = '\1経験値\2'
+
+[[rules]]
+msgid  = '(\s*)Experience bonus(\s*)$'
+msgstr = '\1経験値ボーナス\2'
+
+[[rules]]
+msgid  = '(\s*)Galaxy(\s*)$'
+msgstr = '\1銀河\2'
+
+[[rules]]
+msgid  = '(\s*)Alpha(\s*)$'
+msgstr = '\1アルファ\2'
+
+[[rules]]
+msgid  = '(\s*)Alpha Galaxy(\s*)$'
+msgstr = '\1アルファ銀河\2'
+
+[[rules]]
+msgid  = '(\s*)Beta(\s*)$'
+msgstr = '\1ベータ\2'
+
+[[rules]]
+msgid  = '(\s*)Beta Galaxy(\s*)$'
+msgstr = '\1ベータ銀河\2'
+
+[[rules]]
+msgid  = '(\s*)Gamma(\s*)$'
+msgstr = '\1ガンマ\2'
+
+[[rules]]
+msgid  = '(\s*)Gamma Galaxy(\s*)$'
+msgstr = '\1ガンマ銀河\2'
+
+[[rules]]
+msgid  = '(\s*)Delta(\s*)$'
+msgstr = '\1デルタ\2'
+
+[[rules]]
+msgid  = '(\s*)Delta Galaxy(\s*)$'
+msgstr = '\1デルタ銀河\2'
+
+[[rules]]
+msgid  = '(\s*)Epsilon(\s*)$'
+msgstr = '\1イプシロン\2'
+
+[[rules]]
+msgid  = '(\s*)Epsilon Galaxy(\s*)$'
+msgstr = '\1イプシロン銀河\2'
+
+[[rules]]
+msgid  = '(\s*)Zeta(\s*)$'
+msgstr = '\1ゼータ\2'
+
+[[rules]]
+msgid  = '(\s*)Zeta Galaxy(\s*)$'
+msgstr = '\1ゼータ銀河\2'
+
+[[rules]]
+msgid  = '(\s*)Kill every (\d+) enemies(\s*)$'
+msgstr = '\1敵を\2体倒す毎に\3'
+
+[[rules]]
+msgid  = '(\s*)Kill (\d+) enemies per kill(\s*)$'
+msgstr = '\1敵を\2体倒す毎に\3'

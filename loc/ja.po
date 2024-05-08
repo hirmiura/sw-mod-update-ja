@@ -1,0 +1,7691 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Hiroshi Miura <hirmiura@gmail.com>\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgctxt "/9145C0894A40160868C78395F66B0A2D"
+msgid "Experience value:"
+msgstr "経験値:"
+
+msgctxt "/4F6C7D124BF3C127DCD0AABF31DC1A8D"
+msgid "Extra for every 1 point of technology"
+msgstr "テクノロジー1点毎に追加"
+
+msgctxt "/AC330F0B45D9A9C625727990DBC09541"
+msgid "Extra for every 1 point of technology"
+msgstr "テクノロジー1点毎に追加"
+
+msgctxt "/DEDFCBF8409C71815D1822986C1E4068"
+msgid "Reduce"
+msgstr ""
+
+msgctxt "/AFC8FADD45E2E926D8169F96899ED5AE"
+msgid "%Critical hit rate"
+msgstr "%クリティカルヒット率"
+
+msgctxt "/BA0713E54C0DE9DDB3C1D0B57B1D9A40"
+msgid "(Laser halving)"
+msgstr "(レーザー半減)"
+
+msgctxt "/F607DC20484F36A3C0CC4FBC1E4B279B"
+msgid "(Laser halving)"
+msgstr "(レーザー半減)"
+
+msgctxt "/FD5D37D049164E1C2E219EA48CA489F7"
+msgid "(Wave "
+msgstr "(第"
+
+msgctxt "/94C03E52485C0DECA88CC1BF4104B3BF"
+msgid "(Half for melee)"
+msgstr "(近接半減)"
+
+msgctxt "/9F9583DB4356ECF64BE6F3B97CC8537F"
+msgid "(Reduce melee by half)"
+msgstr "(近接半減)"
+
+msgctxt "/DF61A201404D247A9B3173A5B810CF64"
+msgid "+1% damage"
+msgstr "+1% ダメージ"
+
+msgctxt "/357F10684D66CCA0C8C62985380808B2"
+msgid "+10% damage"
+msgstr "+10% ダメージ"
+
+msgctxt "/AA1E0F144B37758C068E9E8F1E3E6447"
+msgid "+10% damage"
+msgstr "+10% ダメージ"
+
+msgctxt "/AD79BFA24B266994FAA5DD9B27258D4D"
+msgid "+10% damage"
+msgstr "+10% ダメージ"
+
+msgctxt "/B28A6FE846ECC5ADF30773A3EA273D76"
+msgid "+1 Space Gem"
+msgstr "+1 スペースジェム"
+
+msgctxt "/6B141AE24864087722EEAEA2A00CC703"
+msgid "+1 Armor"
+msgstr "+1 アーマー"
+
+msgctxt "/C0DA6E3A41EF7694D7B922A4563DA437"
+msgid "+1 Armor"
+msgstr "+1 アーマー"
+
+msgctxt "/B27D29044F378B8DA03735A8F171236D"
+msgid "+Life regeneration"
+msgstr "+1 ライフ再生"
+
+msgctxt "/740B85D543C4DD6DC35EBD982D14092D"
+msgid "+1. Technology"
+msgstr "+1 テクノロジー"
+
+msgctxt "/69B62A8346E8F463108DD9A3777F6900"
+msgid "+1. Operation"
+msgstr "+1 経営"
+
+msgctxt "/0BC7F4B045CCE32E427F22B87B334AB2"
+msgid "+1. Luck"
+msgstr "+1 運"
+
+msgctxt "/A5EDB50343BB6A55511DB480E58B26D6"
+msgid "+1. Luck"
+msgstr "+1 運"
+
+msgctxt "/5A44DE9B4E33621447A7938DC8D797ED"
+msgid "+1 melee damage"
+msgstr "+1 近接ダメージ"
+
+msgctxt "/1168E0F147157FEF47F9F8A26088C2D4"
+msgid "+1. Remote damage"
+msgstr "+1 遠隔ダメージ"
+
+msgctxt "/D580934F4C2345F87FF759972DDBD4D3"
+msgid "+1 Quantum damage"
+msgstr "+1 量子ダメージ"
+
+msgctxt "/1230A9224C19526F683CC795DDF020A5"
+msgid "+20% critical hit rate"
+msgstr "+20% クリティカル率"
+
+msgctxt "/CB8A23CF4D305350EE72F3AE761885FE"
+msgid "+20% critical hit rate"
+msgstr "+20% クリティカル率"
+
+msgctxt "/80CE2D8C42BD4BC28B4DC9854C36047C"
+msgid "+3% damage+3% field of view"
+msgstr "+3% ダメージ +3% 視野"
+
+msgctxt "/2B0DAC784F0331E61AE0AC811A28357D"
+msgid "+30% Attack Speed"
+msgstr "+30% 攻撃速度"
+
+msgctxt "/A7EE59D34C72243C33F002B7FA8DDBCB"
+msgid "+5% life absorption"
+msgstr "+5% ライフ吸収"
+
+msgctxt "/9EAC8C1C4C5E455F751831BF7EFAC47D"
+msgid "+5 Space Gems"
+msgstr "+5 スペースジェム"
+
+msgctxt "/99DA8090448B20F595C6F68D650D6554"
+msgid "+5 Attack Range"
+msgstr "+5 射程"
+
+msgctxt "/14ACF07B47C80DBCCE6B54B288A21C3D"
+msgid "-1 Business"
+msgstr "-1 経営"
+
+msgctxt "/989650CF41B0B1A766A7A99EDBC3DFCC"
+msgid "-1 Luck"
+msgstr "-1 運"
+
+msgctxt "/E42E6CD24121208BCD9CD48D3BA5ED2C"
+msgid "1% collection speed"
+msgstr "1% 収集速度"
+
+msgctxt "/639BE37D4336705B6A22AEAAEC598986"
+msgid "Kill any leader within 15 seconds"
+msgstr "任意のボスを15秒以内に倒す"
+
+msgctxt "/AEFFDA03414017D27C18AE9EE35C3C1E"
+msgid "1 piece"
+msgstr ""
+
+msgctxt "/1336F8BD4FB7994AB96E18A090521ED8"
+msgid "1 grid"
+msgstr ""
+
+msgctxt "/F06C562C4158540454DB02A296F5521C"
+msgid "1 Technology"
+msgstr "1 テクノロジー"
+
+msgctxt "/DFF291E249740951A736A18C7C9D4EA2"
+msgid "Level 1 chip"
+msgstr ""
+
+msgctxt "/F4670BF4484166C4A41439B288F61181"
+msgid "1 speed"
+msgstr "1 速度"
+
+msgctxt "/8FD0BE204B519A731B3937833AD88F4F"
+msgid "2"
+msgstr ""
+
+msgctxt "/2C3724544B7F5E72B5EE8299EE65FF76"
+msgid "2 units"
+msgstr ""
+
+msgctxt "/D2246F0D430F07499B2312A692D8B989"
+msgid "2 times"
+msgstr ""
+
+msgctxt "/71A036D2490B1B273ABA399DA3F5B751"
+msgid "Level 2 chip"
+msgstr ""
+
+msgctxt "/0F62FD894D07731101EDC9A600383B04"
+msgid "3% probability of upgrade failure, unit damage and disappearance"
+msgstr ""
+
+msgctxt "/1769EA4B43DC2F0E01EEB79D01110402"
+msgid "3"
+msgstr ""
+
+msgctxt "/9BD0119C4E6E26CCA29FF5A3B89EA0C9"
+msgid "Level 3 chip"
+msgstr ""
+
+msgctxt "/46BABD814BDA16CD5D1735B5F7F32FC3"
+msgid "40% damage"
+msgstr "40% ダメージ"
+
+msgctxt "/F8CB20F34F32FC3653D6E0BE74011768"
+msgid "45% damage"
+msgstr "45% ダメージ"
+
+msgctxt "/C21E81B244AE8A03EF78BB96F917B89D"
+msgid "4"
+msgstr ""
+
+msgctxt "/8967C3184BE761EB7724C68F6C7F07D1"
+msgid "Level 4 chip"
+msgstr ""
+
+msgctxt "/9813BA594F14BA283FA6878602FFFAE8"
+msgid "5% probability"
+msgstr ""
+
+msgctxt "/FDBA7A464B3B84B94218B89B9AAA62E2"
+msgid "50% damage"
+msgstr "50% ダメージ"
+
+msgctxt "/A63AFD6848609D81C9E0768793B641C7"
+msgid "55% damage"
+msgstr "55% ダメージ"
+
+msgctxt "/7DD2660C42A5C02FE9D832BC51F5835C"
+msgid "5"
+msgstr ""
+
+msgctxt "/DC142140461131D44559DBA2CA52583F"
+msgid "5 pieces"
+msgstr ""
+
+msgctxt "/337696FD480B77305CE1F58E77D3B8AC"
+msgid "Level 5 chip"
+msgstr ""
+
+msgctxt "/9C9E311D43C98AEE719419954161BB8B"
+msgid "60% damage"
+msgstr "60% ダメージ"
+
+msgctxt "/F3AE04B249BB40E26808D69F2F7F57A7"
+msgid "6"
+msgstr ""
+
+msgctxt "/D64C604948A5DE5EE4255F95C5A19908"
+msgid "Level 6 chip"
+msgstr ""
+
+msgctxt "/66961B9D45CBEDBF750E7E860370F817"
+msgid "Trispectral cannon"
+msgstr ""
+
+msgctxt "/5BA630C545D5F82C3317D19291E03BB2"
+msgid "Trispectral Cannon V"
+msgstr ""
+
+msgctxt "/01F1738E4C9CAE95D64C8CA409C75D76"
+msgid "Trispectral Cannon VI"
+msgstr ""
+
+msgctxt "/CEBB9C9848A5D212EE1C6992F7CD934C"
+msgid "Previous Wave of Damage"
+msgstr ""
+
+msgctxt "/3287897B41ADCC993ADE3087DC8D721C"
+msgid "Upper limit to current value"
+msgstr ""
+
+msgctxt "/8142A82A417896EF2679088BBA8D5DF4"
+msgid "Upper limit to current value"
+msgstr ""
+
+msgctxt "/F217D68F4607894E0E553BB79070A49E"
+msgid "The next wave of exploration starts with 1 health point"
+msgstr ""
+
+msgctxt "/841C01814C27BD8C075747BFCBE01F39"
+msgid ""
+"In the next wave of exploration, randomly summon 1 leader (after killing, "
+"you will definitely receive a golden item chest)"
+msgstr ""
+
+msgctxt "/1F8581BF437BF5966A7885803A98F187"
+msgid "Number of leaders in the next wave"
+msgstr ""
+
+msgctxt "/223B89F3446C7A41C3B0EAA2EED586E2"
+msgid "Not Upgradable"
+msgstr ""
+
+msgctxt "/4FB9364743A92D337CCC99AC68A25E83"
+msgid "Do not carry any crew to clear customs"
+msgstr ""
+
+msgctxt "/E6230DA44FB0EB407126799D1267946E"
+msgid "Unidentified jet"
+msgstr ""
+
+msgctxt "/B1961CCA496D7CDE564E8C808A970D75"
+msgid "Immortal Knight"
+msgstr ""
+
+msgctxt "/3D0057AC4139CAB1AF985B92C9075439"
+msgid "Unlimited"
+msgstr ""
+
+msgctxt "/EBCDB47D4D15FB233144479B95217408"
+msgid "Focus Matrix"
+msgstr ""
+
+msgctxt "/F261BBA5496620E364ED99A5E2F6E4EB"
+msgid "Focus Matrix IV"
+msgstr ""
+
+msgctxt "/F50DE316463B74CBC0A2CAA3B49B7D1C"
+msgid "Focus Matrix V"
+msgstr ""
+
+msgctxt "/D07877104B820F3429110BBB770DBA9C"
+msgid "Focus Matrix VI"
+msgstr ""
+
+msgctxt "/7D93C884444EE1520D43B0B193CC84E7"
+msgid " space gem"
+msgstr " スペースジェム"
+
+msgctxt "/9810A3D9495BF56029AE048138FE5F5B"
+msgid " space gem"
+msgstr " スペースジェム"
+
+msgctxt "/2799C2EA4CA77375F3BBA8AF3032F335"
+msgid "Units"
+msgstr "ユニット"
+
+msgctxt "/325FC8784C66000EB512A69EEB71D65B"
+msgid "Chips"
+msgstr "チップ"
+
+msgctxt "/BF6AC759417F756DEF007191B649BC6E"
+msgid "Poisoning"
+msgstr "毒"
+
+msgctxt "/B91F00944FADDEA4D9CE5AA7EB10F003"
+msgid "Poisoning damage"
+msgstr "毒ダメージ"
+
+msgctxt "/0DAF58194B0822A644B5C4A017B50D9D"
+msgid "Poisoning damage interval"
+msgstr "毒ダメージ間隔"
+
+msgctxt "/4C70A1E2457BF0A376EA009BFBF90A81"
+msgid "Poisoning damage: 1+50% melee damage+50% ranged damage"
+msgstr "毒ダメージ: 1+50% 近接ダメージ +50% 遠隔ダメージ"
+
+msgctxt "/227AA6C84F7CC97842FE40B547A31176"
+msgid "Duration of poisoning"
+msgstr "毒持続時間"
+
+msgctxt "/0CF6DED542A9045BE6CE3BA22EE94EE3"
+msgid "Medium load"
+msgstr "中負荷"
+
+msgctxt "/F7D47F734174F9107DE06CAFCFEC4A0D"
+msgid "A bumper harvest"
+msgstr ""
+
+msgctxt "/4227D64942A36E5BA096C9B7BF3C36B9"
+msgid "Created a multilingual logo for the game at no charge."
+msgstr ""
+
+msgctxt "/7B3D16844805545C084897AA606A1C8C"
+msgid "Provided a large number of bugs and suggestions for the game feedback."
+msgstr ""
+
+msgctxt "/0667F6BC4D5208CD4A93A380AF768749"
+msgid "Main Menu"
+msgstr "メインメニュー"
+
+msgctxt "/3002E0FE4E56B7F841725D9D080A5A08"
+msgid "Main Menu"
+msgstr "メインメニュー"
+
+msgctxt "/6DB237F34ABB52371FC461B923CF138A"
+msgid "Optimistic"
+msgstr ""
+
+msgctxt "/85AB155D4058E06F16DFABB642674D95"
+msgid "Gimbal"
+msgstr "ジンバル"
+
+msgctxt "/96DFC4414490CAB97DF6B99831DF354A"
+msgid "Cloud based collection"
+msgstr ""
+
+msgctxt "/B873DF044DE3BDDAACEA63AA8FB84A2F"
+msgid "Exchange dimension"
+msgstr ""
+
+msgctxt "/C858DE064DC0CEDAE33D7B81A0DDFE3D"
+msgid "Transaction"
+msgstr ""
+
+msgctxt "/5F4195014962517EB57B749796D8E27D"
+msgid "Artificial intelligence"
+msgstr ""
+
+msgctxt "/287C82C24D67A21F996C47A2FBA3E3F9"
+msgid ""
+"Starting from the 10th wave of exploration, with an initial possession of "
+"1200 space gemstones"
+msgstr ""
+
+msgctxt "/9CB25C144E29A974B0B953A56BEE78B2"
+msgid ""
+"Starting from the 20th wave of exploration, with an initial possession of "
+"3000 space gemstones"
+msgstr ""
+
+msgctxt "/0F6C012C4F9D3ADAC71EA5A3D519E472"
+msgid "warehouse"
+msgstr "倉庫"
+
+msgctxt "/AE453BDF46990FC04CBBBEAAE2A6514B"
+msgid "warehouse"
+msgstr "倉庫"
+
+msgctxt "/277F6F834758EBC158281E995E100312"
+msgid "End the battle with 1 health point"
+msgstr ""
+
+msgctxt "/54275AD546953ED974D2ACA380EA0C17"
+msgid "Start exploring with 50% health"
+msgstr "50%のライフで探査を始める"
+
+msgctxt "/04B5D4174A1233E6EDBC07A70B12E4F5"
+msgid "Price"
+msgstr "価格"
+
+msgctxt "/5D20D0D841BDEE45F26AF8B3DA1E8AE5"
+msgid "Epsilon"
+msgstr "イプシロン"
+
+msgctxt "/680D685F4F093CA7AA0FEDA557D71198"
+msgid "Epsilon "
+msgstr "イプシロン "
+
+msgctxt "/8823BE544F3EF48417B5998BFA07FB55"
+msgid "Epsilon "
+msgstr "イプシロン "
+
+msgctxt "/0906B81A42FF8907A103DDB1BE149EED"
+msgid "Epsilon galaxy"
+msgstr "イプシロン銀河"
+
+msgctxt "/67554B32455D1976E478C881A4D365AD"
+msgid "Epsilon galaxy"
+msgstr "イプシロン銀河"
+
+msgctxt "/EAD4B2894C360C6B1066D1B793C6ECBF"
+msgid "Epsilon galaxy"
+msgstr "イプシロン銀河"
+
+msgctxt "/60EDD70442B0B87297857E93907E98FD"
+msgid "Unlock after clearing the Epsilon galaxy"
+msgstr ""
+
+msgctxt "/2E12B35D457A58BAF0A2828707B4A192"
+msgid "Ambush Hunter"
+msgstr ""
+
+msgctxt "/810B1CE141FF0EB72F978BA1AFD0E58C"
+msgid "Ambush Hunter II"
+msgstr ""
+
+msgctxt "/000C9730483D3F21A3A7B58BB6DA40B1"
+msgid "Ambush Hunter III"
+msgstr ""
+
+msgctxt "/BFFFCE7D40FF2D8138D86A81F090BF35"
+msgid "Ambush Hunter IV"
+msgstr ""
+
+msgctxt "/E8F783004A48364CF299409D4B14A826"
+msgid "Ambush Hunter V"
+msgstr ""
+
+msgctxt "/13B19A884A1367B72C3EC2AA14618119"
+msgid "Ambush Hunter VI"
+msgstr ""
+
+msgctxt "/6A6A1A8543BF93A3DE6340B32D208475"
+msgid "Legendary"
+msgstr "伝説"
+
+msgctxt "/AFAF258448C3C12A2E800BA99E5D634E"
+msgid "Legend"
+msgstr "伝説"
+
+msgctxt "/37710EB04ED9D6E6D907DCBCAA217D36"
+msgid "Damage"
+msgstr "ダメージ"
+
+msgctxt "/4A61610C4A0A325C732CB0B4759F5F9E"
+msgid "Damage"
+msgstr "ダメージ"
+
+msgctxt "/60FEF68E4CDA4E5613CDCEA96500A7E2"
+msgid "Damage"
+msgstr "ダメージ"
+
+msgctxt "/6C11AAF94A9501FAB7794B9779A17EF6"
+msgid "Damage"
+msgstr "ダメージ"
+
+msgctxt "/85A2160E4A03DC28167569A8880CFFE3"
+msgid "Damage"
+msgstr "ダメージ"
+
+msgctxt "/F1F0B9E442E5C967E041EAB1BCA3412C"
+msgid "Injury"
+msgstr ""
+
+msgctxt "/763062CB4EC37A14C471ACB9D52D6C46"
+msgid "Damage+1%"
+msgstr "+1% ダメージ"
+
+msgctxt "/CF6EC1AD4A322FB11F1A96B28196B60C"
+msgid "Damage+3%, HP absorption+1%, HP regeneration+1"
+msgstr "+3% ダメージ, +1% ライフ吸収, +1 ライフ再生"
+
+msgctxt "/14AAC65640E649242AEC2488E3DDF70A"
+msgid "Damage+5%"
+msgstr "+5% ダメージ"
+
+msgctxt "/00BC159A4A1DC061EABB8CB2DDA7681B"
+msgid "Damage number"
+msgstr ""
+
+msgctxt "/1A338C6442695F8C3AE2B1AB5BCA7DA0"
+msgid "Gamma Ray"
+msgstr ""
+
+msgctxt "/F00DFE65467DE4FCB1DA459AAB80FCC8"
+msgid "Gamma Ray II"
+msgstr ""
+
+msgctxt "/C5C02F41401E821F8B3712B5E53E857D"
+msgid "Gamma Ray III"
+msgstr ""
+
+msgctxt "/105DB458460DED9403DF0A9A220FF264"
+msgid "Gamma Ray IV"
+msgstr ""
+
+msgctxt "/6264EB5B4AF23116D4BDE08D19D87AF8"
+msgid "Gamma Ray V"
+msgstr ""
+
+msgctxt "/023E7C3C4BA04F674831E5A0AC8AF199"
+msgid "Gamma Ray VI"
+msgstr ""
+
+msgctxt "/B07131F0425A0A3222ADF191801CCF19"
+msgid "Gamma"
+msgstr "ガンマ"
+
+msgctxt "/DB15FBF347175C6218D060B49B911B9C"
+msgid "Gamma "
+msgstr "ガンマ "
+
+msgctxt "/F24D053541DCFBF7EB3CF39A83205CBE"
+msgid "Gamma "
+msgstr "ガンマ "
+
+msgctxt "/0FA8F75C42FED4AD773177A432FC0AA0"
+msgid "Gamma galaxy"
+msgstr "ガンマ銀河"
+
+msgctxt "/6967259848EC62655B350E9B47CEA386"
+msgid "Gamma galaxy"
+msgstr "ガンマ銀河"
+
+msgctxt "/D96B62FD4F4215DFB805438892D2FC90"
+msgid "Gamma galaxy"
+msgstr "ガンマ銀河"
+
+msgctxt "/507FBF9E458DDA26B0E554B7EB55D3B9"
+msgid "Unlock Gamma Galaxy after clearance"
+msgstr ""
+
+msgctxt "/DB2E3845467260677111E2BF51F1B1D8"
+msgid "You currently do not have the ability to regenerate life"
+msgstr ""
+
+msgctxt "/ACFD7D1F4DAE4FECD70EE0B07F5F5932"
+msgid ""
+"You have modules that can be assembled. Would you like to skip assembly and "
+"go directly to exploration?"
+msgstr ""
+
+msgctxt "/019EAFC84EE5BBD368D7759D9FC8DBB6"
+msgid ""
+"You have unassembled modules. Would you like to proceed with exploration anyway?\n"
+" (Unassembled modules will be stored in the warehouse.)"
+msgstr ""
+
+msgctxt "/9D670F4D46B7A62C9B5E73834B69374A"
+msgid ""
+"You have unassembled modules. Would you like to proceed with exploration anyway?\n"
+" (Unassembled modules will be stored in the warehouse.)"
+msgstr ""
+
+msgctxt "/C1D5AEEC40353E728824839E7A6D8F67"
+msgid "Increase all damage you cause by "
+msgstr ""
+
+msgctxt "/5F264CCB4E4D8376E710EC96002DE5C6"
+msgid "Reduce all damage you cause by "
+msgstr ""
+
+msgctxt "/BA21EBB3485E84D9EE9784AD9C74DA7A"
+msgid ""
+"Poison all enemies touched by the cursor, causing damage once per second for"
+" 5 seconds"
+msgstr ""
+
+msgctxt "/1975C305496BADF1D7F2EFB76096A091"
+msgid "Immobilize all enemies touched by the cursor for 0.5 seconds"
+msgstr ""
+
+msgctxt "/F7549E904A8390EAC99DF08F37A5A3EB"
+msgid "Enable bullets to automatically track enemies"
+msgstr ""
+
+msgctxt "/09E5B4B0403603E17D1724AA653686FB"
+msgid "Apostle"
+msgstr ""
+
+msgctxt "/29604C8341B6D823E602E6B9AB534F0E"
+msgid "Put the enemy in an \"electrified\" state for 3 seconds"
+msgstr ""
+
+msgctxt "/5680631B45890272F508459E161C3B82"
+msgid "Put the enemy in a stationary state for 0.5 seconds"
+msgstr ""
+
+msgctxt "/963A55A64CB2149696B6D8BEA3261465"
+msgid "Use "
+msgstr ""
+
+msgctxt "/4B29BF254380A767FE24D68C17C8D2BD"
+msgid "Challenge the endless abyss with the current assembly? "
+msgstr ""
+
+msgctxt "/F3FB0B2E4D576C075D991ABC8C077AAE"
+msgid "Poison the target, causing damage once per second for 5 seconds"
+msgstr ""
+
+msgctxt "/F04DE4C141B044BCF5435F9A2C47C3D1"
+msgid ""
+"Causes the target to enter a burning state, dealing burning damage every 0.5"
+" seconds for 3 seconds"
+msgstr ""
+
+msgctxt "/439B03254FFE02A72F15D6AAAA966976"
+msgid "Beacon"
+msgstr ""
+
+msgctxt "/F3E776F64148A1CE9EE318A26AA66774"
+msgid "Modify"
+msgstr "補正"
+
+msgctxt "/759FBD914C210CC2BAC359A422573E9C"
+msgid "Overlooking the sky"
+msgstr ""
+
+msgctxt "/676A6B8F44589D46F44941A834A3DE99"
+msgid "When stopping movement, per second"
+msgstr ""
+
+msgctxt "/31A738B4485510979BCDE598D546EA07"
+msgid "Raid"
+msgstr ""
+
+msgctxt "/ACDF2EC24DF2CA9D10868A8AF8FBB08F"
+msgid "Charging station"
+msgstr ""
+
+msgctxt "/EFEBB555424215DDA8FB5ABC11D85CFC"
+msgid "Charging"
+msgstr ""
+
+msgctxt "/4B4CAE0A4BBC833777C5EE9E7A5FEBD0"
+msgid "Optical barrier"
+msgstr ""
+
+msgctxt "/BAE70AED4ABCA6E35D4C51A6DB58B473"
+msgid "Radiance"
+msgstr ""
+
+msgctxt "/A4C771784AEC04B4AC0D08B5547664C8"
+msgid "Light edge induction"
+msgstr ""
+
+msgctxt "/9E06D4A9411ED7ABF2462E8C4E618779"
+msgid "Spectral limits"
+msgstr ""
+
+msgctxt "/D993E99F421F168CA051629B98862C4C"
+msgid "Radiance"
+msgstr ""
+
+msgctxt "/C98A7D294EBE839ECFBEF0AE8C78ABF8"
+msgid "Immunization"
+msgstr ""
+
+msgctxt "/4AD0F57D44F8281A702CDBB2B4E59553"
+msgid "Immune to all enemies' laser damage"
+msgstr ""
+
+msgctxt "/84A50D6A4DDC9CD32FB4D0929A779BF1"
+msgid "Free refresh"
+msgstr "無料更新"
+
+msgctxt "/F745AD3248527D219EF4FF81BE3700DE"
+msgid "Free refresh"
+msgstr "無料更新"
+
+msgctxt "/F7D82B394125FB8F6D7D6697E17329A6"
+msgid "Free refresh"
+msgstr "無料更新"
+
+msgctxt "/AAF26EBE484A86843E34F398A30E8F20"
+msgid "Full screen"
+msgstr "フルスクリーン"
+
+msgctxt "/4AA5AAB34D555F9C9CA6E5BAEA8AAE67"
+msgid "Full stack development"
+msgstr ""
+
+msgctxt "/CFE57F404B96D81B00D184A61A598A48"
+msgid "Global Leaderboard"
+msgstr ""
+
+msgctxt "/E8203F40440072EAF50996A09EFD44F5"
+msgid "Omnipotent Craft"
+msgstr ""
+
+msgctxt "/3DED2186434D4EC82F21CE8AA0ABBD38"
+msgid "Fully automatic"
+msgstr "全自動"
+
+msgctxt "/4243B068412DE8533FE118B979B283C9"
+msgid "Enable All"
+msgstr "すべて有効"
+
+msgctxt "/111EE2A0427A1FDB408BA1B3E46ACF14"
+msgid "Disable All"
+msgstr "すべて無効"
+
+msgctxt "/5FCF8BCA486F35C811B3629858337CE5"
+msgid "Comprehensive upgrade"
+msgstr ""
+
+msgctxt "/49D3A5624652D1D2B1AF00B4FFEDED83"
+msgid ""
+"It has multiple functions that can reduce the special effects of modifying "
+"the core, chip, and unit, and reduce technological damage. Currently, "
+"technology:"
+msgstr ""
+
+msgctxt "/67976D11478B29F76588F58D10E1DCE1"
+msgid ""
+"It has multiple functions that can enhance the special effects of the core, "
+"chip, and unit, and increase technological damage. Currently, technology:"
+msgstr ""
+
+msgctxt "/40F9C0BC4A25111AB54A8898018054E0"
+msgid "Internal and external cultivation"
+msgstr ""
+
+msgctxt "/78B75B7F473E207DD4FA46B8205F2A3E"
+msgid "Internal drive"
+msgstr ""
+
+msgctxt "/B7172CC644E272CD25A3268D3150EC87"
+msgid "War Again"
+msgstr ""
+
+msgctxt "/20C0CE7348ECF6DDA7EB43BAE157584F"
+msgid "Ice and snow"
+msgstr ""
+
+msgctxt "/D03BF1D547B92C4147A5D0A70719E20D"
+msgid "Ice Cone Flyer"
+msgstr ""
+
+msgctxt "/ED259FB244BB7C689D219B8CBDBA6ECB"
+msgid "Ice Cone Flyer II"
+msgstr ""
+
+msgctxt "/31A492EB4E49E201D979308E6374D62C"
+msgid "Ice Cone Flyer III"
+msgstr ""
+
+msgctxt "/4CD435324CF9A480EE8002893A24ED54"
+msgid "Ice Cone Flyer IV"
+msgstr ""
+
+msgctxt "/EDECAC7D43D93B6FCF88A3A58E61088F"
+msgid "Ice Cone Flyer V"
+msgstr ""
+
+msgctxt "/B720B6454C3B06C520855FB9D0B50740"
+msgid "Ice Cone Flyer VI"
+msgstr ""
+
+msgctxt "/3388C18744A0D4D9EA5D439EB2BAC27D"
+msgid "Sprint"
+msgstr ""
+
+msgctxt "/BCD3600B41281390F6BAB494851CE5BB"
+msgid "Duel"
+msgstr ""
+
+msgctxt "/02F1D90E45A9DE8C5C2A6CAB6A5A6DD9"
+msgid "Cooldown"
+msgstr "クールダウン"
+
+msgctxt "/BDBE8E1844EC72A51CDF54B383DF6847"
+msgid "Frost cracking"
+msgstr ""
+
+msgctxt "/A44EFF464B52A9DEC8E75BAE32E74459"
+msgid "Ready"
+msgstr ""
+
+msgctxt "/2350FCF842A725C6D15CB5B929C593FD"
+msgid "Gazing into the abyss"
+msgstr ""
+
+msgctxt "/6813123245D363F4BE7DC689EE86A5D1"
+msgid "Triumph"
+msgstr ""
+
+msgctxt "/7A2668B040AE228C5A99C9BF0A1CC3F7"
+msgid "Miracle occurs"
+msgstr ""
+
+msgctxt "/C8A31FF24CC3F0E0F19F2E95566216D6"
+msgid "Defeat the"
+msgstr ""
+
+msgctxt "/29772C994254825CAC05698D538AD308"
+msgid "Repel"
+msgstr "ノックバック"
+
+msgctxt "/F16D29ED401A07C44CC35EA3DE2F08F6"
+msgid "Repel"
+msgstr "ノックバック"
+
+msgctxt "/EA17F9634C72E763816559AB453DFE62"
+msgid "Repel+100"
+msgstr "+100 ノックバック"
+
+msgctxt "/92C4801A451D3F8C8AFBE8B4869AED79"
+msgid "Repel+150"
+msgstr "+150 ノックバック"
+
+msgctxt "/A079A0FA4CDF9D3BD19005A458F5A132"
+msgid "Repel+200"
+msgstr "+200 ノックバック"
+
+msgctxt "/F998172340BD3A401417ECB48EF6A523"
+msgid "Repel+250"
+msgstr "+250 ノックバック"
+
+msgctxt "/2705442C46030CF14CC16F9EDDFCADA8"
+msgid "Repel+50"
+msgstr "+50 ノックバック"
+
+msgctxt "/79D86CDE4C9D55882DCDE39A65F51EEF"
+msgid "Reduced repel force"
+msgstr ""
+
+msgctxt "/F4DDB23147BA70A9FBE660867E6011DC"
+msgid "Increased repel power"
+msgstr ""
+
+msgctxt "/88708F214D91593B97B8398E992D37FB"
+msgid "Seperated"
+msgstr "分離"
+
+msgctxt "/CC01C65944411D3AEF4818A66096B538"
+msgid "Seperated"
+msgstr "分離"
+
+msgctxt "/E57CC09D40438D8E77D63F89FAD78DC1"
+msgid "Seperated"
+msgstr "分離"
+
+msgctxt "/E0A2D19B46833C26B051099D74AD78CD"
+msgid "Separation Ejector"
+msgstr ""
+
+msgctxt "/7BA49A8A4483FDED595AC289DB01E3C6"
+msgid "Separation Ejector II"
+msgstr ""
+
+msgctxt "/03ED53BA4D8B3F2CBF4B3F96CE34E491"
+msgid "Separation Ejector III"
+msgstr ""
+
+msgctxt "/05D7635D4C4AB470450E6D968AD9D4CF"
+msgid "Separation Ejector IV"
+msgstr ""
+
+msgctxt "/D5D34B4445B9B432EF4C4697EB61D563"
+msgid "Separation Ejector V"
+msgstr ""
+
+msgctxt "/FD771E1547AF19C93353639E6347B594"
+msgid "Separation Ejector VI"
+msgstr ""
+
+msgctxt "/B0FE3F05411EC605636BB398958918D5"
+msgid "Separation turret"
+msgstr ""
+
+msgctxt "/7F3B5C2C4E057418DA335E9B69BFC79B"
+msgid "Separation turret II"
+msgstr ""
+
+msgctxt "/C196BE144C8B37F11292A9B5D0EEDC84"
+msgid "Separation turret III"
+msgstr ""
+
+msgctxt "/D2258C454BBA23D325BEBC800C962140"
+msgid "Separation turret IV"
+msgstr ""
+
+msgctxt "/5D6846204F9D3C9BE2501CA83F270A78"
+msgid "Separation turret  V"
+msgstr ""
+
+msgctxt "/6F9A9BFE4FA887910FB2C9B33200D894"
+msgid "Separation turret VI"
+msgstr ""
+
+msgctxt "/11F4B25B400325A3690CD1A41F9848CD"
+msgid "Creative Workshop"
+msgstr ""
+
+msgctxt "/03EE36C949ECC97D35E73ABE3584C857"
+msgid "Innovation"
+msgstr ""
+
+msgctxt "/7233050E4E8AD87B9EDC128CFED7A807"
+msgid "Initially capable of equipping level 4 units"
+msgstr ""
+
+msgctxt "/C7DDF0214C9376F181AC26BB2F2866C4"
+msgid "Initially capable of equipping Level 5 units"
+msgstr ""
+
+msgctxt "/FFF80B9243DBCD8E78C25D8FAEF08767"
+msgid "Initially capable of equipping level 6 units"
+msgstr ""
+
+msgctxt "/955054154E325461D875D581A2465D7F"
+msgid "Initially ready for assembly"
+msgstr ""
+
+msgctxt "/1F8AE34845446FDF9923C4B24C131D09"
+msgid "Initially, all unlocked units can be selected"
+msgstr ""
+
+msgctxt "/9B8DBCD245E1F68CD7C3839C46763F78"
+msgid "Initially unable to carry any crew members"
+msgstr ""
+
+msgctxt "/6201E82E4C9D2108197FEF9999907F06"
+msgid "Refresh"
+msgstr "更新"
+
+msgctxt "/6F682326458FE235044430BEA05F66E0"
+msgid "Refresh"
+msgstr "更新"
+
+msgctxt "/6AA5766E46F1509A693145962386A6EF"
+msgid "Remaining opportunities:"
+msgstr ""
+
+msgctxt "/9130E8814AE248F83FE92F96F1FF877E"
+msgid "Power specialization"
+msgstr ""
+
+msgctxt "/0AF16BFF485F979D3C30E98E5285E963"
+msgid "Power growth"
+msgstr ""
+
+msgctxt "/389973994578320ED32D6A94997F8729"
+msgid "Power transformation"
+msgstr ""
+
+msgctxt "/862D082D48218526B1A75BBBF91128AB"
+msgid "Power device"
+msgstr ""
+
+msgctxt "/2E123C254442F628E00B3AB2787C2D43"
+msgid "Power Device III"
+msgstr ""
+
+msgctxt "/7CC15771484D7B2AF12CF4B1924EEFBB"
+msgid "Power Device IV"
+msgstr ""
+
+msgctxt "/B4AD5EA64A4B17E3C7397B97EE1BF432"
+msgid "Power Device V"
+msgstr ""
+
+msgctxt "/23A00EAB4802BE74805D8E9F16271D78"
+msgid "Power Device VI"
+msgstr ""
+
+msgctxt "/D27AEE644F372DE4F714EC894B55FEE3"
+msgid "Cannon Shock Cannon"
+msgstr ""
+
+msgctxt "/61D8E1A7479A013AAAEC56BDE358DC7D"
+msgid "Cannon Shock Cannon II"
+msgstr ""
+
+msgctxt "/54B3471E449FE44020FE5AA4D5B6532D"
+msgid "Cannon Shock Cannon III"
+msgstr ""
+
+msgctxt "/4A833E804FDB50B3E4DB148ACF631086"
+msgid "Cannon Shock Cannon IV"
+msgstr ""
+
+msgctxt "/39D0E600445159D04AD2B28A3166FC5E"
+msgid "Cannon Shock Cannon V"
+msgstr ""
+
+msgctxt "/E566C3C148FC29E8E867FAA61B4B17A2"
+msgid "Cannon Shock Cannon VI"
+msgstr ""
+
+msgctxt "/E3D2182F4441959E4ED476BD64E80E33"
+msgid "Reinforcement"
+msgstr ""
+
+msgctxt "/8CA5488740ED3A6C70663BA03592957A"
+msgid "Deepen"
+msgstr ""
+
+msgctxt "/5BD0FD994302C32EA012B0B8F135FEFC"
+msgid "Loading……"
+msgstr "ロード中……"
+
+msgctxt "/AB41A5AD4F7D10002BE48EB9687303BF"
+msgid "Loading……"
+msgstr "ロード中……"
+
+msgctxt "/AF6B42294F81C184080AB49675478C79"
+msgid "Loading failed, please check the network! "
+msgstr ""
+
+msgctxt "/46ABBC594A2F6F7666BD29B0D1763F26"
+msgid "Loading failed, please try again! "
+msgstr ""
+
+msgctxt "/799FED8D4CBEFF08D6DBF0B907BA4EE4"
+msgid "Accelerate exploration"
+msgstr ""
+
+msgctxt "/CA89093D413ECD38D2D7089A48198CC7"
+msgid "Pragmatism"
+msgstr ""
+
+msgctxt "/4488EE004FE0072B6AB8D389B42E6F3B"
+msgid "Power simulation (camera delay)"
+msgstr ""
+
+msgctxt "/00404C494694855CE71D17B4AAFA5C31"
+msgid "Warrior"
+msgstr ""
+
+msgctxt "/258ADB244269C8B7B34EBD851755FC24"
+msgid "Warrior"
+msgstr ""
+
+msgctxt "/6AE84BBB483B4C99B70F489B3CB031CC"
+msgid "Move forward courageously"
+msgstr ""
+
+msgctxt "/E90F1EAE4685DDA5569113A8075D1397"
+msgid "Brave and fierce"
+msgstr ""
+
+msgctxt "/BB1AF6194E54D78EC298E49F57DBD03F"
+msgid "Brave individuals"
+msgstr ""
+
+msgctxt "/A769A766435AA1131DC620A12B456425"
+msgid "Brave II"
+msgstr ""
+
+msgctxt "/7F6FDA244338602FF8962E8D53EEDFE2"
+msgid "Brave III"
+msgstr ""
+
+msgctxt "/29FAD4E143822BD953BBC090D659D05D"
+msgid "Brave IV"
+msgstr ""
+
+msgctxt "/28D2C112469E4CB04B21C4AF502D5A59"
+msgid "Brave V"
+msgstr ""
+
+msgctxt "/FE14153A403EFC3CEEBC4AAC5E7D3FD0"
+msgid "Brave Warrior VI"
+msgstr ""
+
+msgctxt "/D9445D614B52BE47DE3A4E9155C6689B"
+msgid "Medical supplies"
+msgstr ""
+
+msgctxt "/D8BA91614E03E22EF92EDF8E81CFD4F8"
+msgid "Upgrade failed"
+msgstr ""
+
+msgctxt "/7423C4A549DA43A20BF511B2CBF392F4"
+msgid "When the upgrade fails, a small amount of space gems will be returned"
+msgstr ""
+
+msgctxt "/FE3CFF5E464C2D72FF1E6EBD65BCF095"
+msgid "Lifting lens"
+msgstr ""
+
+msgctxt "/5402DC11496EFC85A574A782D7917589"
+msgid "One handed mode"
+msgstr ""
+
+msgctxt "/620D2CEB472E8F207A1B949ABEEA0D3E"
+msgid "Polymath"
+msgstr ""
+
+msgctxt "/D5384B254D02A44CB1363DAD69B1A7C3"
+msgid "Satellite"
+msgstr ""
+
+msgctxt "/5F05E2914FC215F748F0D4B3AFAD1A6D"
+msgid "Satellite Ray"
+msgstr ""
+
+msgctxt "/4415E63F4D401F0BC6E6048CBD38AD9B"
+msgid "Satellite Ray II"
+msgstr ""
+
+msgctxt "/A26A05464FA5D6DD7542EBAE69574A43"
+msgid "Satellite Ray III"
+msgstr ""
+
+msgctxt "/75AF7EC14543EF5140441C829C052E49"
+msgid "Satellite Ray IV"
+msgstr ""
+
+msgctxt "/1BADCEF24F622375CEFDDDBE8EFCC21A"
+msgid "Satellite Ray V"
+msgstr ""
+
+msgctxt "/4C3B119244F4194604E26AAE48E3C897"
+msgid "Satellite Ray VI"
+msgstr ""
+
+msgctxt "/C1B64AAD42E9615A7D576EAB9DAD6342"
+msgid "Satellite defense"
+msgstr ""
+
+msgctxt "/135B517B4E93920656B84AB287CAEFC8"
+msgid "Dangerous barrage"
+msgstr ""
+
+msgctxt "/43499104443996434DFDB3A7BA913CD5"
+msgid "Coming into effect soon"
+msgstr ""
+
+msgctxt "/2D76A45E4268E2B411BF9396B23F8254"
+msgid "Uninstall"
+msgstr ""
+
+msgctxt "/9DD9BEFA41B83AE97496A9A25FDA7F6C"
+msgid "Force shooting"
+msgstr ""
+
+msgctxt "/3C5F631C4537C53A5B02F2924BD030AA"
+msgid "Friendship"
+msgstr ""
+
+msgctxt "/FFC304534D76338BC3CD96878B3400EC"
+msgid "Friendship Voyager"
+msgstr ""
+
+msgctxt "/14A58B864A2522B0C9A92FB4ECCC4B78"
+msgid ""
+"Two handed operation mode, precise targeting of the cursor, suitable for all"
+" cores (recommended)"
+msgstr ""
+
+msgctxt "/699ECAEF4B776EC884E21DBF7126E661"
+msgid "Counter Blade"
+msgstr ""
+
+msgctxt "/948822F24BEC7B7517F4E3A8D53FFB50"
+msgid "Counter Blade II"
+msgstr ""
+
+msgctxt "/041F41674B4D5EDDF20A79B5AA34B9FF"
+msgid "Counter Blade III"
+msgstr ""
+
+msgctxt "/1CA432124594AB26EAB78AA258AEB894"
+msgid "Counter Blade IV"
+msgstr ""
+
+msgctxt "/7088ECB14E31AB1D52D16CA83E28F804"
+msgid "Counter Blade V"
+msgstr ""
+
+msgctxt "/F3ECB26C4F5B43AEA9D657A284FD7A94"
+msgid "Counter Blade VI"
+msgstr ""
+
+msgctxt "/3B5776784A15FB155262EA95A9EE3020"
+msgid "Reflective shield"
+msgstr ""
+
+msgctxt "/1AFC4DB842C04A15B100858BE50B223A"
+msgid "Reflection Shield III"
+msgstr ""
+
+msgctxt "/E4B0D5D5465DA52CDADE57A8FEAE3994"
+msgid "Reflection Shield IV"
+msgstr ""
+
+msgctxt "/AA8E70E9453CD07615BA9D993031066B"
+msgid "Reflection Shield V"
+msgstr ""
+
+msgctxt "/2798185D4A98B1586C9DBB83E21162AE"
+msgid "Reflection Shield VI"
+msgstr ""
+
+msgctxt "/3F89C4D1465568B915A65AA84B91C0DA"
+msgid ""
+"Reflect enemy bullets 10 times (unable to reflect laser), the bullets "
+"inherit all the effects of the core and increase ranged damage by 100%"
+msgstr ""
+
+msgctxt "/963ABA5C41443E6B6348ECA6D6A83ADC"
+msgid ""
+"Reflect enemy bullets 20 times (unable to reflect laser), the bullets "
+"inherit all the effects of the core and increase ranged damage by 100%"
+msgstr ""
+
+msgctxt "/795783254824B469B4A86AA054A9FC49"
+msgid ""
+"Reflect enemy bullets 30 times (unable to reflect laser), the bullets "
+"inherit all the effects of the core and increase ranged damage by 100%"
+msgstr ""
+
+msgctxt "/3ADEA5334BBDC13EEDDC40B02C629C52"
+msgid ""
+"Reflect enemy bullets 40 times (unable to reflect laser), the bullets "
+"inherit all the effects of the core and increase ranged damage by 100%"
+msgstr ""
+
+msgctxt "/51ED7EED45D9921EB282A8816A02EA89"
+msgid ""
+"Reflect enemy bullets 50 times (unable to reflect laser), the bullets "
+"inherit all the effects of the core and increase ranged damage by 100%"
+msgstr ""
+
+msgctxt "/B095C9284570E592F47750A7720A60A0"
+msgid "Anti shock"
+msgstr ""
+
+msgctxt "/418593D046705186CB620F9A08FA9C08"
+msgid "engine"
+msgstr ""
+
+msgctxt "/83EE55F44D2BB3FC798A58A339C83C9B"
+msgid ""
+"After launch, it will briefly stop and then quickly fly back and stop. "
+"Continuous damage during launch and dwell"
+msgstr ""
+
+msgctxt "/7914679A4D9477C7AD0D3B8F6FD02402"
+msgid "Number of missiles launched+"
+msgstr ""
+
+msgctxt "/8D5BB1C04B1A6BB2275192B8D1F7D692"
+msgid "Number of launches"
+msgstr ""
+
+msgctxt "/7A6C58C14A16BA2082A521B831A94072"
+msgid "Discovering New Chips"
+msgstr ""
+
+msgctxt "/EF34A20C4B9CDC768DC0B0A1495963B8"
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgctxt "/B1CD471649D6426CCB2FF5AF6F4852A7"
+msgid "Invincibility time after injury"
+msgstr ""
+
+msgctxt "/10BFCAF94BE0D8137FF8ACA88E5098C9"
+msgid "Shock screen"
+msgstr ""
+
+msgctxt "/8279CB4240D8B1A51910178F75BBDA18"
+msgid "When taking any damage, restore 1 health point"
+msgstr ""
+
+msgctxt "/5094E0AC4F59753D41D1EFAAA9DB1016"
+msgid "+5% damage when damaged, until the end of each exploration wave"
+msgstr "各ウェーブ終了まで被ダメージ時に+5%ダメージを与える"
+
+msgctxt "/D17D565249B797B10306BB96D6A493C8"
+msgid ""
+"When damaged by bullets, restore 1 health point and reflect enemy bullets, "
+"adding damage equivalent to armor value to the bullets"
+msgstr ""
+
+msgctxt "/F48F163644D1216F68DFE5ADF6DF7D47"
+msgid "Reduced damage received by "
+msgstr ""
+
+msgctxt "/7A49649743B1ECA4CC7FB59BCE831CA0"
+msgid "Increased damage received by "
+msgstr ""
+
+msgctxt "/2BE3AFF94D32C522289B77834A78EAFD"
+msgid "Another type of battle"
+msgstr ""
+
+msgctxt "/0BEA4E294C6B08A3FD94DA9E43ED236F"
+msgid ""
+"Additionally, if you have any ideas about the game, you can join the game "
+"Discord through the QR code on the right side of the screen or contact the "
+"author through YouTube! "
+msgstr ""
+
+msgctxt "/733A9BD9445286468EC23D8F4130B549"
+msgid ""
+"In addition, if you have any ideas about the game, you can join the game QQ "
+"group through the QR code on the right side of the screen or contact the "
+"author through Bilibili!"
+msgstr ""
+
+msgctxt "/E41B58164A015BD281B18C83F546B3C7"
+msgid "Can only equip \"physical\" units"
+msgstr ""
+
+msgctxt "/D320BC0D443CEE1B2D98339CD9ECCB2C"
+msgid "Summoning a large number of meteors to attack enemies"
+msgstr ""
+
+msgctxt "/D0FB72BD44EE8ABC61E48CA7CEB06F64"
+msgid ""
+"Summon Quantum Rift to deal multiple high damage to all enemies within the "
+"curve range"
+msgstr ""
+
+msgctxt "/7F2A9C6F4F19528DB2E88C9F29EBC523"
+msgid "The damage that can be endured cannot exceed"
+msgstr ""
+
+msgctxt "/759CABD24B21476E66B2C99821FBED05"
+msgid ""
+"Can collect dropped items (space gems, healing batteries, item treasure "
+"boxes). Other units can also be placed in the recycling bin for recycling, "
+"and a certain amount can be returned"
+msgstr ""
+
+msgctxt "/1CBE67E24AB45FCF00AFC89DEAB7A5B0"
+msgid ""
+"Lucky missiles that can track enemies and deal 15% luck damage (penetration "
+"damage of 50%, number of penetrations+1)"
+msgstr ""
+
+msgctxt "/C0C27F3447AE6A2490A99D986D2B47B4"
+msgid "Epic"
+msgstr "エピック"
+
+msgctxt "/86D69B0F466C82DEEE624B8A4E2B20B8"
+msgid "Right joystick sensitivity"
+msgstr ""
+
+msgctxt "/C35BBAFE4D859A65CB58A7AC490CC841"
+msgid "Alloy device"
+msgstr ""
+
+msgctxt "/F9A78B6A42D26239E43D2C9CA8A18688"
+msgid "Alloy Device II"
+msgstr ""
+
+msgctxt "/DA8AB2DA49EAA1A28B7566BF281323EC"
+msgid "Alloy Device III"
+msgstr ""
+
+msgctxt "/97CD2C88433DC6E7FFB8B9A13655004D"
+msgid "Alloy device IV"
+msgstr ""
+
+msgctxt "/CE7411534E947A7D1A16CAB06C2C6812"
+msgid "Alloy device V"
+msgstr ""
+
+msgctxt "/337166BB487DAC9771E0F2985CFDBA8D"
+msgid "Alloy device VI"
+msgstr ""
+
+msgctxt "/A06A84FB4169918127E16E9C41869916"
+msgid "Same row unit"
+msgstr ""
+
+msgctxt "/BD0B01104E30A3B109B7639F8161EF29"
+msgid "Simultaneously firing three lasers to attack enemies"
+msgstr ""
+
+msgctxt "/DC1BC3D54308F0631190D0865FA6A759"
+msgid "Launch multiple chaining attacks simultaneously"
+msgstr ""
+
+msgctxt "/500858C44FCCF369F4C7419E803DA421"
+msgid "Simultaneously equipped"
+msgstr ""
+
+msgctxt "/E844875E40039C25157C5EB7BD542D9A"
+msgid "Simultaneously equipped"
+msgstr ""
+
+msgctxt "/9355008943F67264BB3702AE2D50670F"
+msgid "Name"
+msgstr "名前"
+
+msgctxt "/F2BCBB374F47496C65586CB750660E0B"
+msgid "Launch pulse attacks around"
+msgstr ""
+
+msgctxt "/F6CFA1C746D0F30D7719899D16194EEC"
+msgid "Devouring Sagittarius"
+msgstr ""
+
+msgctxt "/4E3BE1E94BCC5C6DB2DB739C1637FD33"
+msgid "No"
+msgstr ""
+
+msgctxt "/88E1FD43404B04AE9183B79DFA0F4C51"
+msgid "Inspiration"
+msgstr ""
+
+msgctxt "/1EA7291D44AA58ED3AEEFD9B97F9EABC"
+msgid "The Key to Peace"
+msgstr ""
+
+msgctxt "/1A0E3D994B18021C5D63B192CBBAE3C7"
+msgid "Peace"
+msgstr ""
+
+msgctxt "/45371B2E4A83F0CCDB383ABA113B026A"
+msgid "Peaceful guardianship"
+msgstr ""
+
+msgctxt "/989D69214EF2D118601CEDB4802C7CEF"
+msgid "Incantation"
+msgstr ""
+
+msgctxt "/C37F813A45C3F202C1EE33A80EF2CF73"
+msgid "Unique"
+msgstr "ユニーク"
+
+msgctxt "/7383F36C44F916C052A3219EC779F016"
+msgid "Store"
+msgstr "店"
+
+msgctxt "/DD28D9FA4226543D688896AE2E7DE5D2"
+msgid "Store"
+msgstr "店"
+
+msgctxt "/4668CC0E4EB57C44E32F48888309AA46"
+msgid "Units will not appear in the store"
+msgstr ""
+
+msgctxt "/D960EA174F07B76DCC883AA937717F1E"
+msgid ""
+"All units in the store become \"test items\", and after purchasing the "
+"\"test items\", randomly obtain units of the same level (all units that are "
+"not unlocked, disabled, or hidden may obtain them)"
+msgstr ""
+
+msgctxt "/277C6F4B461F1425C189BA894CB3A671"
+msgid "Store disabled"
+msgstr ""
+
+msgctxt "/03C937D34D58D20BEC3F4695F29EEEE1"
+msgid "Store consumption reduction"
+msgstr ""
+
+msgctxt "/65ED39114BCEC373A5908AB19EC33572"
+msgid "Increase in store consumption"
+msgstr ""
+
+msgctxt "/B2E7A2994EB402AD591834A526F86D2F"
+msgid "Spray"
+msgstr ""
+
+msgctxt "/ACC649DA4D5A96FC48A22A81F9D522D2"
+msgid "Jet backtracking"
+msgstr ""
+
+msgctxt "/CF69C48A4EA7917F624145AFC09DED13"
+msgid ""
+"Collect all space gems within the spray coverage range during a jet attack"
+msgstr ""
+
+msgctxt "/71FEA8F84A376B99909C58B18732F7A8"
+msgid "Jet Flyer"
+msgstr ""
+
+msgctxt "/C53B4EF0449F686CC3724A89D9FA804A"
+msgid "Jet Flyer II"
+msgstr ""
+
+msgctxt "/52B37D2E4622918EFEA5BA81198D0393"
+msgid "Jet Flyer III"
+msgstr ""
+
+msgctxt "/37170F544A1FC562E615E9A27FCC050B"
+msgid "Jet Flyer IV"
+msgstr ""
+
+msgctxt "/DEFA99F54AD4920EA4F4B49F8101726A"
+msgid "Jet Flyer V"
+msgstr ""
+
+msgctxt "/40E98267450D59B2D795E9888CEC63B4"
+msgid "Jet Flyer VI"
+msgstr ""
+
+msgctxt "/3A363E0A42FB10D1824FB3AC5DA49C61"
+msgid "Pyrophilia"
+msgstr ""
+
+msgctxt "/6ED196304B6CF523F2C8B1955DB00071"
+msgid "Bloodthirsty increase"
+msgstr ""
+
+msgctxt "/29E19B6F4DAD71EE7FB444B8E09CB5BC"
+msgid "Back to the game"
+msgstr ""
+
+msgctxt "/0126BB2648D5A91934E4CBB8A94C4405"
+msgid "Returns"
+msgstr ""
+
+msgctxt "/4FBB42284E5A94428312B590DB8ECFB2"
+msgid "Recovery"
+msgstr ""
+
+msgctxt "/2F2B73384E9B981942E1E09BE99A3672"
+msgid "Recycling warehouse"
+msgstr ""
+
+msgctxt "/AEB34D304136CE565810C298378FAF75"
+msgid ""
+"Because I am the only one who developed this game myself, if you find any "
+"translation errors, please post them to the Steam community and I will "
+"immediately fix them"
+msgstr "このゲームは私1人だけで開発しているので、翻訳ミスを見つけたらSteamコミュニティに投稿してください。すぐに修正します"
+
+msgctxt "/548185AC4A76FCF533E08A85DE647CD6"
+msgid "Stubborn as a rock"
+msgstr ""
+
+msgctxt "/C9DB0BA54D6E8F76CFB14181FAF81296"
+msgid "Basic movement speed: 1000"
+msgstr ""
+
+msgctxt "/D012FF3D454D1A501C11069A4CB4BB5D"
+msgid "Basic movement speed: 200"
+msgstr ""
+
+msgctxt "/2D7ED10D4E29487136FDCF83ABE78CCF"
+msgid "Basic movement speed: 400"
+msgstr ""
+
+msgctxt "/9D993FDF417BEA0FF1996580AFAD40F7"
+msgid "Basic movement speed: 600"
+msgstr ""
+
+msgctxt "/8C2DA6B2454B72D74077679707D72630"
+msgid "Basic movement speed: 800"
+msgstr ""
+
+msgctxt "/BE33056840866D6D0F577FA80057CACC"
+msgid "Basic chip"
+msgstr ""
+
+msgctxt "/012742494A8822BB466E6DAA111BD9D5"
+msgid "Fall"
+msgstr ""
+
+msgctxt "/238F97FA4758628F3BEE4BBCA408D4B7"
+msgid "Fallen Angel"
+msgstr ""
+
+msgctxt "/7722C72E49E5B9CB34329B92BA060B50"
+msgid "Add"
+msgstr ""
+
+msgctxt "/0C2A81DA4B4DE8AF45935288EB62B22A"
+msgid "Add 1"
+msgstr ""
+
+msgctxt "/CC1E868546D610F26B24AA96C1722A68"
+msgid "Add 1"
+msgstr ""
+
+msgctxt "/DBEF598B46E5F23C1AA1C48EFF64D978"
+msgid "Add 1"
+msgstr ""
+
+msgctxt "/396195274C7EB896F9856BA41B22419B"
+msgid " Increase 1%"
+msgstr ""
+
+msgctxt "/D6D03FA147A4B430D28F668B4EF9594B"
+msgid "Increase by 1%"
+msgstr ""
+
+msgctxt "/7549F4424D478268FC3644A600F6E532"
+msgid "Add 10"
+msgstr ""
+
+msgctxt "/A6CF3E84479AB20621330AB4F9A6B98E"
+msgid "Increase collection radius"
+msgstr ""
+
+msgctxt "/996D22764821A50058C032B3715B9B37"
+msgid "Increase space gems equal to the same crew level"
+msgstr ""
+
+msgctxt "/3B70F16B406FCA10E9A3D88AB9577A58"
+msgid "When picking up the \"healing battery\" while in maximum health state"
+msgstr ""
+
+msgctxt "/3C5204FE412D6CBDDE6CF98620F9EFD8"
+msgid "Reset lens"
+msgstr ""
+
+msgctxt "/32C0C21847AA2A0C49161DB3FD6C4CCB"
+msgid "Invincible time after resurrection"
+msgstr ""
+
+msgctxt "/9EA1770D4346C9F4D1F55F8E0FCC0905"
+msgid "Resurrected to restore health"
+msgstr ""
+
+msgctxt "/ABAD71F74655326EC8CF07BEEC7BCAEF"
+msgid "When resurrected, immobilize all enemies for 3 seconds"
+msgstr ""
+
+msgctxt "/F89965B54EFF94A7F5D1DEB61ED486F1"
+msgid "Resurrection times"
+msgstr ""
+
+msgctxt "/6DA7C4704183F68E9F700792574AB492"
+msgid "Recovery"
+msgstr ""
+
+msgctxt "/2288BC064E00649E69082B978C6C1010"
+msgid "Extraterrestrial technology"
+msgstr ""
+
+msgctxt "/F7ADE0E14970232C53010C94E9AAF245"
+msgid "Multiple currents"
+msgstr ""
+
+msgctxt "/04840E27453D3A3F3C165DAE84D3E95E"
+msgid "Multiple supply"
+msgstr ""
+
+msgctxt "/553D658F4EE9BB5829A2BFBA0430D390"
+msgid "Multiple Lightning"
+msgstr ""
+
+msgctxt "/49EABB5F46753967C255778C8F88A17A"
+msgid "Multiple Lightning II"
+msgstr ""
+
+msgctxt "/33E2CAB94014C3EA89AAFF85851395DD"
+msgid "Multiple Lightning III"
+msgstr ""
+
+msgctxt "/00CFEB284B099BD37C9F33B9749DA158"
+msgid "Multiple Lightning IV"
+msgstr ""
+
+msgctxt "/D8CD5B1C4DAF50BCA4E4FE88721A617A"
+msgid "Multiple Lightning V"
+msgstr ""
+
+msgctxt "/27BAF6EB41D56FB5A47542A2FBAA9999"
+msgid "Multiple Lightning VI"
+msgstr ""
+
+msgctxt "/CE21D20243762CB23FD50E9EC02669D2"
+msgid "Hercules"
+msgstr ""
+
+msgctxt "/113799E64646681D4404E6AD40B8203E"
+msgid "Hercules"
+msgstr ""
+
+msgctxt "/1F0765AA4DB83724FAC9B19A2A4B5387"
+msgid "The Great Snake"
+msgstr ""
+
+msgctxt "/AD29A9294170448412168693F859BF06"
+msgid "Great Demon Master"
+msgstr ""
+
+msgctxt "/2865532B4B40B7A5F5980DA207556163"
+msgid "Angel"
+msgstr ""
+
+msgctxt "/AA28A64548A77C3E71BCA288FCFCF7BE"
+msgid "Angel form"
+msgstr ""
+
+msgctxt "/5E2019ED4ED45E683F4605809113DC06"
+msgid "Angel Descends"
+msgstr ""
+
+msgctxt "/A6EE69864ECF467BB3A13FA2374469AF"
+msgid "The Light of Heaven"
+msgstr ""
+
+msgctxt "/53D25FD4471B9D92C11A58B87A6C03BE"
+msgid "Heavenly Judgment"
+msgstr ""
+
+msgctxt "/FDE210EB42492C276D2B4D8B836D35DA"
+msgid "Heavenly eye"
+msgstr ""
+
+msgctxt "/1B5F4EE540AA4FB08D7B90BA10E76AF3"
+msgid "Heavenly punishment"
+msgstr ""
+
+msgctxt "/0856754D4563747F388579BF338701E7"
+msgid "Space Gem"
+msgstr "スペースジェム"
+
+msgctxt "/B0178F6D4094F01F8F9A55ADE466E501"
+msgid "Space Gem"
+msgstr "スペースジェム"
+
+msgctxt "/BF46084A40C4F8E7F38900BF14DA7E27"
+msgid "Space Gem+10"
+msgstr "+10 スペースジェム"
+
+msgctxt "/F35F964242C63BECBBDEA1A3D5133517"
+msgid ""
+"Space gem can be used for shopping in stores, increasing experience points "
+"by 1 point for every space gem obtained"
+msgstr ""
+
+msgctxt "/E3169D6545D8704CB7B56F83A9B046A1"
+msgid ""
+"Space gemstones deal 1+50% luck damage to enemies encountered during flight"
+msgstr ""
+
+msgctxt "/51AAA0E6445C6C882D7B26B7216DAC5E"
+msgid "Space gem drop rate -50%"
+msgstr ""
+
+msgctxt "/F780D7244D9E3D4B50CC628A3E9803B9"
+msgid "Plunder Master"
+msgstr ""
+
+msgctxt "/5E6DFECB4B91DD1B3DB4A38BC04AC8F0"
+msgid "Reward chip"
+msgstr ""
+
+msgctxt "/D73E0E6F47F4D01D2EC8B5BB32D547E3"
+msgid "Rewards:"
+msgstr ""
+
+msgctxt "/AB4686324EE12AEC1BD36B9AA3D404E6"
+msgid "Okay"
+msgstr ""
+
+msgctxt "/EE19E7B9472D34D0128BE6AA63C51DE8"
+msgid "OK"
+msgstr ""
+
+msgctxt "/FEA4A5E04E18CCE2D3DC8CBD8AB13AE6"
+msgid "Continuous good luck"
+msgstr ""
+
+msgctxt "/EB22806D48544E6D8F6E5EAE7EB6269B"
+msgid "Power Enhancement"
+msgstr ""
+
+msgctxt "/D6547D544F05CD9CF58359AA0B4752A7"
+msgid "Bullet flight speed"
+msgstr ""
+
+msgctxt "/1CA0363A4396C15FFCBB868BC31FDC8A"
+msgid "Archive damage"
+msgstr ""
+
+msgctxt "/66682E5E49D609E9D6E90D80FC7A5619"
+msgid "Solitude"
+msgstr ""
+
+msgctxt "/87918B234D092F96FAE53885D4CDF84C"
+msgid "Cosmic rift"
+msgstr ""
+
+msgctxt "/F239184545763924FF82088EAD04C304"
+msgid "Cosmic radiation"
+msgstr ""
+
+msgctxt "/720094F14AE8CC1008552BACE3B5742F"
+msgid "Cosmic Ray Cruiser"
+msgstr ""
+
+msgctxt "/9885C93342616A86AC394998D148048B"
+msgid "Fully customizable"
+msgstr ""
+
+msgctxt "/9F5BC517437055BFD5C5ABB5EDF342D5"
+msgid "Perfect lock"
+msgstr ""
+
+msgctxt "/09E934A944DB81CD378B999B405AA7CB"
+msgid "Orientation"
+msgstr ""
+
+msgctxt "/6B89509A4CD07F75D5DDF685B4DFC950"
+msgid "Fixed"
+msgstr "固定"
+
+msgctxt "/2A87061C4190E0F77744189BB59AB6A6"
+msgid "Directional impact"
+msgstr ""
+
+msgctxt "/D837C12744BEFC4B96B814BCDADC3D4A"
+msgid "Directional Impact II"
+msgstr ""
+
+msgctxt "/36E1A1214FFC82BA6ED3C1975D6E668D"
+msgid "Directional Impact III"
+msgstr ""
+
+msgctxt "/913BEF9746E736FDE163699AB68DE84F"
+msgid "Directional Impact IV"
+msgstr ""
+
+msgctxt "/418C6F8F46A822AAE0DBF48DCDF5C083"
+msgid "Directional Impact V"
+msgstr ""
+
+msgctxt "/E2B8CA49476394AE5799E498572ABC95"
+msgid "Directional Impact VI"
+msgstr ""
+
+msgctxt "/3D5D31124BFC0E509BE682B92D8C194A"
+msgid "Directional breaker"
+msgstr ""
+
+msgctxt "/6829CAAB460675E04297D2B682AC61C3"
+msgid "Directional Crusher II"
+msgstr ""
+
+msgctxt "/725CF87747CDD386102FE495B4B405F3"
+msgid "Directional Crusher III"
+msgstr ""
+
+msgctxt "/2C1DF389434F4F95FB71FB8AE269F1DA"
+msgid "Directional Crusher IV"
+msgstr ""
+
+msgctxt "/B5535A12462D44C3E8AC75BB6A101046"
+msgid "Directional Crusher V"
+msgstr ""
+
+msgctxt "/84CD71B3419DAFC28D275FAE6F514AD0"
+msgid "Directional Crusher VI"
+msgstr ""
+
+msgctxt "/FAD71CD746AA8271CD558BAC0D7A1480"
+msgid "Targeted operations"
+msgstr ""
+
+msgctxt "/242894114415FCD4AF16AFB0378D1080"
+msgid "Fixed body"
+msgstr ""
+
+msgctxt "/033CB75646A74F60165B14B728F4B43C"
+msgid "Duration of immobilization"
+msgstr ""
+
+msgctxt "/5AF62EB647DF8372ACBADC832CCE5F01"
+msgid "Fixed Cannon"
+msgstr ""
+
+msgctxt "/099533474AA2602FE614B9B367BD34A3"
+msgid "Fixed Cannon II"
+msgstr ""
+
+msgctxt "/73FD9B8D44A76F364CF2EE8BA6822961"
+msgid "Fixed Cannon III"
+msgstr ""
+
+msgctxt "/FAEBB8C24F137D1BFF6CA59B0061BE20"
+msgid "Fixed Cannon IV"
+msgstr ""
+
+msgctxt "/9DBE331A492AAC0EA6ABB094D2CD897A"
+msgid "Fixed Cannon V"
+msgstr ""
+
+msgctxt "/A5BA1CBD437DE3BA6851D5B3041A2D42"
+msgid "Fixed Cannon VI"
+msgstr ""
+
+msgctxt "/D24EE29F41F7F7BD995CEB944D7F4B33"
+msgid "Fixed fog"
+msgstr ""
+
+msgctxt "/312511DE498BB03D62E4BF92B15E6E5A"
+msgid "Fixed: unable to move"
+msgstr ""
+
+msgctxt "/BF651ED4438CEB3962D8DD9F1BFB55C4"
+msgid "Gem Warehouse"
+msgstr ""
+
+msgctxt "/63688A2F4D8959AD6F116BBF7197C271"
+msgid "Gem research and development"
+msgstr ""
+
+msgctxt "/7D5B7A0C4B2A35DF1F8705A53FC61DF7"
+msgid "Laboratory"
+msgstr ""
+
+msgctxt "/E6580DB14677D9F316889AB333D719E2"
+msgid "Laboratory"
+msgstr ""
+
+msgctxt "/1D974DEC4CA26BCF128780B7EE873B4D"
+msgid "Experimental error"
+msgstr ""
+
+msgctxt "/017138E540A4298E7B494FAF14580A4E"
+msgid "Trial"
+msgstr ""
+
+msgctxt "/3DE67BDE464C82BF0C96F184D194A9B6"
+msgid "Dense data"
+msgstr ""
+
+msgctxt "/B8D435E34CF361855DF7D68FF0FA7DFA"
+msgid "Ice Messenger"
+msgstr ""
+
+msgctxt "/DD0356FE49A1AC7C8F948CBCB3F29678"
+msgid "Ice laser"
+msgstr ""
+
+msgctxt "/2BF9CDD04F351C788E5471A5BB6F7ACD"
+msgid "Ice laser II"
+msgstr ""
+
+msgctxt "/DA5B6E4E4AEEE59812FA22BD04065ECC"
+msgid "Ice laser III"
+msgstr ""
+
+msgctxt "/50F57711479E3D69F052BE8FBA005BBC"
+msgid "Ice laser IV"
+msgstr ""
+
+msgctxt "/A3D5284B4A97391893CED6B8E3AB468B"
+msgid "Ice laser V"
+msgstr ""
+
+msgctxt "/122E91754721AE11E51FF49889DAF0EE"
+msgid "Ice laser VI"
+msgstr ""
+
+msgctxt "/FA4F54BB471A68ED3E37F4A2F60A10A9"
+msgid "Ice Lightning"
+msgstr ""
+
+msgctxt "/A2E187274660A17BC897DD8439B7FB28"
+msgid "Ice Lightning II"
+msgstr ""
+
+msgctxt "/80C148554F1853E92E383980FF9065FD"
+msgid "Ice Lightning III"
+msgstr ""
+
+msgctxt "/DA96883E46F479A3ED11B59B1EE99ECF"
+msgid "Ice Lightning IV"
+msgstr ""
+
+msgctxt "/8228886F462BDFA2D40610B356D040D3"
+msgid "Ice Lightning V"
+msgstr ""
+
+msgctxt "/7A8764D14DF333455FAF0CAFDC909FD5"
+msgid "Ice Lightning VI"
+msgstr ""
+
+msgctxt "/35157F564C45572F291975918FDAB90D"
+msgid "Cold stars"
+msgstr ""
+
+msgctxt "/AD95554B4E21AB169496A0BDCAA0EB2B"
+msgid "Frost sprayer"
+msgstr ""
+
+msgctxt "/E0DA49044B172C6BD06128B68A1D90BD"
+msgid "Frost Ejector II"
+msgstr ""
+
+msgctxt "/4305FB26426E595FA53F608FC3522788"
+msgid "Frost Ejector III"
+msgstr ""
+
+msgctxt "/237ACA8A49268C6FC840928C07BAFAE0"
+msgid "Frost Ejector IV"
+msgstr ""
+
+msgctxt "/6DD3DA884399B00FEFA6299A6151AA23"
+msgid "Frost Ejector V"
+msgstr ""
+
+msgctxt "/0F4691564DF83E6084C4F290529CAB05"
+msgid "Frost Ejector VI"
+msgstr ""
+
+msgctxt "/180A3E0F446EE6419A373191B55905A5"
+msgid "Frost Cannon"
+msgstr ""
+
+msgctxt "/DAA763E54689359ABDCC548A85B725DD"
+msgid "Frost Cannon II"
+msgstr ""
+
+msgctxt "/ADF979E94732E532541253AAEDEA01B3"
+msgid "Frost Cannon III"
+msgstr ""
+
+msgctxt "/B48CF7F441B955621578DAABA55B391C"
+msgid "Frost Cannon IV"
+msgstr ""
+
+msgctxt "/8C4609B7451E388B13E98EA31DB7A629"
+msgid "Frost Cannon V"
+msgstr ""
+
+msgctxt "/4BCAD92A4CAF5465934721A6F79A129C"
+msgid "Frost Cannon VI"
+msgstr ""
+
+msgctxt "/614956B744342D3554A7FA82182C7FA6"
+msgid "Cold Frost Research"
+msgstr ""
+
+msgctxt "/46F8F5CF4F4242F99F9DB8BE6B14C7CF"
+msgid ""
+"When dealing continuous damage to a single target, the damage is increased "
+"by 10%, with a maximum increase of 500% in damage"
+msgstr ""
+
+msgctxt "/DA97E546462C9C3520B1B9AE2DE06E96"
+msgid "Deals chaining piercing damage to hit targets"
+msgstr ""
+
+msgctxt "/C16290694E7398056C6E29A368030760"
+msgid "Increase damage to elite monsters and leader monsters"
+msgstr ""
+
+msgctxt "/7B75569445670F744F9FD1989835C896"
+msgid "Reduce damage to elite monsters and leader monsters"
+msgstr ""
+
+msgctxt "/B61EC5024EFCC4FC03C0D9B2715526DD"
+msgid "Continuously damage all enemies within range"
+msgstr ""
+
+msgctxt "/69461ABF444459622A9939B35944A339"
+msgid ""
+"When dealing damage to frost enemies, there is a 1% chance to instantly kill"
+" the target (ineffective against the leader)"
+msgstr ""
+
+msgctxt "/09C1729F40C4DB1FB8281BA1B7B16FF0"
+msgid "Damage to the leader"
+msgstr ""
+
+msgctxt "/34EC58C64099CD35EAE4E68EEB795044"
+msgid "Sagittarius"
+msgstr ""
+
+msgctxt "/659B085542A69CAD897AFCBBEE74DB4B"
+msgid "Sagittarius"
+msgstr ""
+
+msgctxt "/AE77095D47A74D90E59F7A833A60C600"
+msgid "Range modification"
+msgstr ""
+
+msgctxt "/557553D0419A6FE88AF4959B31A6AB10"
+msgid "Split the bullets passing through this unit into"
+msgstr ""
+
+msgctxt "/9DCFADB94EB6B2A052A17E91E26498D4"
+msgid "Be careful of bees"
+msgstr ""
+
+msgctxt "/12806208464D8D307AEC0D808716389D"
+msgid "Tip: The same unit can be merged and upgraded"
+msgstr "Tip: 同じユニットを合成するとアップグレードされる"
+
+msgctxt "/F4B1F21147E7A826CF72479D2B710FAE"
+msgid "Newbie Vessel"
+msgstr ""
+
+msgctxt "/D603D0694FA36108D0F51F891F5CF528"
+msgid "Little Snake"
+msgstr ""
+
+msgctxt "/25E4BF2C44DBF4EE0CC5989C0D9F09B3"
+msgid "Properties"
+msgstr ""
+
+msgctxt "/9086564045CA2CADC7938B9706FB6243"
+msgid "Slaying snakes"
+msgstr ""
+
+msgctxt "/0BFC7B3C4081852C50523FB253DB8E23"
+msgid "Dragon Slaying Blade"
+msgstr ""
+
+msgctxt "/DBC344E14FE19BA8D0BAE9B30629CC67"
+msgid "Dragon Slaying Blade II"
+msgstr ""
+
+msgctxt "/D8C5C23749EEFF4340B02BA0BBF78AB9"
+msgid "Dragon Slaying Blade III"
+msgstr ""
+
+msgctxt "/7E12E02A4BAF5A0C83300DB38A1F1802"
+msgid "Dragon Slaying Blade IV"
+msgstr ""
+
+msgctxt "/187F6ED54020F34A0A356FAC9C8CF6BB"
+msgid "Dragon Slaying Blade V"
+msgstr ""
+
+msgctxt "/F55EBEA14C0CF8BAB742E8A8A17A53EB"
+msgid "Dragon Slaying Blade VI"
+msgstr ""
+
+msgctxt "/CA2EA4DC4B1BB9CB6ACB76B07E4DB27E"
+msgid "Dragon Slayer"
+msgstr ""
+
+msgctxt "/056EDF414260A14483EE4E803ACE5C9C"
+msgid "Patrol"
+msgstr ""
+
+msgctxt "/92850C7C4BBE43DDDB742C8F61668B2E"
+msgid "Engineering"
+msgstr ""
+
+msgctxt "/6F5217CD4F3A69377CF5BE91670A1BFC"
+msgid "Left joystick sensitivity"
+msgstr ""
+
+msgctxt "/4DA5BA0348B0918378941CAAFB159206"
+msgid "Southpaw"
+msgstr ""
+
+msgctxt "/7F83D52546021685A229419EBC3CF3B4"
+msgid "The Lich Demon"
+msgstr ""
+
+msgctxt "/F519B0F741900D897AD3FC9873D50473"
+msgid "Increased damage percentage"
+msgstr ""
+
+msgctxt "/678F2A70489D12E1C690DD96E47C55E5"
+msgid "Armor added"
+msgstr ""
+
+msgctxt "/6881BAB840B6C852B5AE838E9C8A28CC"
+msgid "Increased attack range"
+msgstr ""
+
+msgctxt "/1AC8886741AEF9F0696120B781DC0AFE"
+msgid "Increased attack speed percentage"
+msgstr ""
+
+msgctxt "/77671CA64A5B3BEFF02AC1BD608636C1"
+msgid "Increased critical hit rate"
+msgstr ""
+
+msgctxt "/6377ABF9434A5E92A8A9D8917909658A"
+msgid "Increase maximum health"
+msgstr ""
+
+msgctxt "/741A04A449F5C6F6064D6AB51B2959CF"
+msgid "Increased life regeneration"
+msgstr ""
+
+msgctxt "/4F53B5D5484B15262A3BB29BF28D0789"
+msgid "Increased life absorption"
+msgstr ""
+
+msgctxt "/5A7BFA6743B5A33B7444968820EEBC76"
+msgid "Add technology"
+msgstr ""
+
+msgctxt "/90F3382E47C8C8596466A8B82DDC3473"
+msgid "Increased movement speed percentage"
+msgstr ""
+
+msgctxt "/D4A06B4F418D252293ED638478203922"
+msgid "Increased Business"
+msgstr ""
+
+msgctxt "/668378B14581CCAEF886D59D2BF74925"
+msgid "Increased field of view percentage"
+msgstr ""
+
+msgctxt "/FA6576144F0F75CFAC624295D3CBF1F5"
+msgid "Increased luck"
+msgstr ""
+
+msgctxt "/8C2BDC094F2AC8D7ED8240822A596749"
+msgid "Increase melee damage"
+msgstr ""
+
+msgctxt "/D66EAE4D4FD3EF51EF2E97A1953C167D"
+msgid "Increase ranged damage"
+msgstr ""
+
+msgctxt "/0627777E49D64170E8B11581664B61D0"
+msgid "Increase quantum damage"
+msgstr ""
+
+msgctxt "/B5CF9EE346DCCCCE70485AB4EAE5DA54"
+msgid "Effective"
+msgstr ""
+
+msgctxt "/06E176694C9B9B431E87E1AC8DAFEAD9"
+msgid "Layout I"
+msgstr ""
+
+msgctxt "/D48A0F2441A5B2C47FCFF69F1E4C586A"
+msgid "Layout II"
+msgstr ""
+
+msgctxt "/CFA5A35B4826D0DF5BE7EBA29A2CC3CF"
+msgid "Layout III"
+msgstr ""
+
+msgctxt "/B4E0446C460C1B7980E5919DD67415E1"
+msgid "Hope"
+msgstr ""
+
+msgctxt "/6A5E08D944270AA9E99A2D8CF51A9299"
+msgid "Frame rate"
+msgstr ""
+
+msgctxt "/51F1DBAD4F639E72769D169854F127BD"
+msgid "Interference"
+msgstr ""
+
+msgctxt "/2A6EE61F4A006FE139943884E7250C0B"
+msgid "Parallel envoy"
+msgstr ""
+
+msgctxt "/ABABF8014938A9B8E79EDFB143A5C2E5"
+msgid "Fighting side by side"
+msgstr ""
+
+msgctxt "/B1177604438B3E80BF729DA6F6575663"
+msgid "Lucky"
+msgstr ""
+
+msgctxt "/01BE82F047041E43830995AA01754C82"
+msgid "Lucky Messenger"
+msgstr ""
+
+msgctxt "/47615B29466CABC9B7AEC48DF264F81B"
+msgid "Lucky Engine"
+msgstr ""
+
+msgctxt "/F5E5BBC4493E193587B138A577FEFB41"
+msgid "Lucky Engine VI"
+msgstr ""
+
+msgctxt "/BDDBFE714ACF47B515407DB281586ED8"
+msgid "Lucky Star"
+msgstr ""
+
+msgctxt "/2153680843716701A4E854B649088A4C"
+msgid "Luck Comes"
+msgstr ""
+
+msgctxt "/88EA11FF44EA181238850DA37204E0B5"
+msgid "Luck Comes"
+msgstr ""
+
+msgctxt "/3A1E3D164DDF3589FB86BF88A7FE15AF"
+msgid "Lucky missile"
+msgstr ""
+
+msgctxt "/03C837CF4335A8F8CE7DE9871BC3CDD8"
+msgid "Wide area diffusion"
+msgstr ""
+
+msgctxt "/E6F107614B6AFDE65EEE9192C11001A3"
+msgid "Abandoned Saw"
+msgstr ""
+
+msgctxt "/1A681A964AADC50B113E83B01E0C145A"
+msgid "Abandoned Saw II"
+msgstr ""
+
+msgctxt "/CD4CB0C14C05E26F4900F2BB0004E138"
+msgid "Abandoned Saw III"
+msgstr ""
+
+msgctxt "/71F8CFF245E0F0B8730AD5BEB856D3F1"
+msgid "Abandoned Saw IV"
+msgstr ""
+
+msgctxt "/7A9648FB412614FC1D007CA20610328B"
+msgid "Abandoned Saw V"
+msgstr ""
+
+msgctxt "/C47EE7764103862EDA55A3B26E049EA5"
+msgid "Abandoned Saw VI"
+msgstr ""
+
+msgctxt "/88CEFC024FA17D0DDDCFACBDEDBAB3BE"
+msgid "Open Challenge: Endless Mode Global Ranking"
+msgstr ""
+
+msgctxt "/9B9037864C7EF911B8D211976B5FFB36"
+msgid "Start"
+msgstr ""
+
+msgctxt "/8B30868C4731F6E766A7758E7524BC2B"
+msgid "Happy"
+msgstr ""
+
+msgctxt "/0C8D4B2A407B8319930F019B21458D46"
+msgid "Abnormal state"
+msgstr ""
+
+msgctxt "/CF1AA8E74227806F90ED298759734063"
+msgid "Gimballed"
+msgstr "ジンバル"
+
+msgctxt "/2D22D327436B33B36FFF4AAD1A3AFCDD"
+msgid "Bounce"
+msgstr ""
+
+msgctxt "/AE37BB024D540A2748F5F9814C8E9B30"
+msgid "Ejection Cannon"
+msgstr ""
+
+msgctxt "/2F8EBC494B0202AEE5DAB28557BC0940"
+msgid "Ejection Cannon II"
+msgstr ""
+
+msgctxt "/2E5C5B32403397D88A561C89D23F5E73"
+msgid "Ejection Cannon III"
+msgstr ""
+
+msgctxt "/147984D649A79D2D73CE36B1C0C1AA31"
+msgid "Ejection Cannon IV"
+msgstr ""
+
+msgctxt "/B9ABDE9A418D3AFC1C3254B440F527AB"
+msgid "Ejection Cannon V"
+msgstr ""
+
+msgctxt "/5C31FA8D41625EEC164CA1B9EFD3330C"
+msgid "Ejection Cannon VI"
+msgstr ""
+
+msgctxt "/89593CDE47E789506E07F39170E69901"
+msgid "Barrage splitter"
+msgstr ""
+
+msgctxt "/32FEC7A34C2FCA65323640A96A3F4154"
+msgid "Barrage Splitter III"
+msgstr ""
+
+msgctxt "/31D565A44DA4703B51A88CA5E1BDBEC1"
+msgid "Barrage Splitter IV"
+msgstr ""
+
+msgctxt "/4E1D677A45F314BD769D35859A686644"
+msgid "Bullet Screen Splitter V"
+msgstr ""
+
+msgctxt "/B0968B894C9E8E621BDAE1AACC1F03F8"
+msgid "Bullet Screen Splitter VI"
+msgstr ""
+
+msgctxt "/CF2039724907FD262CAE1BA6EC460A20"
+msgid "Barrage"
+msgstr ""
+
+msgctxt "/8DC74A8A4B93E9A31C6C1C8A0792912C"
+msgid "Strengthening"
+msgstr ""
+
+msgctxt "/5F9F46414E5944572005578DDE4EF73A"
+msgid "Strength modification"
+msgstr ""
+
+msgctxt "/F829B7754F1A174BA1BAD096EF83DE1F"
+msgid "The current number of missiles remains unchanged"
+msgstr ""
+
+msgctxt "/7C114E5D4A44941D4D5D57B35170B12B"
+msgid "Current level:"
+msgstr ""
+
+msgctxt "/8BE3B0AD451F0E157077E8A984CAB67B"
+msgid "Current level:"
+msgstr ""
+
+msgctxt "/F7C8906044F728DA96FA3BA5FA234740"
+msgid "The current evasion value is"
+msgstr ""
+
+msgctxt "/7248248F4C195E4BD7A63EA4544A383D"
+msgid "Conquest XIII"
+msgstr ""
+
+msgctxt "/2279CA51415FDDC62B6EF6AE47152524"
+msgid "Conquer XIV"
+msgstr ""
+
+msgctxt "/3E1E0B094E826F327CA493B59DE54B82"
+msgid "Conquest XIX"
+msgstr ""
+
+msgctxt "/0DF254FB4E157E847D09F79603D3313C"
+msgid "Conquer XV"
+msgstr ""
+
+msgctxt "/4D954A824FAB6AAE8DBFA7811E9B9121"
+msgid "Conquer XVI"
+msgstr ""
+
+msgctxt "/3473A219416F600FFBF58CB70FC8F351"
+msgid "Conquer XVII"
+msgstr ""
+
+msgctxt "/29B2921947A1C12691FDE69AA059A8E2"
+msgid "Conquest XVIII"
+msgstr ""
+
+msgctxt "/46996E824890DB3081D3D4A9D591651B"
+msgid "Conquer XX"
+msgstr ""
+
+msgctxt "/B8429BBF448431C95D9B548BC1D0A93A"
+msgid "Conquest I"
+msgstr ""
+
+msgctxt "/20121EC44F5BA1B8C0474B87BF068939"
+msgid "Conquest II"
+msgstr ""
+
+msgctxt "/831E8B6645E2DD6B788FCA80335B826E"
+msgid "Conquest III"
+msgstr ""
+
+msgctxt "/121812FA4AA26EEDE987FBA1D85D303C"
+msgid "Conquest IV"
+msgstr ""
+
+msgctxt "/62FD3F6F4259A175443BD6B83E1CF17C"
+msgid "Conquer V"
+msgstr ""
+
+msgctxt "/8D7AE3BD45D3F925A226BEA1F11F8E51"
+msgid "Conquest VI"
+msgstr ""
+
+msgctxt "/DFF535D5429F0FAF825A51AD0B6007A6"
+msgid "Conquest VII"
+msgstr ""
+
+msgctxt "/6E3B09A14A0FBB606240E5B27988B5A0"
+msgid "Conquest VIII"
+msgstr ""
+
+msgctxt "/71A574C948FBC758CF1C6393E48F010C"
+msgid "Conquest IX"
+msgstr ""
+
+msgctxt "/86C32B86438195578CB97B91542210FC"
+msgid "Conquest X"
+msgstr ""
+
+msgctxt "/7AD76E714D652FA6B28EB5B3F0A210C0"
+msgid "Conquer XI"
+msgstr ""
+
+msgctxt "/3217E6FE491D91404F2EC8B891C70248"
+msgid "Conquest XII"
+msgstr ""
+
+msgctxt "/8AFFBC7F4E5B76A2C838B0812C9EC6C5"
+msgid "Delta"
+msgstr "デルタ"
+
+msgctxt "/8F383C214616C5E0EC6FCA9E04204F16"
+msgid "Delta"
+msgstr "デルタ"
+
+msgctxt "/DF9C77C84D2605FF237885997F8CB2F8"
+msgid "Delta"
+msgstr "デルタ"
+
+msgctxt "/6A863F8C4D47801C89508EB781C202B2"
+msgid "Delta Galaxy"
+msgstr "デルタ銀河"
+
+msgctxt "/72A717414FEAB295EC093EA44580A617"
+msgid "Delta galaxy"
+msgstr "デルタ銀河"
+
+msgctxt "/E1B51F0141CE7FFF606E64BAF5488B07"
+msgid "Delta Galaxy"
+msgstr "デルタ銀河"
+
+msgctxt "/108C0497420B33ED98FD34BE17FE3721"
+msgid "Unlock Delta Galaxy after clearance"
+msgstr ""
+
+msgctxt "/799106B44B74D4DD9680CDA9F5E51DAF"
+msgid "Achieve one's aspirations"
+msgstr ""
+
+msgctxt "/2011256046E3BF77478A6A8BA33F2CC2"
+msgid "Must Kill"
+msgstr ""
+
+msgctxt "/CCCF293648CE08BDDC3C228642BEBB5A"
+msgid "Must Kill Matrix"
+msgstr ""
+
+msgctxt "/0FD4E0D747D3BA879B542D989BF138FD"
+msgid "Fatal Matrix VI"
+msgstr ""
+
+msgctxt "/7360DB0F48AD6D1120FF9B8A06FA0C38"
+msgid "Endurance I"
+msgstr ""
+
+msgctxt "/A8556D94458A0FB88DA964B548CDF831"
+msgid "Endurance II"
+msgstr ""
+
+msgctxt "/3CC49B8C43A06DAA76787EA48FEE06BD"
+msgid "Endurance III"
+msgstr ""
+
+msgctxt "/EA3A38E14CA2004F3FE2B6803394A5C7"
+msgid "Endurance IV"
+msgstr ""
+
+msgctxt "/6AA72FB543F51D68B9D2A89AE7DA5CA2"
+msgid "Endurance V"
+msgstr ""
+
+msgctxt "/8E27F6274A4B3C73377BF783E2EC8228"
+msgid "Endurance VI"
+msgstr ""
+
+msgctxt "/A4F7C6F8487F992FA141DB86D839941B"
+msgid "Rapid supply"
+msgstr ""
+
+msgctxt "/C4885E154758594923774B8D4E703CF7"
+msgid "First aid surgery"
+msgstr ""
+
+msgctxt "/0132804C495DA8931673B097462FDAC7"
+msgid "Monster Guide"
+msgstr ""
+
+msgctxt "/01B6F03F465B3CC41348F4B30229BAD6"
+msgid "Global Leaderboard"
+msgstr ""
+
+msgctxt "/02DF9F7048191E6DA388B8AD306EBD95"
+msgid "Overall progress:"
+msgstr ""
+
+msgctxt "/CE4B2AFC46038004DA0A9DAC9E977A9F"
+msgid "Restore 1 point of health"
+msgstr ""
+
+msgctxt "/9D7752C547E9D818D0F0D080B67EEA71"
+msgid "Recovery matrix"
+msgstr ""
+
+msgctxt "/3BE77A294BCF9D01CDF035BD4E22C6E3"
+msgid "Recovery Matrix V"
+msgstr ""
+
+msgctxt "/43D113144ECC355A6342F7A04055D8DE"
+msgid "Recovery Matrix VI"
+msgstr ""
+
+msgctxt "/9BDDB6204D1DDDA17E2E1099AD2192E5"
+msgid "Recovery amount:"
+msgstr ""
+
+msgctxt "/5BDAEFCF49B94C2051D724B6561E562A"
+msgid "Deterioration"
+msgstr ""
+
+msgctxt "/32E2EAA549738A1244E5A58278EAEC7E"
+msgid "Demon form"
+msgstr ""
+
+msgctxt "/D8F248CC4E3AFA23B7CD74AEFB98F826"
+msgid "Comprehension"
+msgstr ""
+
+msgctxt "/A9D6596C4843D0997145D187257C0EE7"
+msgid ""
+"It's been too long for you to come~Due to a game version update, the battle "
+"data has expired and has been deleted for you. Please start the game again!"
+msgstr ""
+
+msgctxt "/A322A86442D64A03147B14A346EA2674"
+msgid "Induced electricity"
+msgstr ""
+
+msgctxt "/B71D53354B1D19FD9A590AACFB14984E"
+msgid "Electric damage"
+msgstr ""
+
+msgctxt "/64558E9B409C4DED06ADCD8DF2A12D1F"
+msgid "Number of induced electrical injuries"
+msgstr ""
+
+msgctxt "/DD5AD26E4DBA31C04DDF949DEC3D0622"
+msgid "Electric damage: 1+50% quantum damage"
+msgstr ""
+
+msgctxt "/5299030F43F2049DDFC3BAA5476211C7"
+msgid "Duration of induction"
+msgstr ""
+
+msgctxt "/94AC695D4850937168CA6D9A34DF8209"
+msgid "Electric shock: randomly shocks another enemy when injured"
+msgstr ""
+
+msgctxt "/A6CB81FE47A3C738F1FE618862700337"
+msgid ""
+"Thank you for testing. That's all for the development of the beta version so"
+" far~"
+msgstr ""
+
+msgctxt "/A284D68047BE89831DA16FBDDABE77A7"
+msgid "Becoming a legend"
+msgstr ""
+
+msgctxt "/463CD75E422E13344308DCB9AA3E1DC9"
+msgid "Becoming a master"
+msgstr ""
+
+msgctxt "/B9DD6AC34C70DB2DE4E14D9283F663B7"
+msgid "Achievements"
+msgstr "実績"
+
+msgctxt "/1F808B704A908377EE9C559B269F2020"
+msgid "My ranking:"
+msgstr ""
+
+msgctxt "/AE1BE9B04C02EDB76DF45EA24629D358"
+msgid "Enlarge cursor during battle"
+msgstr ""
+
+msgctxt "/55A327EE419EAF2BE121D095CCD30DC2"
+msgid "Hide interfaces during battles"
+msgstr ""
+
+msgctxt "/E8EAC4734910193FB5FDC28C0AF689E1"
+msgid "During combat, hide the unit."
+msgstr ""
+
+msgctxt "/24D7EA6E466D54FA8FBC028C5B4A4F50"
+msgid ""
+"At the end of the battle, convert the lost health points into space gems"
+msgstr ""
+
+msgctxt "/F97BA65449A716C461EF4DB15382A597"
+msgid "God of War"
+msgstr ""
+
+msgctxt "/861670E7482B9615F7EAC3A699EEAD76"
+msgid "God of War"
+msgstr ""
+
+msgctxt "/F59C6D4448C46237BE3DF7A1CF634312"
+msgid "God of war"
+msgstr ""
+
+msgctxt "/51C83D9247F45C7B5F6C0085F34DE2CB"
+msgid "Record"
+msgstr ""
+
+msgctxt "/993DEDCA4A9B289EACB3659CC7F7B861"
+msgid "Record"
+msgstr ""
+
+msgctxt "/AFA474C642B79A5D205FE4BC254D4B9B"
+msgid "Record"
+msgstr ""
+
+msgctxt "/D55538B142B0269A4498A686A9C94585"
+msgid "Defeat the Apostles"
+msgstr ""
+
+msgctxt "/D09FFCA749A39F59B0AEA6980177E630"
+msgid "Zeta "
+msgstr "ゼータ "
+
+msgctxt "/E49EB8184CAB98E41E9F3DB0C4D144DE"
+msgid "Zeta "
+msgstr "ゼータ "
+
+msgctxt "/ED657CA5485524CCAD2A6DBFE94F9682"
+msgid "Zeta"
+msgstr "ゼータ"
+
+msgctxt "/531F25D14C441063ABCE1A8B186D0B30"
+msgid "Zeta galaxy"
+msgstr "ゼータ銀河"
+
+msgctxt "/D849B4114A45E1E22194B096D9ED6063"
+msgid "Zeta Galaxy"
+msgstr "ゼータ銀河"
+
+msgctxt "/DF6E73134B384CB278F43D911D3D1D59"
+msgid "Zeta galaxy"
+msgstr "ゼータ銀河"
+
+msgctxt "/338AECD04BD447D2A3E436B7D6E43595"
+msgid "all"
+msgstr "すべての"
+
+msgctxt "/826EA35B47BB17E861AB93A1B12EC115"
+msgid "All \"separations\" will not detach from the core (except for aircraft)"
+msgstr "すべての「分離」ユニットはコアから切り離されなくなる (飛行型を除く)"
+
+msgctxt "/621DEB184CD4BCCB2B451EB218E5E54B"
+msgid ""
+"All gunshot damage will put the enemy in a stationary state for 0.5 seconds"
+msgstr ""
+
+msgctxt "/7141C0314076DA169EE287805B8E8BF1"
+msgid ""
+"All \"gun and cannon\" damage will cause enemies to enter an electrified "
+"state for 3 seconds"
+msgstr ""
+
+msgctxt "/CA03A90D4F7A96A3D9B04F9ECFA5D0A6"
+msgid "All \"lasers\" will be aimed at the cursor and fired"
+msgstr ""
+
+msgctxt "/3BE4148D4FA9ADCAF67EDFAFC22A34E2"
+msgid "All lasers will automatically target the enemy"
+msgstr ""
+
+msgctxt "/FF9178324111D927D04526ACA6CD8E02"
+msgid ""
+"All \"physical\" damage has a 1% chance of instantly killing the target "
+"(ineffective against the leader)"
+msgstr "すべての「物理」ダメージは1%の確率で対象を即死させる (ボスには効かない)"
+
+msgctxt "/F04A928D48EF58E70C9751AF1A1704F3"
+msgid ""
+"All melee damage will cause enemies to enter an electrified state for 3 "
+"seconds"
+msgstr ""
+
+msgctxt "/00BC386649D9CEE03112D19AC7BD85F2"
+msgid ""
+"All \"Chaining\" damage will cause the enemy to enter a stationary state for"
+" 0.5 seconds"
+msgstr "すべての「連鎖」ダメージは敵を0.5秒間停止状態にする"
+
+msgctxt "/7FC494D3400C1122DEB99581A5A64422"
+msgid ""
+"All \"Chaining\" damage will cause enemies to enter an electrified state for"
+" 3 seconds"
+msgstr "すべての「連鎖」ダメージは敵を3秒間感電状態にする"
+
+msgctxt "/720F9C1A456D6C0321BAB3BA4AB52C8C"
+msgid "All damage increased"
+msgstr ""
+
+msgctxt "/8C876CEE48AA196418B3D78AA34D77D7"
+msgid "All damage reduced"
+msgstr ""
+
+msgctxt "/6F6C32AE401FC3C0F5E2A4B7814618E4"
+msgid "All spray damage will immobilize the enemy for 0.5 seconds"
+msgstr ""
+
+msgctxt "/9AA48ABC4B3F21C6CEDCD6BA0CD0198E"
+msgid "All linked unit levels+1"
+msgstr ""
+
+msgctxt "/ABF295034CC79BF4705447A2962AE079"
+msgid ""
+"All linked units have a level of+1, after which no units will appear when "
+"the store refreshes!"
+msgstr ""
+
+msgctxt "/0B9008BA4CDE7AB32F3F0287FB1A66C0"
+msgid ""
+"Upgrade all dropped space gems to advanced gems to obtain double space gems"
+msgstr ""
+
+msgctxt "/922FB75949C5CE59B410CCBDDD8DFEC5"
+msgid "All crew members can collect space gems"
+msgstr ""
+
+msgctxt "/EB0D0B5049E58AB58BC57D950E736D64"
+msgid ""
+"All lasers can collect dropped objects (space gems, healing batteries, item "
+"chests)"
+msgstr ""
+
+msgctxt "/D8EBBCA0439FA3AE8E3CBD82B7018DC9"
+msgid "All matrix effects can be stacked"
+msgstr ""
+
+msgctxt "/B499D84949AEEAFE764E5F916BC608B7"
+msgid ""
+"All quantum damage can cause the target to enter a permanent burning state, "
+"causing burning damage every 0.5 seconds"
+msgstr ""
+
+msgctxt "/51DFAF0A4FEF948551768F922F5354DE"
+msgid "When bullet penetrate enemy, they will bounce to the nearest enemy"
+msgstr ""
+
+msgctxt "/1ECC30894C1C7BE90C1BFB92D440CB9E"
+msgid "All missiles can collect space gems"
+msgstr ""
+
+msgctxt "/34269D544918D3324F9580AD5CC3094F"
+msgid "Controller settings"
+msgstr ""
+
+msgctxt "/4177F75D4B1DF13DB474AA97C6FCFE62"
+msgid "Handle vibration"
+msgstr ""
+
+msgctxt "/FB156EC5496E262F14A4B08543C35FF8"
+msgid "Strike I"
+msgstr ""
+
+msgctxt "/C14161884B39259C0B69A3A4BBB794B8"
+msgid "Strike II"
+msgstr ""
+
+msgctxt "/06C8312740CE419B5B8A229EAC17FF5E"
+msgid "Strike III"
+msgstr ""
+
+msgctxt "/9B09D0AC4D2087F81BB59B9A0AD1558F"
+msgid "Strike IV"
+msgstr ""
+
+msgctxt "/70897F3E42ADA64FA77B5DA11D4FD318"
+msgid "Strike V"
+msgstr ""
+
+msgctxt "/A42A97CC4CBE7116A8CC2D81EF1EA111"
+msgid "Strike VI"
+msgstr ""
+
+msgctxt "/6AEAFED14DEEA8C528D83E96D5FD1B0F"
+msgid "Strike VII"
+msgstr ""
+
+msgctxt "/9E780531434213EA1DE5E6B89EFEC8BF"
+msgid "Strike VIII"
+msgstr ""
+
+msgctxt "/4D60745344C37929F450AE9D2DB441A0"
+msgid "Working"
+msgstr ""
+
+msgctxt "/F56260CB4C9A4E44DFF865BC23046A06"
+msgid "Expansion"
+msgstr ""
+
+msgctxt "/57A2B8BB4026FE2E4BA3A58883A41DA3"
+msgid "Strafing"
+msgstr ""
+
+msgctxt "/D63B0C8C4541103977184A848ECE0043"
+msgid "Scanning injector"
+msgstr ""
+
+msgctxt "/EF97DD6E44599627AD5649AAE94C4305"
+msgid "Scanning Ejector II"
+msgstr ""
+
+msgctxt "/EC271C394047259A258B54B9C2AA1AC3"
+msgid "Scanning Ejector III"
+msgstr ""
+
+msgctxt "/D998960E416DF29F773EC39C7BE851D5"
+msgid "Scanning Ejector IV"
+msgstr ""
+
+msgctxt "/4316036643AD9B8B1838FCA2616C692D"
+msgid "Scanning Ejector V"
+msgstr ""
+
+msgctxt "/EAA3F70947E76C9327CECBB5956BD8F0"
+msgid "Scanning injector VI"
+msgstr ""
+
+msgctxt "/278E840C46A9B3C9BE931092105375A8"
+msgid "Scan Nova"
+msgstr ""
+
+msgctxt "/79D6208041A8A1B61BEB5A87374228B5"
+msgid "Scan Nova II"
+msgstr ""
+
+msgctxt "/E84306244D69E1F520FF2EBD38E457D2"
+msgid "Scan Nova III"
+msgstr ""
+
+msgctxt "/489512FD4A0C1D2949AFD9BCD291AAF2"
+msgid "Scan Nova IV"
+msgstr ""
+
+msgctxt "/E88C962A493C9A0EE5C5F19ABB5F30FD"
+msgid "Scan Nova V"
+msgstr ""
+
+msgctxt "/D9943B234B1C34C11D5E4DAEAC1FC54A"
+msgid "Scan Nova VI"
+msgstr ""
+
+msgctxt "/582E9FEE483506954CEF349D0D977D1D"
+msgid "Scan Armor Piercer"
+msgstr ""
+
+msgctxt "/2AC6C4704AEC01D09AC30DA88660C0C1"
+msgid "Scan Armor Piercer II"
+msgstr ""
+
+msgctxt "/3532E8D343B351881E8FB1B98371BF14"
+msgid "Scan Armor Piercer III"
+msgstr ""
+
+msgctxt "/0DCF8B3042F0F5E9B606A3A5E697E4C3"
+msgid "Scan Armor Piercer IV"
+msgstr ""
+
+msgctxt "/3AADB2E7423D04EDACC88D92CB3FCFE8"
+msgid "Scan Armor Piercer V"
+msgstr ""
+
+msgctxt "/2A1183674B3CEF0CF692DD9AD552ADC4"
+msgid "Scan Armor Piercer VI"
+msgstr ""
+
+msgctxt "/65E7C39B436BECB73C17DF8E4110E17C"
+msgid "Sweeping I"
+msgstr ""
+
+msgctxt "/BFA732B54F0B115CFD93A8A6CFB42303"
+msgid "Sweeping II"
+msgstr ""
+
+msgctxt "/0D8A1FF64B7F7003CC7E25A7F7E84CB1"
+msgid "Sweeping III"
+msgstr ""
+
+msgctxt "/8FF83E76479363D33C91CB9B031FA6A8"
+msgid "Sweeping IV"
+msgstr ""
+
+msgctxt "/BA3B61804AD182E9225A458C95CACB3A"
+msgid "Sweeping V"
+msgstr ""
+
+msgctxt "/FD39FA2A44B0D36A6E3EDB8E21B27E40"
+msgid "Sweeping VI"
+msgstr ""
+
+msgctxt "/91699CC84617DFFA22F70D8F11B7B773"
+msgid "Sweeping Away VII"
+msgstr ""
+
+msgctxt "/0B30F39B44F9BB02D13E32B69CA3BD78"
+msgid "Sweeping Up VIII"
+msgstr ""
+
+msgctxt "/593C9BD04CB5E18F012C1A95728C7225"
+msgid ""
+"The number of projectiles and lasers that can penetrate enemies, as well as "
+"the actual damage caused by the chaining"
+msgstr ""
+
+msgctxt "/78F258AF474D35BCD0C44D9D432BF9D0"
+msgid ""
+"The number of projectiles and lasers that can penetrate enemies, as well as "
+"the actual damage caused by the chaining+"
+msgstr ""
+
+msgctxt "/2442935741FEFE4DFF80478E1B7D4C82"
+msgid "Damage from projectiles, chaining, and lasers penetrating enemies"
+msgstr ""
+
+msgctxt "/194F8394467613B2E66C11A944B02F42"
+msgid "Damage from projectiles, chaining, and lasers penetrating enemies+"
+msgstr ""
+
+msgctxt "/0728A3F649047C11A7F324929A8BB59F"
+msgid "Speculators"
+msgstr ""
+
+msgctxt "/6BA9463E41DED4C18FB109B39125F5E0"
+msgid "discount"
+msgstr "割引"
+
+msgctxt "/07053A784DA6767E082B5483DCF588B6"
+msgid "Discount coupon"
+msgstr "割引クーポン"
+
+msgctxt "/61249C6249EC27F96A9E778F78D73338"
+msgid "Armor"
+msgstr "アーマー"
+
+msgctxt "/FCB51E68453659BED942D9A016794C4B"
+msgid "Armor"
+msgstr "アーマー"
+
+msgctxt "/72EA250343CF18B38C1B758AD521255F"
+msgid "Armor+1"
+msgstr "+1 アーマー"
+
+msgctxt "/F02EEAA64CAB8D5E564E0D9C68E40096"
+msgid "Resistance"
+msgstr ""
+
+msgctxt "/5C5419414D283B7C0C336CB3BBA37621"
+msgid "Resist 10 rounds of bullet or laser damage"
+msgstr ""
+
+msgctxt "/F8A0EB024F979EAD912918ABC24B81B4"
+msgid "Resist 15 rounds of bullet or laser damage"
+msgstr ""
+
+msgctxt "/7F6C7746492B589E4D8BD2A383EDDA55"
+msgid "Resist 20 rounds of bullet or laser damage"
+msgstr ""
+
+msgctxt "/422438D94F810FBC4D7BE0BACCE28B58"
+msgid "Resist 25 rounds of bullet or laser damage"
+msgstr ""
+
+msgctxt "/FC9D8D0F4E7D6455692CD0A7FE779043"
+msgid "Resist 30 rounds of bullet or laser damage"
+msgstr ""
+
+msgctxt "/2718057A4537FF56693F9997A34816FA"
+msgid "Resist 5 rounds of bullet or laser damage"
+msgstr ""
+
+msgctxt "/6D09C9544F2FB6114DB5F0AF3FF69A0C"
+msgid "Drag and drop"
+msgstr ""
+
+msgctxt "/B11F1D3945A3B9F4E28098B5650A3E97"
+msgid "Challenge"
+msgstr ""
+
+msgctxt "/3A0FB4584648573FF31A259921AFDAAC"
+msgid "Exciting"
+msgstr ""
+
+msgctxt "/84C798784FA67BE21DF1F4B1A64E6D9B"
+msgid "Control"
+msgstr ""
+
+msgctxt "/E4571B01491120BB242F759F4EF46FB2"
+msgid "Ranking"
+msgstr ""
+
+msgctxt "/8FB8628D4C8D94CCA5E38091172760CB"
+msgid "Ranking upload failed, please check the network! "
+msgstr ""
+
+msgctxt "/D5AEE04A4ABDDF21053553BCBAFD1261"
+msgid "Ranking update in progress"
+msgstr ""
+
+msgctxt "/38442C0049B5F9F4B9FA788C71372B33"
+msgid "Leaderboard"
+msgstr ""
+
+msgctxt "/7C5DEA0B45BFD58679BC9B8656EDDA9F"
+msgid "Leaderboard"
+msgstr ""
+
+msgctxt "/DDCCAE7D41538D68C9B0CFBC6EB67EC9"
+msgid "Leaderboard"
+msgstr ""
+
+msgctxt "/FF57963C4362550CF160888F2E073333"
+msgid "Leaderboard"
+msgstr ""
+
+msgctxt "/F4AB8D1F4488F4F615088EBE3A1D376E"
+msgid "Leaderboard data and Record cannot be inherited! "
+msgstr ""
+
+msgctxt "/6B93AC984BE5509BBA8728A8007C3B40"
+msgid "Detectors"
+msgstr ""
+
+msgctxt "/19D92A7348C713DCE7A1F6948F98FB5B"
+msgid "Explore"
+msgstr ""
+
+msgctxt "/1D3F768442A6E3663CE35CB072170607"
+msgid "Explore"
+msgstr ""
+
+msgctxt "/A1B1F3A24AEA72911F60139BBDA4E63C"
+msgid "Explore"
+msgstr ""
+
+msgctxt "/7A4D57654B55077E9865DBBCBEF43C89"
+msgid "Explore (Wave "
+msgstr ""
+
+msgctxt "/E79ACDD740AA8A9D8CBA35A87DAC253D"
+msgid "Explore (Wave "
+msgstr ""
+
+msgctxt "/7EB4070E4103FA80FCE242BF6F990CE0"
+msgid "Exploration I"
+msgstr ""
+
+msgctxt "/6EB7E30D47043C43AA3AD79F8D17A291"
+msgid "Exploration II"
+msgstr ""
+
+msgctxt "/A8F357AA4FF9E37E79F8068FA4498647"
+msgid "Exploration III"
+msgstr ""
+
+msgctxt "/8E9725B1476165C9B5968A9882CD48A7"
+msgid "Exploration IV"
+msgstr ""
+
+msgctxt "/66C9634B4802D054CD0B79986A3FD9B9"
+msgid "Exploration V"
+msgstr ""
+
+msgctxt "/98A63CCB4D82B7EF7B2A5DBA8DA14066"
+msgid "Exploration VI"
+msgstr ""
+
+msgctxt "/767C2A6F471047E2E8D441AA5330F06A"
+msgid "Explore upgrades"
+msgstr ""
+
+msgctxt "/DFFC32484D433D06EE61999FB5942559"
+msgid "Explorer"
+msgstr ""
+
+msgctxt "/7979FC124CC8EE737047149DC135EF3A"
+msgid "Explore endless modes and join the leaderboard! "
+msgstr ""
+
+msgctxt "/2FCF336C49D28664A190D7B349AFB9E8"
+msgid "During exploration, all units detached from the core"
+msgstr ""
+
+msgctxt "/0F7D753C42AF5171475509ACF365F352"
+msgid "Divorce from the core during exploration"
+msgstr ""
+
+msgctxt "/4574CF98475F87CE124EDD9B7925AA6E"
+msgid "Exploration:"
+msgstr ""
+
+msgctxt "/25D4E8184B95779983453DBCA2ED4653"
+msgid "End of exploration"
+msgstr ""
+
+msgctxt "/7CC668E34B7F8A3DD44FFABC3F40F3A7"
+msgid " explore clear once"
+msgstr ""
+
+msgctxt "/EE18CFEE4E3EEA30145F12B3D3FE0DE7"
+msgid "Interface"
+msgstr ""
+
+msgctxt "/965737F84A159F11B90284B945A33A7D"
+msgid "control"
+msgstr ""
+
+msgctxt "/8C012F7D4CEDE68F195F6191E80F3C54"
+msgid "Thrust"
+msgstr ""
+
+msgctxt "/D0E3BA4D41CB513E29E87CAA1892C3C2"
+msgid ""
+"Improving luck can increase the probability of dropping treasure chests and "
+"the probability of high-quality products appearing in the store. Current "
+"luck"
+msgstr ""
+
+msgctxt "/61AA7E7C47A08518127FBA88ECF664B9"
+msgid "Reminder"
+msgstr ""
+
+msgctxt "/1C5A46624C7D297D3B1EBEA6763F05D0"
+msgid ""
+"Tip: The laboratory is currently under development and will add more "
+"features in the future! "
+msgstr "Tip: 研究室は開発中で、今後さらに機能を追加する予定です！ "
+
+msgctxt "/1D77E587481F0C23C5DB849C884C1EA3"
+msgid ""
+"Tip: The progress of the beta version will not be saved to the official "
+"version of the game"
+msgstr "Tip: β版での進行状況は正式版には保持されません"
+
+msgctxt "/CB4E62074A2C8DB4D2F7FC93166BE53F"
+msgid ""
+"Tip: Your game progress and all achievements will be saved and carried over "
+"to the full version!"
+msgstr "Tip: ゲームの進行状況と実績は正式版に引き継がれます！"
+
+msgctxt "/D3C4FB0342768F3D5E274CB7E9355A7F"
+msgid ""
+"Tip: Click on your records to enter the \"Spirit Hall\" and view the "
+"complete assembly!"
+msgstr "Tip: あなたの記録をクリックして「殿堂」に入ると、完全なアセンブリを見られます！"
+
+msgctxt "/D29D6F9744AD3926B519F8B52AE90779"
+msgid ""
+"Tip: The progress of the trial version will be automatically inherited to "
+"the official version!"
+msgstr "Tip: デモ版の進行状況は自動的に正式版に引き継がれます！"
+
+msgctxt "/4FCF3C38407C3D17358077B28CC9CADA"
+msgid "Speed up"
+msgstr ""
+
+msgctxt "/7AEB66734645F8880A9D2E8C7F368184"
+msgid "Improve"
+msgstr ""
+
+msgctxt "/FF57C23243D77B7227D56ABF6A47DCDA"
+msgid "Ingestion"
+msgstr ""
+
+msgctxt "/D5029E6E4529CE112185E4B9601EEC63"
+msgid "Intake Ejector"
+msgstr ""
+
+msgctxt "/579E666248CD726FB3D48D8255C6CF57"
+msgid "Intake Ejector II"
+msgstr ""
+
+msgctxt "/9049C00842351914E01F4C91640589A1"
+msgid "Intake Ejector III"
+msgstr ""
+
+msgctxt "/6B6172C04E5989B07BEF15A724606AD9"
+msgid "Intake Ejector IV"
+msgstr ""
+
+msgctxt "/7723621D4C990A3B9E2BF0BE0459A133"
+msgid "Intake Ejector V"
+msgstr ""
+
+msgctxt "/06E7A3B74B4CCF8174EF019B993A58E2"
+msgid "Intake injector VI"
+msgstr ""
+
+msgctxt "/AEB0768348AFA4D5C56098847994DF6D"
+msgid "Uptake matrix"
+msgstr ""
+
+msgctxt "/8EAC98E049B8017892B2E7A03C73564D"
+msgid "Ingestion Matrix IV"
+msgstr ""
+
+msgctxt "/CC62094349885B98A22B51ABF655025A"
+msgid "Ingestion Matrix V"
+msgstr ""
+
+msgctxt "/C66D7D5A45392BF2FA2567BDBE547EE3"
+msgid "Ingestion Matrix VI"
+msgstr ""
+
+msgctxt "/F6643FEC4AF6A401B5B21FAE7569B4BB"
+msgid "Tear"
+msgstr ""
+
+msgctxt "/1527F427431BC4D27C4374839C8D6EBB"
+msgid "Operation settings"
+msgstr ""
+
+msgctxt "/D54AA15D42ACC6CDA998D0AAB4E25ED0"
+msgid "Control movement speed"
+msgstr ""
+
+msgctxt "/256D25C049E6F6956E094497FEB4CE83"
+msgid "Control turning speed"
+msgstr ""
+
+msgctxt "/6EC3E49642CC4DCC5A6C3CA687B004A7"
+msgid "Harvesting"
+msgstr ""
+
+msgctxt "/2F5A1D324639E9A61E0292BD45461935"
+msgid "Collection I"
+msgstr ""
+
+msgctxt "/C58FBEE84FD0D972A95B0D821E9ED03D"
+msgid "Collection II"
+msgstr ""
+
+msgctxt "/EBBCDD7F44B90DD967484792E9B845FC"
+msgid "Collection III"
+msgstr ""
+
+msgctxt "/739C97364A1E76F85C45849A7DD43CA5"
+msgid "Collection IV"
+msgstr ""
+
+msgctxt "/E8EADFF74D196D335E8F95B53615F6B1"
+msgid "Collection V"
+msgstr ""
+
+msgctxt "/B8BBB46149975B5F7D3204912523E8AD"
+msgid "Collection VI"
+msgstr ""
+
+msgctxt "/C25D24064FF15A317730C2A2D1698F54"
+msgid "Collection VII"
+msgstr ""
+
+msgctxt "/0B3130C541B2C91A03545599F77779DB"
+msgid "Collection VIII"
+msgstr ""
+
+msgctxt "/87983079423914E8289683A414EAF696"
+msgid "Collectors"
+msgstr ""
+
+msgctxt "/3BD23A48459E021C468A8587C24D8042"
+msgid "Collection scope"
+msgstr ""
+
+msgctxt "/40E0837D47A603BF5D9E5EA1EB613036"
+msgid "Collection scope"
+msgstr ""
+
+msgctxt "/51C53ACB413487472C299AB192AD8A47"
+msgid "Collection scope"
+msgstr ""
+
+msgctxt "/2DA3A88141FF90F743E698BA2779D893"
+msgid "Modification"
+msgstr ""
+
+msgctxt "/228D00E74F010871DE98D8A1990663AC"
+msgid ""
+"Reflect enemy bullets during attack and increase their ranged damage by 100%"
+msgstr ""
+
+msgctxt "/C9AEA93F456BF2B11D92FCAC4D028FB2"
+msgid "Destroy all enemy missiles within range during attack"
+msgstr ""
+
+msgctxt "/0047A05A4AF01DE6E4B4AFB82104D860"
+msgid "When attacking, you can collect space gems"
+msgstr ""
+
+msgctxt "/3D1E8E2C4A02C40FEFFA2DAA3CAF8F84"
+msgid "Attack range"
+msgstr "射程"
+
+msgctxt "/467635DE4822CE760F4BA995154C137A"
+msgid "Attack range"
+msgstr "射程"
+
+msgctxt "/60017B0543588410386FC18BACCEA29E"
+msgid "Attack range"
+msgstr "射程"
+
+msgctxt "/75904BB84AB6774D8874008F1419BB3D"
+msgid "Attack range+1200"
+msgstr "+1200 射程"
+
+msgctxt "/C90A91304A5AC4F1A40CF680588C2BB5"
+msgid "Attack range+300"
+msgstr "+300 射程"
+
+msgctxt "/13E4362C4F9ADDC9B88C3E8128318541"
+msgid "Attack Range+600"
+msgstr "+600 射程"
+
+msgctxt "/AC9EE498418545C95146AC8AA4CABF6D"
+msgid "Attack range+900"
+msgstr "+900 射程"
+
+msgctxt "/53A2DD0547582E6990A4EFA738EFCB15"
+msgid "Reduced attack range"
+msgstr ""
+
+msgctxt "/6E55D6F4497515627AA736B20C4BB38D"
+msgid "Increased attack range"
+msgstr ""
+
+msgctxt "/C70CDB1A4DF297300C3AF1990BD23FA9"
+msgid "Attack speed"
+msgstr "攻撃速度"
+
+msgctxt "/F86ECAED412BE4B82C859AABEEFA1C81"
+msgid "Attack speed"
+msgstr "攻撃速度"
+
+msgctxt "/0F5AC9B147D954FBD550CCA917A966A2"
+msgid "Attack speed+1%"
+msgstr "+1% 攻撃速度"
+
+msgctxt "/51BB33794F9F80745642CE94FE4F2BE4"
+msgid "Attack speed+1%"
+msgstr "+1% 攻撃速度"
+
+msgctxt "/D907843E49AFFB68F521DEBFEDAD969C"
+msgid "Attack speed+5%"
+msgstr "+5% 攻撃速度"
+
+msgctxt "/60A7E9D242847BE437789E96ED389E17"
+msgid "Increase attack speed"
+msgstr ""
+
+msgctxt "/A5F3B9D049FA93F59C83A093A00E7483"
+msgid "Reduced attack speed"
+msgstr ""
+
+msgctxt "/0983D16743ABA9F7181E24A3CBE2D8E5"
+msgid "Abandon"
+msgstr ""
+
+msgctxt "/45E575B249D58BDB9852FD9AB916176D"
+msgid "Enemy damage"
+msgstr ""
+
+msgctxt "/CCCB2F134F22528C31582191988825F3"
+msgid "Enemy damage increased"
+msgstr ""
+
+msgctxt "/620BE58B4D0C37B50D851B97697C6269"
+msgid "Enemy damage reduced"
+msgstr ""
+
+msgctxt "/1758D02640F8CB3ABEBA459D96477613"
+msgid "Number of enemies"
+msgstr ""
+
+msgctxt "/0BA1F90644D8CF280D883EA8B9FB0B22"
+msgid "Reduce the number of enemies"
+msgstr ""
+
+msgctxt "/1EA207FA4AFD1CB335B6F88C2886BA4A"
+msgid "Increased number of enemies"
+msgstr ""
+
+msgctxt "/9223F371421D3D8AEC7930B0D2172364"
+msgid "Enemy Life"
+msgstr ""
+
+msgctxt "/21C29C9B4E36EEFC5765C8897D343689"
+msgid "Enemy health increased"
+msgstr ""
+
+msgctxt "/FDF452CF475700DE278BDCB936CD4885"
+msgid "Enemy health reduced"
+msgstr ""
+
+msgctxt "/FC7FB01B4657AF5CAF718EA74E484E8E"
+msgid "Enemy Speed"
+msgstr ""
+
+msgctxt "/7633699F4FE19450286A42B1AB568976"
+msgid "Enemy speed increased"
+msgstr ""
+
+msgctxt "/D2B9F26641377E16E634BC9F08E350FA"
+msgid "Enemy speed reduced"
+msgstr ""
+
+msgctxt "/D300BD4F411E062425D46FA4DA8D8EDF"
+msgid "Pontiff"
+msgstr ""
+
+msgctxt "/1EBCE95447EEADE083240CA9E6176EB2"
+msgid "Scattering attack"
+msgstr ""
+
+msgctxt "/9D736F34454392CEF269A09B8D4BB3B0"
+msgid "Stay tuned"
+msgstr ""
+
+msgctxt "/D15E7A5F48B2624386ED96A6958A7B75"
+msgid "Nova explosion"
+msgstr ""
+
+msgctxt "/4AA4253844BDB1CA7A95EF92C8CDE14C"
+msgid "New Game"
+msgstr "ニューゲーム"
+
+msgctxt "/7DA947F345D5553B3AD088B01903B809"
+msgid "New record! "
+msgstr "新記録！ "
+
+msgctxt "/605995714FB691280CCDDDBCB12E8820"
+msgid "Rotate"
+msgstr "回転"
+
+msgctxt "/2689AFC64FB10C87F3E3C2860150637A"
+msgid "Flag"
+msgstr ""
+
+msgctxt "/CAD4CCB44C9FA5ABD2368C8707542C10"
+msgid "Without any combat capability"
+msgstr ""
+
+msgctxt "/3911FE7F46DE9F6B459A87AEE0789314"
+msgid "Nameless Hero"
+msgstr ""
+
+msgctxt "/DA6B310A481E807A7944AD89B30A3FA1"
+msgid "Endless Challenge Settlement"
+msgstr ""
+
+msgctxt "/ACDC427E4D04E314443F08A92C22FA15"
+msgid "Endless exploration"
+msgstr ""
+
+msgctxt "/31A8F8DF45A9A95D3557CBAA87F60332"
+msgid "Endless Abyss"
+msgstr ""
+
+msgctxt "/8E86611844204CEF71639685198125CF"
+msgid "Shadowless"
+msgstr ""
+
+msgctxt "/D546FCE94AE5CC400B910789AE7B29D6"
+msgid "Shadowless"
+msgstr ""
+
+msgctxt "/99A0124D47990931F3B3678BF2FCDFFF"
+msgid "No record in battle"
+msgstr ""
+
+msgctxt "/57A248624BF516C2DEE020B30F8CC2E4"
+msgid "Invincible"
+msgstr ""
+
+msgctxt "/8A79B0AA4075D492CBD5A2B9DE7C914B"
+msgid "Unable to control"
+msgstr ""
+
+msgctxt "/D466A28C4FC220097EA19EABC64CA4EA"
+msgid "Unable to penetrate"
+msgstr ""
+
+msgctxt "/DB0B9ECA4B59B6B41C4B36A6747EB99F"
+msgid "Unable to equip jet crew"
+msgstr ""
+
+msgctxt "/418C2E6A4F2658B6DF7E0C9E6A055D3D"
+msgid "Unable to equip laser unit"
+msgstr ""
+
+msgctxt "/8E46323C4D6AEF454571B392294EC299"
+msgid "Unable to equip melee crew"
+msgstr ""
+
+msgctxt "/2E6CB7AA464D7D98EF5DF7B19B186F14"
+msgid "Unable to equip Ranged unit"
+msgstr ""
+
+msgctxt "/13FD84C24EF76DD76BA20ABD808F361E"
+msgid "Unable to dodge"
+msgstr ""
+
+msgctxt "/20476A3A4C334013375B74982153D2B0"
+msgid "No load"
+msgstr ""
+
+msgctxt "/57C244AC48C8C6E99D3850B887F51F2A"
+msgid "Infinite load"
+msgstr ""
+
+msgctxt "/7D3C4B2349005ABA4EB2A4B019B46E9F"
+msgid "Date sorting"
+msgstr ""
+
+msgctxt "/9380456044CE1D84EC94A383BE2B96CE"
+msgid "Time goes back"
+msgstr ""
+
+msgctxt "/A8740A764B66DC9356CC3781D40A515A"
+msgid "Time goes back"
+msgstr ""
+
+msgctxt "/CDFFEDCB4F0749DE8A1F65B90B920E7A"
+msgid "Time goes back"
+msgstr ""
+
+msgctxt "/DA3515AA487C3DCB56B37FAC7C83A454"
+msgid "Time acceleration"
+msgstr ""
+
+msgctxt "/4CA3779742DB73DB70AD858E004F0A63"
+msgid "Time flow rate increases by 100%"
+msgstr ""
+
+msgctxt "/221E7F214CDAF1CC06862D8BAE86FD64"
+msgid "Galaxy"
+msgstr "銀河"
+
+msgctxt "/4A3457F44F812ECA799D3CA73E864F6F"
+msgid "galaxy"
+msgstr "銀河"
+
+msgctxt "/B73DFCBE46B95939422296A7813BA871"
+msgid "galaxy"
+msgstr "銀河"
+
+msgctxt "/0EC93C5D4A9E50E8F30E21A97080D1EB"
+msgid "Galaxy Ranking"
+msgstr "銀河ランキング"
+
+msgctxt "/D94B7C384C5FDCA8BA769EB584FC5176"
+msgid "Starship Bastion"
+msgstr ""
+
+msgctxt "/E0AA92A041BD7CA00D58B99C732CAA1F"
+msgid "Orbital control"
+msgstr ""
+
+msgctxt "/A79EEA7640745D6BEBA1C5AD5B0715DF"
+msgid "Interstellar Tour"
+msgstr ""
+
+msgctxt "/6998007F420C6C53B4E6D596B1267379"
+msgid "Interstellar Rainbow"
+msgstr ""
+
+msgctxt "/2009E59745DF0E22AAB55DA89ECAEA29"
+msgid "Space Will"
+msgstr ""
+
+msgctxt "/84F8358B4DFA4FA5F5D9748BD97C8748"
+msgid "Space Will"
+msgstr ""
+
+msgctxt "/F8C380E547F8E41F89D7509F28C7C8AF"
+msgid "Space Will"
+msgstr ""
+
+msgctxt "/04EB8AEE4F02CBA982B03CA382465F44"
+msgid "Interstellar Heritage"
+msgstr ""
+
+msgctxt "/1B81096E433E3D9450A6678104262085"
+msgid "Yes"
+msgstr ""
+
+msgctxt "/436E2A0647372B68448EF1BFB2CC6B05"
+msgid "Do you want to fix the core and explore the current wave again? "
+msgstr ""
+
+msgctxt "/DD40562D40316864F27AEBA0E044E58C"
+msgid "Is Endless Exploration Endless?"
+msgstr ""
+
+msgctxt "/4FAA50BE49C0CAB7C9B4F9898A03223C"
+msgid "Crystal Core Fortress"
+msgstr ""
+
+msgctxt "/F2273DB4456A766A5E2FDEB544944DAE"
+msgid "Wisdom incarnation"
+msgstr ""
+
+msgctxt "/949445124145271AB5A59C88DC3281EC"
+msgid "Wise person"
+msgstr ""
+
+msgctxt "/75B1B0344BAB4D15D12BB7BE5E8DA7ED"
+msgid "Intelligence"
+msgstr "知性"
+
+msgctxt "/AEC8BA764F9105D8D34EE0AE22B4F312"
+msgid "Intellegent"
+msgstr ""
+
+msgctxt "/DEBA66F64C7202B7B6B8CDA15B9B3301"
+msgid "Intellegent"
+msgstr ""
+
+msgctxt "/4E3FD2744123FA1A9FC17EA28E29479E"
+msgid "The Intelligent Era"
+msgstr ""
+
+msgctxt "/D5212327463C5A61D009BC98C6B5F18D"
+msgid "Paused"
+msgstr "ポーズ"
+
+msgctxt "/32F8233A44C2F9E0A9CCB8ABF54CB0A3"
+msgid "Not yet open"
+msgstr ""
+
+msgctxt "/612E58CF4C052BDB334CFA9A0D93CA41"
+msgid "Not yet open, please stay tuned~"
+msgstr ""
+
+msgctxt "/D3644BF04560EE6A0419188C46C48864"
+msgid "Critical strike"
+msgstr "クリティカル"
+
+msgctxt "/43D3C6C94E025971986794B00F09FE95"
+msgid "Critical damage"
+msgstr "クリティカルダメージ"
+
+msgctxt "/B933FEE141A16EBE0DDA84BC112C6664"
+msgid "Critical damage"
+msgstr "クリティカルダメージ"
+
+msgctxt "/ED460BE14DFABB572EA8C4AA5BC833FC"
+msgid "When critically striking, emit pulse lightning to attack enemies"
+msgstr ""
+
+msgctxt "/91C575C1420D380BB9D552BBB0597FCA"
+msgid "Critical Hit Rate"
+msgstr "クリティカル率"
+
+msgctxt "/D1E7AC5E414559367A5F59811B142649"
+msgid "Critical Hit Rate"
+msgstr "クリティカル率"
+
+msgctxt "/F14E06E14986B2F089ED09B040FB52F0"
+msgid "Critical Hit Rate"
+msgstr "クリティカル率"
+
+msgctxt "/31A07F8B4B5AB30E452E2F9E0B94DE7A"
+msgid ""
+"When critical hit rate is modified, critical damage is equally modified"
+msgstr ""
+
+msgctxt "/38B3F52C4A035E2080C51FB14C2C87AB"
+msgid "Max Health"
+msgstr "最大ライフ"
+
+msgctxt "/6A40E2B84FA0EDE8873E6C8556D078B2"
+msgid "Maximum health+1"
+msgstr "+1 最大ライフ"
+
+msgctxt "/DE99DF62478CA6566A17D7BFB6F932C2"
+msgid "Max Health+1"
+msgstr "+1 最大ライフ"
+
+msgctxt "/2A9100254C02D08FC39142A71C992AC9"
+msgid "Maximum health+5"
+msgstr "+5 最大ライフ"
+
+msgctxt "/53AE07854D4D2D5B38F5AAB71416FADA"
+msgid ""
+"Maximum health+50, health regeneration+25, collection range+800, ranged "
+"damage+10"
+msgstr ""
+
+msgctxt "/E2E1C7D34DD590F0A0DB6BA7451A07D6"
+msgid ""
+"Max Health, melee damage, ranged damage, quantum damage, technology: all+2"
+msgstr ""
+
+msgctxt "/7B21E91742E12562E26B34A9039B6765"
+msgid "The Strongest Brave"
+msgstr ""
+
+msgctxt "/1A54ADAC429309C8AD73BF9CF9146D2A"
+msgid "Final form"
+msgstr ""
+
+msgctxt "/9FBE5A2F45FCCD138F9493843A1FC224"
+msgid "Final wave:"
+msgstr ""
+
+msgctxt "/EF8AC68C45701B418AAE20987D510CC8"
+msgid "The highest exploration wave reaches:"
+msgstr ""
+
+msgctxt "/0CC538E74B9FB8514A9E8DB9FB36C96B"
+msgid "Highest wave"
+msgstr ""
+
+msgctxt "/CD13DE3C45BEF72A335BE499C20E3590"
+msgid "Highest wave"
+msgstr ""
+
+msgctxt "/137A78744AF829C0D1F4CA83E58728A7"
+msgid "Maximum wave:"
+msgstr ""
+
+msgctxt "/7907663946708FDF56EF73A5CC24C78E"
+msgid "Maximum Abyss Wave:"
+msgstr ""
+
+msgctxt "/E4C4C74A4695D83D34165287A41E1A14"
+msgid "Maximum Abyss Wave:"
+msgstr ""
+
+msgctxt "/20413E33477CE2E6CBEB048BB2DEB2B2"
+msgid "The highest level reaches:"
+msgstr ""
+
+msgctxt "/CE2D12E041DD6F0B42BF11BB0949BC80"
+msgid "Highest level:"
+msgstr ""
+
+msgctxt "/B9DDCC694ECCE3837BA914810BD84401"
+msgid "Highest clearance galaxy"
+msgstr ""
+
+msgctxt "/1D3D2C4F45EF4CB11C0259A3DF923B7E"
+msgid "have"
+msgstr ""
+
+msgctxt "/84BE9BCE4ABE8AEA77E452A87909796E"
+msgid ""
+"There is a 20% chance of continuous promotion to level 2 (every 10 points of"
+" luck+1% chance),"
+msgstr ""
+
+msgctxt "/AB78B2064D79D308ADE5FCA960892986"
+msgid "Telescope"
+msgstr ""
+
+msgctxt "/E0F02FE44CB82798AD43A1BEE8D727AE"
+msgid ""
+"Units of the same level that are not connected to the core can be combined "
+"with each other to randomly obtain higher-level units (all units that are "
+"not unlocked, disabled, or hidden may obtain them)"
+msgstr ""
+
+msgctxt "/C476933A423155B27E5EB28330F84F7E"
+msgid "Not open"
+msgstr ""
+
+msgctxt "/3E936275462081AB9F3E27A8077C10B8"
+msgid ""
+"Unpicked \"space gems\" will be temporarily stored in the warehouse. The "
+"next time you pick up space gems, you will receive double the gems "
+"(experience points will also be doubled)"
+msgstr ""
+
+msgctxt "/0176FA9A49B1429AB62740942C1774C3"
+msgid "Unequipped units will be stored in the warehouse"
+msgstr ""
+
+msgctxt "/6F0F2E0749C8C15BF4F790894359EAA3"
+msgid "Unlocking chip"
+msgstr ""
+
+msgctxt "/8FA46A414682BD9AC439DE86055EE6F5"
+msgid "This Abyssal Wave:"
+msgstr ""
+
+msgctxt "/F842E5764C280CA988CA108FF818F1EE"
+msgid ""
+"This game was created by \"Zhang Liang 002\" alone. If you think the game is"
+" good, please add the full version of \"Star Will\" to your wish list and "
+"recommend it to your friends! Thank you very much for your support!"
+msgstr ""
+
+msgctxt "/63AAD6B5442DB2114ABB36BFAC255FF3"
+msgid ""
+"This game was single-handedly created by the Bilibili UP master \"Zhang "
+"Liang002\". If you enjoy the game, feel free to recommend “Space Will” to "
+"your friends! Thank you so much for your support!"
+msgstr ""
+
+msgctxt "/59F47399477AF7E5EE57B8B1EB9D381D"
+msgid ""
+"This game was created by the Bilibili UP owner \"Zhang Liang 002\" alone. If"
+" you think the game is good, please add the official version of \"The will "
+"of space\" to your wish list and recommend it to your friends! Thank you "
+"very much for your support!"
+msgstr ""
+
+msgctxt "/61570D9D473BD486F8B792AD17B8B965"
+msgid "Machine Gun Flyer"
+msgstr ""
+
+msgctxt "/41B9289649CC373986EB93BC0F70BFEE"
+msgid "Machine Gun Flyer II"
+msgstr ""
+
+msgctxt "/3BA67B684F6F7DBCE15B51B411820C2E"
+msgid "Machine Gun Flyer III"
+msgstr ""
+
+msgctxt "/3B247663476CE99E05618AACA9030188"
+msgid "Machine Gun Flyer IV"
+msgstr ""
+
+msgctxt "/ACA7CA4F4B321B7FC4E93BB466C966EF"
+msgid "Machine Gun Flyer V"
+msgstr ""
+
+msgctxt "/D455B263491FC55E71D2A78D52622005"
+msgid "Machine Gun Flyer VI"
+msgstr ""
+
+msgctxt "/2E8214914EAF955EEECE938874CF3E14"
+msgid "Unit"
+msgstr "ユニット"
+
+msgctxt "/3B3C80AE47A25AD0CEFD9F85923BB668"
+msgid "Unit"
+msgstr "ユニット"
+
+msgctxt "/7174459C48E1C2E2807D3D8C97663BF1"
+msgid "When upgrading the unit,"
+msgstr "ユニットアップグレード時、"
+
+msgctxt "/A3ACA2414A3C9BB87D4406AA26CA16A8"
+msgid "When upgrading the unit, the core gains evolution:"
+msgstr ""
+
+msgctxt "/934809A84583F6CB0B164FBA123D8D5B"
+msgid "When upgrading the unit:"
+msgstr "ユニットアップグレード時:"
+
+msgctxt "/6884A3CD41DE0FB9EA198F8EDA21F621"
+msgid "Unit drawing guide"
+msgstr ""
+
+msgctxt "/FABA892144D3BDC5275286B4B5EC5A44"
+msgid "For every+1 units, the Max Health is -1"
+msgstr ""
+
+msgctxt "/B727310E41509DC4B714778D5FD1874A"
+msgid "Number of units:"
+msgstr "ユニット数:"
+
+msgctxt "/089C04E54A7C9BBDFD42779983000B72"
+msgid "Number of units:"
+msgstr "ユニット数:"
+
+msgctxt "/AF860195415CFBD99C9829A0935FA862"
+msgid "Unit level"
+msgstr "ユニットレベル"
+
+msgctxt "/C1B6430B4BC58FFE3E084EAC0739F15E"
+msgid "Unit durability"
+msgstr ""
+
+msgctxt "/6D8004C94E0EE8F596915FB35838E5D0"
+msgid "Unit, increase equivalent to unit level"
+msgstr ""
+
+msgctxt "/CA8EDAAD4351F891AC5AE6B8762223BD"
+msgid "Unit:"
+msgstr "ユニット:"
+
+msgctxt "/A55370724910175E68C109B7F78C055A"
+msgid "Rights"
+msgstr ""
+
+msgctxt "/3D2EEED44D6864BFB651F58B5470526E"
+msgid "Extreme cold"
+msgstr ""
+
+msgctxt "/9FFED4304883CD861AAEB0A79CED2C03"
+msgid "Extreme Slash"
+msgstr ""
+
+msgctxt "/B4AF57DA4F55B4C7DB17F087E2428651"
+msgid ""
+"During construction, rotation does not change the direction of the weapon"
+msgstr ""
+
+msgctxt "/4C8CF87847222FB3176698A94AF1AAB4"
+msgid "Architect Prime"
+msgstr ""
+
+msgctxt "/E4E431A0447B63151702B497CA63298C"
+msgid "Construction test"
+msgstr ""
+
+msgctxt "/EF6AE6B54C2728B2718E59912A7743E0"
+msgid "Firearm"
+msgstr "銃器"
+
+msgctxt "/6E79E6E0493E9B2294A4958C1A205F5D"
+msgid "Gun Master"
+msgstr ""
+
+msgctxt "/A2E1076C45CD0B4F02FC7EA5B5BCF4A7"
+msgid "Standard mode (recommended)"
+msgstr ""
+
+msgctxt "/71A946B1486738C98140A299AA5B5007"
+msgid "core"
+msgstr "コア"
+
+msgctxt "/7A506EF04BFB6E28F634B3AB7F70A894"
+msgid "The core will not rotate with the cursor"
+msgstr ""
+
+msgctxt "/C8FDA24A43EB793C6C6CEFBA4CF684C0"
+msgid "Core modification: The core will not rotate with the cursor"
+msgstr ""
+
+msgctxt "/862E0FF8445F0A9DC3BB3A82C1A5BC90"
+msgid "During core upgrade"
+msgstr ""
+
+msgctxt "/44C97E7B4A61A239198461BF01206CBA"
+msgid ""
+"When upgrading the core, deal 5+200% melee damage to all enemies and put "
+"them in a poisoned state for 20 seconds"
+msgstr ""
+
+msgctxt "/625E825E4961AD0696041B8D50CCF02A"
+msgid ""
+"When upgrading the core, release a new star burst that deals damage to "
+"surrounding enemies (150% maximum health+150% luck) and puts them in a "
+"stationary state for 0.5 seconds"
+msgstr ""
+
+msgctxt "/E9E408F74206C4B1E7404DAF07E87F01"
+msgid ""
+"When the core is damaged, launch defensive lightning to attack the enemy"
+msgstr ""
+
+msgctxt "/653E2CDD4D6447E633D363BE1582BA12"
+msgid ""
+"When the core is hit and damaged by enemies, it puts the target in a burning"
+" state, causing burning damage every 0.5 seconds for 3 seconds"
+msgstr ""
+
+msgctxt "/4A1191FA4E0134F21F50E9A45767D4FC"
+msgid ""
+"When the core is hit and damaged by enemies, it reflects 100% of the damage "
+"and deals an additional 300% armor damage to the target"
+msgstr ""
+
+msgctxt "/CF5819FA43FD970B2D3A32AA646EC35B"
+msgid ""
+"When the core is within the attack range of the crew, launch a therapeutic "
+"missile towards the crew"
+msgstr ""
+
+msgctxt "/E78B69A64363EBAEC4CB8390E993B49D"
+msgid ""
+"After the core begins to move, it creates fog behind it, poisoning enemies "
+"who encounter the fog and dealing damage once per second for 5 seconds"
+msgstr ""
+
+msgctxt "/90C378A844DED1801BDE89BBF5D327BD"
+msgid "Core armor+1"
+msgstr "+1 コアアーマー"
+
+msgctxt "/13D67C0A4BA0E6C88807EAA2682D8184"
+msgid "Core armor+2"
+msgstr "+2 コアアーマー"
+
+msgctxt "/3888CD0F4F12940C754F419ECE8B3393"
+msgid "Core armor+3"
+msgstr "+3 コアアーマー"
+
+msgctxt "/A3177F1640B90AA4AAAFDA96DFC712D2"
+msgid "Core armor+4"
+msgstr "+4 コアアーマー"
+
+msgctxt "/84B048024CC5702C08F284A86D7178B3"
+msgid "Core armor+5"
+msgstr "+5 コアアーマー"
+
+msgctxt "/0D7D71CB4DF643A3C2FB879F0BDC0659"
+msgid "Core armor+6"
+msgstr "+6 コアアーマー"
+
+msgctxt "/64F3B47645A6FDA83715A293D8C6C6D1"
+msgid "The core effect has expired"
+msgstr ""
+
+msgctxt "/A7D8D76441A2B0AD73BF62987A525356"
+msgid "The collection scope of the core has decreased by "
+msgstr ""
+
+msgctxt "/EDB7961747AB067A7367C8A39696EBBB"
+msgid "The collection scope of the core has increased by "
+msgstr ""
+
+msgctxt "/BC6BDFB5451F59F253CD6294C118EBE0"
+msgid ""
+"During core movement, continuously increase damage based on current movement"
+" speed"
+msgstr ""
+
+msgctxt "/A78FF72D4805CE0E2B3F3ABABAA4C423"
+msgid ""
+"When the core is destroyed, it can be fought again (before returning to the "
+"current wave of exploration)"
+msgstr ""
+
+msgctxt "/483C2A68472BFFCB0A46E2B11EB45551"
+msgid "Core overload"
+msgstr ""
+
+msgctxt "/D582421747B99860DDB5CC9BBFDC3902"
+msgid "Core melee damage+1"
+msgstr "+1 コア近接ダメージ"
+
+msgctxt "/E762354049D5D49440560AAA526A01DC"
+msgid "Core melee damage+2"
+msgstr "+2 コア近接ダメージ"
+
+msgctxt "/7C5D845346CDA4B232B62A992ADF7ED8"
+msgid "Core melee damage+3"
+msgstr "+3 コア近接ダメージ"
+
+msgctxt "/A27B1B9844AA69D48A1F8DA478602BA8"
+msgid "Core melee damage+4"
+msgstr "+4 コア近接ダメージ"
+
+msgctxt "/3EF669CB430C8CDCC8DCEBAF96225816"
+msgid "Core melee damage+5"
+msgstr "+5 コア近接ダメージ"
+
+msgctxt "/331ABF9D4E4612FC40639A8631439C9D"
+msgid "Core melee damage+6"
+msgstr "+6 コア近接ダメージ"
+
+msgctxt "/27DBE64B4AD483D528C28298FB93623C"
+msgid "Core:"
+msgstr "コア:"
+
+msgctxt "/1F856F6F4CEFC191EE3E9A878209D3B6"
+msgid "Nuclear fusion device"
+msgstr ""
+
+msgctxt "/6BF212F54DBA8C782819D5AA4692D135"
+msgid "Nuclear Fusion Device II"
+msgstr ""
+
+msgctxt "/02D0459444BA2A330C926983EA4DF9B3"
+msgid "Nuclear Fusion Device III"
+msgstr ""
+
+msgctxt "/5658F28B4606188CFDE1D093AEA6E3A7"
+msgid "Nuclear Fusion Device IV"
+msgstr ""
+
+msgctxt "/6397912A498C9C78D53B14B8A239B2F8"
+msgid "Nuclear Fusion Device V"
+msgstr ""
+
+msgctxt "/58708939446380F4CD8A8FB440651D32"
+msgid "Nuclear Fusion Device VI"
+msgstr ""
+
+msgctxt "/C7F6710F44FCD0584F675D8CE68C4053"
+msgid ""
+"Based on the attack range and orientation, move away from the core and shoot"
+" laser towards the core"
+msgstr ""
+
+msgctxt "/A301B03A4C5F258D66BDA688F03EA360"
+msgid "Dream"
+msgstr ""
+
+msgctxt "/5720A677456F3CDAFF98A5B226BDD091"
+msgid ""
+"Probability of restoring 1 health point (up to 10 recoveries per second)"
+msgstr ""
+
+msgctxt "/A06110A54E2437BC84FF569722FEA417"
+msgid "Probability avoidance"
+msgstr ""
+
+msgctxt "/DC26111F4AAAD7C2F87F1F9A9A4F74DE"
+msgid "times"
+msgstr ""
+
+msgctxt "/855497C54B988C820BB57697691CDC47"
+msgid ""
+"Welcome to The will of space Demo. In this free version, you will experience"
+" some of the official content. Thank you very much for coming and "
+"experiencing!"
+msgstr ""
+
+msgctxt "/EFD614E94F5EB7F7D730728B7EB53708"
+msgid ""
+"Welcome to Space Will: prologue. In this free version, you will experience "
+"some of the full content. Thank you very much for coming and experiencing!"
+msgstr ""
+
+msgctxt "/65E8F01C4FC3DE2F874E64925A34CA37"
+msgid "Under development, please stay tuned"
+msgstr ""
+
+msgctxt "/292DEB00448173743AA620BDD97F5679"
+msgid "Authentic verification failed"
+msgstr ""
+
+msgctxt "/41A40DD0426023A099FDC0A73E4EF843"
+msgid "Martial Arts"
+msgstr ""
+
+msgctxt "/FDDC7937428BE8CCBD9E85B23926E731"
+msgid "Escape from death"
+msgstr ""
+
+msgctxt "/B0F6BCEA440E0366139C95A94D8AA42A"
+msgid ""
+"Residual: Causing high-frequency damage to enemies on the flight path "
+"(missile destroyed and ineffective)"
+msgstr ""
+
+msgctxt "/7DDE3E634397AD7BB0FFE48C8020C880"
+msgid "Destroyer"
+msgstr ""
+
+msgctxt "/C67229CE49E08A0493FE43962806F153"
+msgid "Destruction prevention"
+msgstr ""
+
+msgctxt "/D4C1B94B413D314A6CE51BAA4086A5CA"
+msgid "Every 1"
+msgstr ""
+
+msgctxt "/EAB0C4CB480976F878198F811EF45293"
+msgid "Every 1"
+msgstr ""
+
+msgctxt "/AD38ABF645F8925680685A842965D362"
+msgid "Every 1%"
+msgstr ""
+
+msgctxt "/49F30AC643EA2BB86C9077B58DFF8234"
+msgid ""
+"Provide a treatment battery every 10 seconds (-0.05 seconds per technology "
+"point)"
+msgstr ""
+
+msgctxt "/428F5E9444D0F44161AD2590DD215D1B"
+msgid "Each point of armor can reflect twice more"
+msgstr ""
+
+msgctxt "/8193582347CACF92A1F0C8B33EE5F6E0"
+msgid "Each point of armor can reflect twice more"
+msgstr ""
+
+msgctxt "/7B72C06847DA4394206A878757E00958"
+msgid "Each point of armor can withstand 1 more damage"
+msgstr ""
+
+msgctxt "/EDC6FFD248C6B20F496F4BB5F1F41EC5"
+msgid "Every 1 point of technology improves"
+msgstr ""
+
+msgctxt "/A123F45C4E0C6B901B94C581D2B0C828"
+msgid "Every 2"
+msgstr ""
+
+msgctxt "/C281305B4E586F34F3F0E5A8F6BBDC2A"
+msgid ""
+"Launch missiles every 3 seconds based on the orientation of the core, "
+"causing 1+25% maximum health and 25% ranged damage (affected by attack "
+"speed)"
+msgstr ""
+
+msgctxt "/254EE36C46728D986EEDAFA9E09C660F"
+msgid "Every 5"
+msgstr ""
+
+msgctxt "/18D3A3B741FFCCF6F8E1E7BCF41593BE"
+msgid "Every 5 seconds"
+msgstr ""
+
+msgctxt "/461217C74FA350A316AC8D9068DF5718"
+msgid ""
+"Bomb all enemies within a small range of the cursor position every 5 "
+"seconds, dealing 5+500% ranged damage and 500% quantum damage (affected by "
+"attack speed)"
+msgstr ""
+
+msgctxt "/8A7AD0CB4541DA970101719157137367"
+msgid "Free refresh times per wave of store+"
+msgstr ""
+
+msgctxt "/AF5146D6478DECDB1ADECD8C1FE9153D"
+msgid ""
+"After each wave of exploration, randomly increase the following attributes "
+"by 1 point:"
+msgstr ""
+
+msgctxt "/F98AC3394FF95D58FD9DFDB7716B12FB"
+msgid "After each wave of exploration:"
+msgstr ""
+
+msgctxt "/1B5985734733B260C6670985C5F39DF4"
+msgid "Add 1 load to each assembled unit"
+msgstr ""
+
+msgctxt "/4867E6DF4C7418A9BB35F0BE6F44F3B5"
+msgid "Kill every 10 enemies"
+msgstr "敵を10体倒す毎に"
+
+msgctxt "/B6CE81104399AC0DD7B6DE9C4C84A6F5"
+msgid "Kill every 12 enemies"
+msgstr "敵を12体倒す毎に"
+
+msgctxt "/5D7C70B245D791DCBBF4F2925FB2F3E5"
+msgid "Kill every 14 enemies"
+msgstr "敵を14体倒す毎に"
+
+msgctxt "/54FD603C4CB2A5F39EE0CD9DABFA0B46"
+msgid "Kill 15 enemies per kill"
+msgstr "敵を15体倒す毎に"
+
+msgctxt "/642A3CA24B3262DC9072B299DB236491"
+msgid "Kill every 15 enemies"
+msgstr "敵を15体倒す毎に"
+
+msgctxt "/A479B1A84D9662D44E08A891920FD6C7"
+msgid "Kill every 16 enemies"
+msgstr "敵を16体倒す毎に"
+
+msgctxt "/C26CAADD44750C3CFABECEB7B6F38B68"
+msgid "Kill every 16 enemies"
+msgstr "敵を16体倒す毎に"
+
+msgctxt "/E5236F424BBEA7AA6E0999A097A78E97"
+msgid "Kill 16 enemies per kill"
+msgstr "敵を16体倒す毎に"
+
+msgctxt "/0241235F4023E4B4CEEB24A8BCE3C44C"
+msgid "Kill every 17 enemies"
+msgstr "敵を17体倒す毎に"
+
+msgctxt "/0530202F465CA44ED512A19E99850D9A"
+msgid "Kill 17 enemies per kill"
+msgstr "敵を17体倒す毎に"
+
+msgctxt "/3E9F702547E06E2CA95126B64360D68C"
+msgid "Kill every 18 enemies"
+msgstr "敵を18体倒す毎に"
+
+msgctxt "/B3E46E8B4F7B237978610AB94A2AA6BE"
+msgid "Kill 18 enemies per kill"
+msgstr "敵を18体倒す毎に"
+
+msgctxt "/B9954A824D6A2A1F1236E580605D35EA"
+msgid "Kill every 18 enemies"
+msgstr "敵を18体倒す毎に"
+
+msgctxt "/3E4E9FED436A37B417BA7180CAB2DA79"
+msgid "Kill 19 enemies per kill"
+msgstr "敵を19体倒す毎に"
+
+msgctxt "/CA9381504007F7D8F4B870ABBC9B5B1A"
+msgid "Kill every 19 enemies"
+msgstr "敵を19体倒す毎に"
+
+msgctxt "/3EEBB089479714715860FC8523212599"
+msgid "Kill every 20 enemies"
+msgstr "敵を20体倒す毎に"
+
+msgctxt "/9927384945017CAB1DF54D94673BC4FF"
+msgid "Kill 25 enemies per kill"
+msgstr "敵を25体倒す毎に"
+
+msgctxt "/3CC37C044676C2A001E88596411F1920"
+msgid "Kill 26 enemies per kill"
+msgstr "敵を26体倒す毎に"
+
+msgctxt "/5FE8084343D6FD58C8D1BDBF64B6E946"
+msgid "Kill 27 enemies per kill"
+msgstr "敵を27体倒す毎に"
+
+msgctxt "/B5E4A90645B1CF78A878AD99D3A8587E"
+msgid "Kill 28 enemies per kill"
+msgstr "敵を28体倒す毎に"
+
+msgctxt "/4D178461497D8B4CEEF61A98E038FF14"
+msgid "Kill 29 enemies per kill"
+msgstr "敵を29体倒す毎に"
+
+msgctxt "/BCA270964504E115B5178483D88F8167"
+msgid "Kill 30 enemies per kill"
+msgstr "敵を30体倒す毎に"
+
+msgctxt "/C239F9834D4A16A473836E93E60B216E"
+msgid "Kill every 8 enemies"
+msgstr "敵を8体倒す毎に"
+
+msgctxt "/48D564094FD950B94722699F15026FA7"
+msgid "Lost after each round of exploration"
+msgstr ""
+
+msgctxt "/8E69001040BE504FFF47B88E4A0AD81F"
+msgid "Gain after each round of exploration"
+msgstr ""
+
+msgctxt "/0364CDAC45712363F6C969A1B4716D2F"
+msgid "Every chip owned"
+msgstr ""
+
+msgctxt "/0262BE9D4887DC7E96BD459E72592600"
+msgid "Every time the store is actively refreshed"
+msgstr ""
+
+msgctxt "/07E5BB584A56E005B2C0E48EF1248045"
+msgid ""
+"Every time burning damage occurs, there is a 5% chance that it will spread "
+"to nearby enemies"
+msgstr ""
+
+msgctxt "/907D63244923D44CECCBCA8179899548"
+msgid ""
+"Every time dealing critical damage to an enemy,+1% of the critical damage is"
+" dealt until the end of each exploration wave"
+msgstr ""
+
+msgctxt "/BD76955941AE65C4EC695FA7E9E2A074"
+msgid ""
+"Launch healing lightning to attack enemies every time health is restored"
+msgstr ""
+
+msgctxt "/F562AE684AE399DACB69B6B7259C8CD3"
+msgid "Each time health is restored, fire one catapult at the nearest enemy"
+msgstr ""
+
+msgctxt "/58E9C0E344552538F9E034886DDE02AB"
+msgid ""
+"Each time health is restored, deal damage equal to Max Health to a random "
+"enemy"
+msgstr ""
+
+msgctxt "/365BEF564D365501543B8CB70D675029"
+msgid ""
+"Each time you obtain a space gem, deal 200% armor value+5 damage to a random"
+" enemy"
+msgstr ""
+
+msgctxt "/573DB36744B6BC97D1491EA5021B84B4"
+msgid ""
+"Each time you obtain a space gem, deal 50% maximum health damage to a random"
+" enemy"
+msgstr ""
+
+msgctxt "/2C4685D94F467D1A06C335A3C2936F8B"
+msgid ""
+"At the beginning of each exploration wave, clear all space gems and gem "
+"warehouses"
+msgstr ""
+
+msgctxt "/D86053CC40ABEFDCC6BF809A0F97D71C"
+msgid "Provide a prop chest for each wave of exploration"
+msgstr ""
+
+msgctxt "/E38BB3044341CC8D05A1AA81A4CEC5BC"
+msgid ""
+"Shoot one origin missile at the cursor every second, dealing 1+100% ranged "
+"damage (affected by attack speed), and immobilizing the target for 0.5 "
+"seconds"
+msgstr ""
+
+msgctxt "/65E44F1F41C18E88838D89B72413E316"
+msgid ""
+"Shoot missiles at the cursor every second, dealing 1+100% ranged damage "
+"(affected by attack speed)"
+msgstr ""
+
+msgctxt "/E993C0FB4CAF9CEEBE78779EADB9C5C5"
+msgid "Every time away from the core"
+msgstr ""
+
+msgctxt "/C8075B944503EED684671CB36EDFF6CB"
+msgid "1 per link"
+msgstr "リンク毎に1"
+
+msgctxt "/AF0B79DA4C8A164AB9D0298E3D6ECDB5"
+msgid "1 unit per link"
+msgstr "リンク毎に1ユニット"
+
+msgctxt "/D12A7FC74201301CFCF80AA2FC02FE55"
+msgid "Every 24 seconds, absorb all space gems in the scene"
+msgstr ""
+
+msgctxt "/70E85F2B4F7905CA5205A293DF8B5E1A"
+msgid "Every"
+msgstr ""
+
+msgctxt "/AD304C954138FD65A4B16AA717312D6F"
+msgid ""
+"Launch ionizing radiation (affected by attack range) every 10 seconds (-0.05"
+" seconds per technology point), causing 100% quantum damage and placing "
+"enemies in an \"electrified\" state for 3 seconds"
+msgstr ""
+
+msgctxt "/19C8C30E44A81843CBC667A23A53CD53"
+msgid "Graduation"
+msgstr ""
+
+msgctxt "/CD80FE5743BB8574DAF5F39923CC3508"
+msgid "Water jet device"
+msgstr ""
+
+msgctxt "/5EE8DCAD435B54545BD78881C53F66C7"
+msgid "Water jet device II"
+msgstr ""
+
+msgctxt "/4763A21B4BCC09590F6DA29B48AA5BA5"
+msgid "Water jet device III"
+msgstr ""
+
+msgctxt "/3C2328F54B13580E05DE398618D265B2"
+msgid "Water jet device IV"
+msgstr ""
+
+msgctxt "/9A02FF5346EE764D99F07F8B87D615E7"
+msgid "Water jet device V"
+msgstr ""
+
+msgctxt "/97D94A3B44966C15A7C94D8A863E1A1A"
+msgid "Water jet device VI"
+msgstr ""
+
+msgctxt "/1923021647E6FF4B1915669C623FEDF0"
+msgid "Permanent spraying"
+msgstr ""
+
+msgctxt "/84DAA2A042FCF39FC1EAA3A9B00A50E8"
+msgid "Eternal"
+msgstr ""
+
+msgctxt "/18C5B57F4FB7F7F8D347E1B467844F89"
+msgid "Eternal life"
+msgstr ""
+
+msgctxt "/589970C3453A33478D5D66B7EEADC74F"
+msgid "Treatment"
+msgstr ""
+
+msgctxt "/A26C43544787818F94A89885EB81DCE4"
+msgid "Healing"
+msgstr ""
+
+msgctxt "/2584AEBE49BD21DF150C378EB9C1D85E"
+msgid "Treatment I"
+msgstr ""
+
+msgctxt "/161456AA48D15E6D1DE573B006B21E84"
+msgid "Treatment II"
+msgstr ""
+
+msgctxt "/6F8E91814E7C1032459404A46BA7F5A3"
+msgid "Treatment III"
+msgstr ""
+
+msgctxt "/3418D75D47821D7BB882A698ECF53B6B"
+msgid "Treatment IV"
+msgstr ""
+
+msgctxt "/FCA0724D4BCD6C889DAFC3A62C74E71B"
+msgid "Treatment V"
+msgstr ""
+
+msgctxt "/11E2114646240314BDC47BAE444D2F3B"
+msgid "Treatment VI"
+msgstr ""
+
+msgctxt "/5D46239F4B631A0FC7425CACC5ECC09F"
+msgid "Healing Turret"
+msgstr ""
+
+msgctxt "/835D47D04A32AD02E0B51C85B0FF1190"
+msgid "Healing Turret II"
+msgstr ""
+
+msgctxt "/CD1A656149B462B71FAD159944C4CEF8"
+msgid "Healing Turret III"
+msgstr ""
+
+msgctxt "/A29FA17F4E8B9FB279EA3E85F7AA5934"
+msgid "Healing Turret IV"
+msgstr ""
+
+msgctxt "/86A558F54B1F38C69B780FADBA0D0C42"
+msgid "Healing turret V"
+msgstr ""
+
+msgctxt "/AA5BE8F945F95E8B8358309EBA619FD9"
+msgid "Healing turret VI"
+msgstr ""
+
+msgctxt "/B5F8158D4ECA61228009019725A55CBD"
+msgid "Treatment battery recovery amount"
+msgstr ""
+
+msgctxt "/81039D2242C793A7F077C88C6D71F4B4"
+msgid "Healing lightning"
+msgstr ""
+
+msgctxt "/9CA89BCF427BAD6CC8BA23993E628CDE"
+msgid "Healing Lightning II"
+msgstr ""
+
+msgctxt "/F2098449428CB8B7E3C83C975C47ABE9"
+msgid "Healing Lightning III"
+msgstr ""
+
+msgctxt "/28B417274E26F436D196619935795C45"
+msgid "Healing Lightning IV"
+msgstr ""
+
+msgctxt "/311F3C7B4875C8E8BCB51ABF3B2F6344"
+msgid "Healing Lightning V"
+msgstr ""
+
+msgctxt "/ABAC4F764FF0E4CE92D96885633CF077"
+msgid "Healing Lightning VI"
+msgstr ""
+
+msgctxt "/31F29FBF47757080A769F986B5F1D2EA"
+msgid " "
+msgstr ""
+
+msgctxt "/9BAC4EEA40B4CFC47CBFABBEFA0D747C"
+msgid "Wave"
+msgstr "ウェーブ"
+
+msgctxt "/B183C136468F4035871E73B3DBF2EEBB"
+msgid "Wave"
+msgstr "ウェーブ"
+
+msgctxt "/CD1CE90C49D1C86C0BC0059536AA043A"
+msgid "wave"
+msgstr "ウェーブ"
+
+msgctxt "/E28B494D42434E96879BEE8BE6BECA3B"
+msgid "wave"
+msgstr "ウェーブ"
+
+msgctxt "/0F44413C457D287218EA56BCAF3E2283"
+msgid ")"
+msgstr ""
+
+msgctxt "/22A55CF04CFA5F60532027900F5C9055"
+msgid ")"
+msgstr ""
+
+msgctxt "/33EDBC384B750984542E979C82927D29"
+msgid ")"
+msgstr ""
+
+msgctxt "/A958B4924CAB6582500837ACAA3D138E"
+msgid "Wave order"
+msgstr ""
+
+msgctxt "/33C6A0EA4408554218948C888528355B"
+msgid "Wave sorting"
+msgstr ""
+
+msgctxt "/00B829F6483FE2D5BD7D958EC042DCF4"
+msgid "Wave number:"
+msgstr ""
+
+msgctxt "/829B25B34C3629AC313D88891D6CBE55"
+msgid "Turn over a new leaf"
+msgstr ""
+
+msgctxt "/10BFF6FA4F02A8FF5D0044A45CF73B2D"
+msgid "Meteor"
+msgstr ""
+
+msgctxt "/C8DFC1DC423D22C939339792307B27C7"
+msgid "Nirvana"
+msgstr ""
+
+msgctxt "/1E7203DB45B5B378FA4C9A9A7A422603"
+msgid "Exploring I"
+msgstr ""
+
+msgctxt "/387F576A4AB46C488B481CB48DADA81A"
+msgid "Exploring II"
+msgstr ""
+
+msgctxt "/F3ABF99647B0B892E183728EEB482DD0"
+msgid "Exploring III"
+msgstr ""
+
+msgctxt "/5D9BDD9946B2902AC493539CE78E9128"
+msgid "Deep research"
+msgstr ""
+
+msgctxt "/F275BCAF43CB7CC7A17D24AADA73B867"
+msgid "Deep focus"
+msgstr ""
+
+msgctxt "/4D442C2141ADC1DDEB89A7B55E1301D2"
+msgid "abyss"
+msgstr ""
+
+msgctxt "/A10B680B46C0E8EE27FEA88C5EBFA87B"
+msgid "Abyss"
+msgstr ""
+
+msgctxt "/A834C0124E8BA5D300ECAAAB67D169BE"
+msgid "Abyss"
+msgstr ""
+
+msgctxt "/BC9EC4504D15196E6CAB3DB5F68A4AEA"
+msgid "The highest wave in the abyss reaches:"
+msgstr ""
+
+msgctxt "/B78130BE4109795D5D17EBB0D1F7BE0B"
+msgid "Abyss highest wave frequency:"
+msgstr ""
+
+msgctxt "/B8F10E484CF345A6F02EBB9E8BE99CD6"
+msgid "Abyss combat data will not be saved in achievements! "
+msgstr ""
+
+msgctxt "/B6DD8D534600994C27CEF59F11258281"
+msgid "Clear all achievements"
+msgstr ""
+
+msgctxt "/BAE582474A8F8F4663565FB40C1DFB13"
+msgid "permeation"
+msgstr ""
+
+msgctxt "/188E482F4A1F0F29B2E1CBB3252CAC7D"
+msgid "Ranger"
+msgstr ""
+
+msgctxt "/639B7F9F4D9C0BDD196DF8A26F2A3715"
+msgid "Game Announcement"
+msgstr ""
+
+msgctxt "/71F9CADF42D32FAA0A9766A5702F8F2E"
+msgid "Wandering"
+msgstr ""
+
+msgctxt "/4A58357E4CD0BC66F383C4878F895386"
+msgid "Continuously flowing"
+msgstr ""
+
+msgctxt "/5B8116EA434B2960F698D7B26173D7DC"
+msgid "Overflow"
+msgstr ""
+
+msgctxt "/2440F8FC463657D916BB2E91D0D464DC"
+msgid "Laser"
+msgstr "レーザー"
+
+msgctxt "/A8FF868543148E3D17B8A5B602B2F2A9"
+msgid ""
+"When the laser is connected to the core, the core restores 1 health every 3 "
+"seconds"
+msgstr ""
+
+msgctxt "/11B863A14E6279226385C8AE6C6B7D45"
+msgid ""
+"When the laser is connected to the core, the core recovers 2 health points "
+"every 3 seconds"
+msgstr ""
+
+msgctxt "/EA07AF564E7C7CCDBCF3FFBEA3C0776F"
+msgid ""
+"When the laser is connected to the core, the core restores 3 health points "
+"every 3 seconds"
+msgstr ""
+
+msgctxt "/8519F6854883A5E012623DB3E103C724"
+msgid ""
+"When the laser is connected to the core, the core restores 4 health points "
+"every 3 seconds"
+msgstr ""
+
+msgctxt "/4406ED0347A05F64958F63BD423132E4"
+msgid ""
+"When the laser is connected to the core, the core restores 5 health points "
+"every 3 seconds"
+msgstr ""
+
+msgctxt "/33E5335D41216AC9A64278A8A69DAE67"
+msgid ""
+"When the laser is connected to the core, the core restores 6 health points "
+"every 3 seconds"
+msgstr ""
+
+msgctxt "/6D495BCE4F2891076B98A9A65DDAAF89"
+msgid "Laser control"
+msgstr ""
+
+msgctxt "/4200061A43F995F56312D7A98766DDD7"
+msgid "Laser turret"
+msgstr ""
+
+msgctxt "/70A219A041919D12BD762998A8132991"
+msgid "Laser turret II"
+msgstr ""
+
+msgctxt "/51505E8046A1D9B4BA90259E231E2179"
+msgid "Laser turret III"
+msgstr ""
+
+msgctxt "/91EAF51848E49220AF424BBAF2FE4F47"
+msgid "Laser turret IV"
+msgstr ""
+
+msgctxt "/DF2C830C4CAC16F7BD8710A2092D3463"
+msgid "Laser turret V"
+msgstr ""
+
+msgctxt "/97AFDE4E41EC194C973B3BB2B1C57637"
+msgid "Laser turret VI"
+msgstr ""
+
+msgctxt "/53ED078D449F400815B5E181EEB12F52"
+msgid "Laser Defense Matrix"
+msgstr ""
+
+msgctxt "/F664450A484442C0AFF62B83A10BAE0A"
+msgid "Laser Defense Matrix II"
+msgstr ""
+
+msgctxt "/893B21134853147652EC6F8FFE9B4BBF"
+msgid "Laser Defense Matrix III"
+msgstr ""
+
+msgctxt "/C5DE69584B65A21434D2AC9BE1C44ACF"
+msgid "Laser Defense Matrix IV"
+msgstr ""
+
+msgctxt "/079B18AC486C5BD2EC7CFD959C748175"
+msgid "Laser Defense Matrix V"
+msgstr ""
+
+msgctxt "/2D3FE98F4E9DCB996F347DB618E14F84"
+msgid "Laser Defense Matrix VI"
+msgstr ""
+
+msgctxt "/ABE0525246E6C36D1FB91381BAACD619"
+msgid "Laser Flyer"
+msgstr ""
+
+msgctxt "/AD04C46748707FBF04A170B81039A680"
+msgid "Laser Flyer II"
+msgstr ""
+
+msgctxt "/9A4FB6224529FC91C083BEAC3105E230"
+msgid "Laser Flyer III"
+msgstr ""
+
+msgctxt "/108F487842C91EE5A8A85D87C3985784"
+msgid "Laser Flyer IV"
+msgstr ""
+
+msgctxt "/3A4602B94610CB7C79E8B29D2352C11F"
+msgid "Laser Flyer V"
+msgstr ""
+
+msgctxt "/1C833F8249B5301A770ABE8187836C32"
+msgid "Laser Flyer VI"
+msgstr ""
+
+msgctxt "/BD998FBB43D7C2D0EE0798BB51B89866"
+msgid "Full firepower"
+msgstr ""
+
+msgctxt "/F742FC8E4C0D6C1166E5D0B6CBB218FE"
+msgid "Firepower coverage"
+msgstr ""
+
+msgctxt "/93D624B944EA649446E1D4B748EFAC80"
+msgid "Flame thrower"
+msgstr ""
+
+msgctxt "/0105E83C4A02FE4E92156A88973DF790"
+msgid "Flame Ejector II"
+msgstr ""
+
+msgctxt "/52C1D1B443BA22F1683CCF910CFCFFB9"
+msgid "Flame Ejector III"
+msgstr ""
+
+msgctxt "/30FB96F449C81870CCD620BAF0082388"
+msgid "Flame Ejector IV"
+msgstr ""
+
+msgctxt "/3539B29148CCFED6C39F90B14D09B0E8"
+msgid "Flame Ejector V"
+msgstr ""
+
+msgctxt "/8210EDE744AC5E417607EDAAF53BA0DF"
+msgid "Flame Ejector VI"
+msgstr ""
+
+msgctxt "/F69A9A3B406F105CFF119488B8388DD6"
+msgid "Flame Nova"
+msgstr ""
+
+msgctxt "/8FC4C73B46265ED4DCFEAD9B8F2B1D81"
+msgid "Flame Nova II"
+msgstr ""
+
+msgctxt "/0C88C23A44A7C781F7DD898C5AC0C756"
+msgid "Flame Nova III"
+msgstr ""
+
+msgctxt "/CCEB7EF1484B058B07FE13A227220374"
+msgid "Flame Nova IV"
+msgstr ""
+
+msgctxt "/53E169EF419F1A841ED51BA8AA49FA0C"
+msgid "Flame Nova V"
+msgstr ""
+
+msgctxt "/46B5F3624CCC90EC38D108ACA4843006"
+msgid "Flame Nova VI"
+msgstr ""
+
+msgctxt "/10CAD5C94612ADB695951E8D51A0892F"
+msgid "Flame Cannon"
+msgstr ""
+
+msgctxt "/D4F9A1E04B197D505B511CA27FF3925C"
+msgid "Flame Cannon II"
+msgstr ""
+
+msgctxt "/8D63C279429A610121492EAF934878F6"
+msgid "Flame Cannon III"
+msgstr ""
+
+msgctxt "/7BDCA8854529FF11C9BEC1BCD7515A7C"
+msgid "Flame Cannon IV"
+msgstr ""
+
+msgctxt "/F8F604934EC77A7E7749CBBCC2843C40"
+msgid "Flame Cannon V"
+msgstr ""
+
+msgctxt "/5751AE1F4295BF0AE86B79A06DDE5C66"
+msgid "Flame Cannon VI"
+msgstr ""
+
+msgctxt "/F6033EEE4552A50BE049CFAD35ED5BE7"
+msgid "Flame research"
+msgstr ""
+
+msgctxt "/D6D1430E42968C75CBDFE5AF2D0F8ED8"
+msgid "Flame lightning"
+msgstr ""
+
+msgctxt "/3E7FF9B743C1F106F96F558C7C68108C"
+msgid "Flame Lightning II"
+msgstr ""
+
+msgctxt "/3075D98C4A7CB02C6087848C958DB4E1"
+msgid "Flame Lightning III"
+msgstr ""
+
+msgctxt "/A82A290943D369C8A288D3AC1588610E"
+msgid "Flame Lightning IV"
+msgstr ""
+
+msgctxt "/C3FB834541307B796C8CFE854F3ABEE3"
+msgid "Flame Lightning V"
+msgstr ""
+
+msgctxt "/8631C9454C4FBFBA4D899C852A735DD1"
+msgid "Flame Lightning VI"
+msgstr ""
+
+msgctxt "/E44E9DD346B98A959B29F88B716261C2"
+msgid "Agile flight"
+msgstr ""
+
+msgctxt "/CBEEF63D4E4C90EC4ADF429CF7C6DB53"
+msgid "Burn"
+msgstr "燃焼"
+
+msgctxt "/C5C70B8C4DDFCD8500C6F281B74FAE8B"
+msgid "Burn damage"
+msgstr "燃焼ダメージ"
+
+msgctxt "/43042C7845D2B160430D46B0E792385E"
+msgid "Burn damage+5% health absorption"
+msgstr "+5% 燃焼ダメージライフ吸収"
+
+msgctxt "/3F04FB5247E0779BB6E39EB461160456"
+msgid "Burn damage interval"
+msgstr "燃焼ダメージ間隔"
+
+msgctxt "/740D31914E33ABB57633F0A204BC0200"
+msgid "Burn damage: 1+50% quantum damage"
+msgstr "燃焼ダメージ: 1+50% 量子ダメージ"
+
+msgctxt "/AED65BDB49B52969E6115C989BFAEFC2"
+msgid "Burn acceleration"
+msgstr "燃焼加速"
+
+msgctxt "/8F5729744F5DC019BDD175B9CE2380FD"
+msgid "Duration of burning"
+msgstr "燃焼期間"
+
+msgctxt "/22A84EB84AF65CB18229648EA99134EC"
+msgid "Burning spread"
+msgstr "燃焼拡散"
+
+msgctxt "/D014F8ED4D17B2717469B5875B132233"
+msgid "Alchemist"
+msgstr ""
+
+msgctxt "/74F06EB94109797F4461A4B2814CDD1B"
+msgid "Scorching heat"
+msgstr ""
+
+msgctxt "/D9BE0B4E4A4D49A9A7D9ADB14CF1859E"
+msgid "Hot Flyer"
+msgstr ""
+
+msgctxt "/346BF3114AC350375ED0CB8C7A5150FC"
+msgid "Hot Flyer II"
+msgstr ""
+
+msgctxt "/DDF2505D4CE2264A7B5F26B82AFEFDFF"
+msgid "Hot Flyer III"
+msgstr ""
+
+msgctxt "/5D2F02CC4EA1C15680AFDD916961D2B0"
+msgid "Hot Flyer IV"
+msgstr ""
+
+msgctxt "/D154A0694404407EFE3D89AB17D85D31"
+msgid "Hot Flyer V"
+msgstr ""
+
+msgctxt "/65D85C6640F4171CD321AC98B8C5F6CE"
+msgid "Hot Flyer VI"
+msgstr ""
+
+msgctxt "/ECA2FB8D4FA60B0014C91394FF410FCE"
+msgid "Flame Messenger"
+msgstr ""
+
+msgctxt "/55EA2CEA4E99317D07DA0FBD3A38353E"
+msgid "Physics"
+msgstr "物理"
+
+msgctxt "/785457BF421CD25CEDB14E9C646EC4E2"
+msgid "Physics"
+msgstr "物理"
+
+msgctxt "/936248894FCDB0D971AEB3879675E892"
+msgid "Physics"
+msgstr "物理"
+
+msgctxt "/079FAA0E46A42B0A802C36B256CC4FB3"
+msgid "Physical critical strike"
+msgstr ""
+
+msgctxt "/95D7D6C24436C88E2EEAC498AF32B07D"
+msgid "Special thanks:"
+msgstr ""
+
+msgctxt "/9925AA694530C054A0099895CE798F37"
+msgid "Sniping"
+msgstr ""
+
+msgctxt "/4E065DFD4F10EEC427B9C48852B8BC35"
+msgid "The Eye of the Falcon"
+msgstr ""
+
+msgctxt "/FC5C89674F23836984BEB0AC3F03B74A"
+msgid "The Power of Life"
+msgstr ""
+
+msgctxt "/6EDDDD734470BC823C74A3A950CC85D3"
+msgid "Health value"
+msgstr ""
+
+msgctxt "/9FF7CF884AC317A5314888A3AF7C1106"
+msgid "HP/second"
+msgstr ""
+
+msgctxt "/6CE08F77499752F8E250B3B74AF206D3"
+msgid "When the health value is below 50%, the regeneration of life doubles"
+msgstr ""
+
+msgctxt "/9AAE2AE84E7909517CF20EB655BDB7BA"
+msgid "Life regeneration"
+msgstr "ライフ再生"
+
+msgctxt "/BD26F50E46A681FF4EA3AABA082BE03E"
+msgid "Life regeneration"
+msgstr "ライフ再生"
+
+msgctxt "/7AFBBA8E4033BEF68B79FAA14F3B129F"
+msgid "Life regeneration and recovery amount"
+msgstr ""
+
+msgctxt "/7D1CCCA34C19B540D7CD1D94E54F75D9"
+msgid "Life absorption"
+msgstr "ライフ吸収"
+
+msgctxt "/B380C9344D8807D8EC4496A2A452BCC3"
+msgid "Life absorption recovery amount"
+msgstr ""
+
+msgctxt "/9D06AF5F475E70EB7F91738E14810113"
+msgid "Life Gem"
+msgstr ""
+
+msgctxt "/4F2D48074EA4E8E4B28899902017A0DE"
+msgid "Life Engine"
+msgstr ""
+
+msgctxt "/064CB228494231A6AF9B25BA1912BA0C"
+msgid "Life Engine V"
+msgstr ""
+
+msgctxt "/B69E5DE64562BEA48B3400A0CA8FFB90"
+msgid "Life Engine VI"
+msgstr ""
+
+msgctxt "/7EE92CCC445CF9CD4F45EEBF8562F495"
+msgid "Life surge"
+msgstr ""
+
+msgctxt "/B37841544E3C9B345264D4942AEC5DAD"
+msgid "The Power of Life"
+msgstr ""
+
+msgctxt "/DF49CD6D4204097350843BBB095CB6C0"
+msgid ""
+"Generate plasma barrier, each wave of exploration can withstand 1 damage"
+msgstr ""
+
+msgctxt "/06EEE94540D64691154E459422F1D47E"
+msgid "Biosensing Cannon"
+msgstr ""
+
+msgctxt "/FE1D39994DDB9F8578086DB687906711"
+msgid "Biosensing Cannon II"
+msgstr ""
+
+msgctxt "/B7680DCE4F91F715D802859442797F84"
+msgid "Biosensing Cannon III"
+msgstr ""
+
+msgctxt "/96C4A6854524B0AE8BC5E0A1BC29ABD2"
+msgid "Biosensing Cannon IV"
+msgstr ""
+
+msgctxt "/089735EF44AC4CBEDB9CA295F548BFB8"
+msgid "Biosensing Cannon V"
+msgstr ""
+
+msgctxt "/725EAA9F4FAFCD0C5E17D5BE016C8DA3"
+msgid "Biosensing Cannon VI"
+msgstr ""
+
+msgctxt "/31CDDDB543487D6B92DE2995E1A8A390"
+msgid "Endless growth and vitality"
+msgstr ""
+
+msgctxt "/8BBC3932474A33AAB9B84BAF3E076367"
+msgid "Electroluminescent flint"
+msgstr ""
+
+msgctxt "/4A71C94B4F657E7348898E88DD6BB55F"
+msgid "Battery charging"
+msgstr ""
+
+msgctxt "/506160CE4E1E6FC3431198BB0CCDD5A4"
+msgid "Electromagnetic storm"
+msgstr ""
+
+msgctxt "/6BE78B6546D20B567F7A7CA9CEAAD114"
+msgid "Ionizer"
+msgstr ""
+
+msgctxt "/56C04AC242FBA2E7D9E2E08C625F2FC4"
+msgid "Ionization research"
+msgstr ""
+
+msgctxt "/1EEEA6864E733CEADCD3DD9BA8F056D2"
+msgid "Crazy Harvesting"
+msgstr ""
+
+msgctxt "/40EA0087406B3D2D6726D4B034DCE94F"
+msgid "The condition worsens"
+msgstr ""
+
+msgctxt "/90D6F2B3433ADFC4513DB489F821C803"
+msgid "A hundred poisons do not invade"
+msgstr ""
+
+msgctxt "/9549B8444849198144EECD920A41A951"
+msgid ""
+"The eternal missile deals 50% maximum health damage (penetration damage 50%)"
+msgstr ""
+
+msgctxt "/B312454D4BEA4BCE5E6E2E989ABD65F8"
+msgid "shield"
+msgstr "シールド"
+
+msgctxt "/E27C7ABF4D373D768034DCAE237858E3"
+msgid "landing"
+msgstr ""
+
+msgctxt "/74DFF5AB4D43305988D7329F7075D111"
+msgid "Aiming"
+msgstr ""
+
+msgctxt "/BC87698F4E6A13D0123C1CAFB25FC62E"
+msgid "Aiming"
+msgstr ""
+
+msgctxt "/ACE1E73F48503631814E2B829537F874"
+msgid "Aiming cursor"
+msgstr ""
+
+msgctxt "/80FB0F334BF4C82FD6686789350D8608"
+msgid "Matrix"
+msgstr ""
+
+msgctxt "/2DF95D474A43FA9A7AE2CD935658EDEB"
+msgid "Determine direction"
+msgstr ""
+
+msgctxt "/1ECBB73346AE7E08D0D999A240D10891"
+msgid "Magnetic hammer"
+msgstr ""
+
+msgctxt "/07D5EB9E4D865C8ACAD700B6266AE950"
+msgid "Magnetic Hammer II"
+msgstr ""
+
+msgctxt "/F3B820934A72B0190DE7A28552308745"
+msgid "Magnetic Hammer III"
+msgstr ""
+
+msgctxt "/04521C484B7B61DE810D3DA51BEAE75D"
+msgid "Magnetic Hammer IV"
+msgstr ""
+
+msgctxt "/FC6089394B34B541DC07F49E23B4B19E"
+msgid "Magnetic Hammer V"
+msgstr ""
+
+msgctxt "/84CDED1F45F8214193EDDF9445BB7486"
+msgid "Magnetic Hammer VI"
+msgstr ""
+
+msgctxt "/06E2162C47EF4F0BE7590CBCC295137C"
+msgid "Magnetic storm"
+msgstr ""
+
+msgctxt "/CA47C4F74AD4A107D0612E939613F1B7"
+msgid "pray"
+msgstr ""
+
+msgctxt "/09FF7E0C4CA847AC765B94B8AA203D1F"
+msgid "Mysterious"
+msgstr ""
+
+msgctxt "/6A8FD9CB4634BC76FEECFC9E9B3629E9"
+msgid "Mysterious Force Field"
+msgstr ""
+
+msgctxt "/8533BCBA40598CF9907BA089AC5F975A"
+msgid "Mysterious Force Field"
+msgstr ""
+
+msgctxt "/248EFB3F471402B5C22F3D985A224895"
+msgid "mythology"
+msgstr ""
+
+msgctxt "/64D4C25B4D6D6757B60A6098CD98F128"
+msgid "After disabling, the target will not appear in the store"
+msgstr ""
+
+msgctxt "/D9D7C7C546C9C9D6B21FD491E3AA3388"
+msgid "Disabled Unit+"
+msgstr "ユニット無効化+"
+
+msgctxt "/2AB1CDE2416BFB1A8F875E810ADAC94B"
+msgid "Disable chip+"
+msgstr "チップ無効化+"
+
+msgctxt "/A57D702749F7018539A85AA9CF086DE7"
+msgid "Detention device"
+msgstr ""
+
+msgctxt "/F388E01C41ADBED170F018A0B519324C"
+msgid "Imprisonment Device II"
+msgstr ""
+
+msgctxt "/7E216335438360F714D01B9ADD0F613B"
+msgid "Imprisonment Device III"
+msgstr ""
+
+msgctxt "/A95706A84FDB42D5C81750AB4E84AFD7"
+msgid "Imprisonment Device IV"
+msgstr ""
+
+msgctxt "/AE423E27492E5B618C06B9BFF34F1E75"
+msgid "Imprisonment Device V"
+msgstr ""
+
+msgctxt "/5A408809400EFD57A462EA9EC9CECE7B"
+msgid "Imprisonment Device VI"
+msgstr ""
+
+msgctxt "/823C8EE74B014219A31EE48AD5F883BC"
+msgid "leave"
+msgstr ""
+
+msgctxt "/C00A81C5481ADFC18C798BAE1DB99D3B"
+msgid "Leaving"
+msgstr ""
+
+msgctxt "/E34DC76A481F0DAF1570A0AA0FC0FDDF"
+msgid "Scientific development"
+msgstr ""
+
+msgctxt "/0ABD94C04958445F6C9E3C838C6B8A27"
+msgid "Scientific Miracle"
+msgstr ""
+
+msgctxt "/4E4A4C8F456001197CD351BFB55967E8"
+msgid "Technology"
+msgstr "テクノロジー"
+
+msgctxt "/8C77C13B433E5BE50784EB8983533EC0"
+msgid "Technology"
+msgstr "テクノロジー"
+
+msgctxt "/CD25BBAA4C8CA3DF24592A8708DF8913"
+msgid "Technology+1"
+msgstr "+1 テクノロジー"
+
+msgctxt "/E21673464386022FA0E7FAAB6E527ECF"
+msgid "Scientific research"
+msgstr ""
+
+msgctxt "/95746F5649B699C7B3EBB18B15A616F1"
+msgid "Second recovery"
+msgstr ""
+
+msgctxt "/76A3376748B17F183B3B89962011FBBC"
+msgid "Beheaded"
+msgstr ""
+
+msgctxt "/F81847FE4D61A71A848C6288C5507FC7"
+msgid "Move"
+msgstr ""
+
+msgctxt "/51D2266C4A8AF555F71C87BC60467765"
+msgid "Movement speed"
+msgstr "移動速度"
+
+msgctxt "/C3A7CBAD4594B737AD9643ABA2A91F0A"
+msgid "Movement speed+1%"
+msgstr "+1% 移動速度"
+
+msgctxt "/766D72874A6DA3596DF2EEB628D1646C"
+msgid "Movement speed is increased by the core movement speed"
+msgstr ""
+
+msgctxt "/100264A743A4FF11BED37BA8F32B428E"
+msgid "Increase movement speed by "
+msgstr ""
+
+msgctxt "/F1596927476BD8805877B39D3BDB6D17"
+msgid "Movement speed reduced by "
+msgstr ""
+
+msgctxt "/DF1D1DAE4E348811886F9DAFF0967EF3"
+msgid "Stable as a rock"
+msgstr ""
+
+msgctxt "/340B4ACB4B2B6264763930B5EB9A7827"
+msgid "Stable development"
+msgstr ""
+
+msgctxt "/7ABE2C0648BF404CD69AF39F3D9B14A3"
+msgid "Crosser"
+msgstr ""
+
+msgctxt "/CDC2F99A47BC7716398BB3946D3A697F"
+msgid "Penetration"
+msgstr "貫通"
+
+msgctxt "/DACFA1B1465447DE9CF18E9981715E67"
+msgid "Penetration damage"
+msgstr "貫通ダメージ"
+
+msgctxt "/D320188A442303B37C5E4C91BB6F5E7B"
+msgid "Penetration damage can surpass basic damage"
+msgstr ""
+
+msgctxt "/EE71DEE9416EFBF346EAAFB91F29B399"
+msgid "Penetration Count"
+msgstr "貫通数"
+
+msgctxt "/A3DD6C7147D0AAD448952C8CF7793477"
+msgid "Breakthrough I"
+msgstr ""
+
+msgctxt "/444E77494D6F151D555201A480233416"
+msgid "Breakthrough II"
+msgstr ""
+
+msgctxt "/FA5214E74685BAADE3F1F1894319CB92"
+msgid "Breakthrough III"
+msgstr ""
+
+msgctxt "/06834D5E4AA9957B98318A84D1B35FEB"
+msgid "Pirate Pincers"
+msgstr ""
+
+msgctxt "/3B6C9B23421AFA1D7A8D2CBD605D0901"
+msgid "Pirate Pincers II"
+msgstr ""
+
+msgctxt "/4513251C41ABC8FF9AE4E0B064DF0015"
+msgid "Pirate Pincers III"
+msgstr ""
+
+msgctxt "/93343CC948EFF27F2B2BE693F4D34E1B"
+msgid "Pirate Pincers IV"
+msgstr ""
+
+msgctxt "/8EC372944BC459F112A17480F4682CD2"
+msgid "Pirate Pincers V"
+msgstr ""
+
+msgctxt "/A78EEC8645C77DFC436E3EB7554156B2"
+msgid "Pirate Pincers VI"
+msgstr ""
+
+msgctxt "/C23534AF475E5ADAB01E33975CB168F4"
+msgid "Windowed Mode"
+msgstr ""
+
+msgctxt "/2BA7D7024E98C56383F1CCBF57A96D32"
+msgid "Maximize Window"
+msgstr ""
+
+msgctxt "/93E56E9D4FE86ABFF5E5818C76FFAAA5"
+msgid "Immediately obtain 255 Space Gems"
+msgstr "即時255ジェム取得"
+
+msgctxt "/0B84C7564C5280212B20F0AA2BAC5018"
+msgid "Immediately obtain 75 Space Gems"
+msgstr "即時75ジェム取得"
+
+msgctxt "/324508544BC8907E508A6F924D81C825"
+msgid "Wave "
+msgstr "ウェーブ "
+
+msgctxt "/EFAA4B4F4C7874D3778D5D9DCF2EF65E"
+msgid " "
+msgstr ""
+
+msgctxt "/BABCEAFE4F40C473890BA39DD5C3AC2B"
+msgid "Equal to or lower than"
+msgstr ""
+
+msgctxt "/3486F4C242EE6F922B1F4892F11B7904"
+msgid "Plasma barrier"
+msgstr ""
+
+msgctxt "/EE9BAFFF4760966BA4A5EC999725CFBD"
+msgid "Level"
+msgstr "レベル"
+
+msgctxt "/82C5891248BE6AA696F76395A718B28B"
+msgid "Level:"
+msgstr "レベル:"
+
+msgctxt "/47F4A3404B4B1FE009B084BA23AD25F3"
+msgid "Level Up"
+msgstr "レベルアップ"
+
+msgctxt "/23C85CC94B12C09E3CC07E8E4C82B9FA"
+msgid "Level Up to:"
+msgstr "レベルアップ:"
+
+msgctxt "/6D58E24A4FE8E675F20E94AD0D1E388A"
+msgid "Level:"
+msgstr "レベル:"
+
+msgctxt "/D22C87204D6E4C39B8E0299540DCFE3B"
+msgid "Precision Burning"
+msgstr ""
+
+msgctxt "/E7F1E889407184115832FE852A4B6992"
+msgid "Precision Burning II"
+msgstr ""
+
+msgctxt "/4528B71A472AD377DDB4C09D19A4A359"
+msgid "Precision Burning III"
+msgstr ""
+
+msgctxt "/3CDEF3E44BF9E97EACC445B6E74158D7"
+msgid "Precision Burning IV"
+msgstr ""
+
+msgctxt "/CDE4054E4FFBFC98AA7B54BC0FF0BD92"
+msgid "Precision Burning V"
+msgstr ""
+
+msgctxt "/1A5BECD3433B8BDDFA5FC49F1FE785EE"
+msgid "Precision Burning VI"
+msgstr ""
+
+msgctxt "/B900603E43E5433C3E3BB8AF235A3B09"
+msgid "Precision Hunter"
+msgstr ""
+
+msgctxt "/0978F83441D076C9DB61879601BAC064"
+msgid "Precision Hunter II"
+msgstr ""
+
+msgctxt "/4F1A14EE4C10385B2F4090BD58863E84"
+msgid "Precision Hunter III"
+msgstr ""
+
+msgctxt "/B1A7F36F400C942EC463E1AD05B90A90"
+msgid "Precision Hunter IV"
+msgstr ""
+
+msgctxt "/5077A06049586A113AB52BB7EC2DB768"
+msgid "Precision Hunter V"
+msgstr ""
+
+msgctxt "/47C970E042022A2852DCBDAC85396212"
+msgid "Precision Hunter VI"
+msgstr ""
+
+msgctxt "/291F71314415A806A0E4D8A5D7247B5A"
+msgid "Purple Electric Ejector"
+msgstr ""
+
+msgctxt "/E4AF9AAE41943487DA35CAAC7CC55E7D"
+msgid "Purple Electric Ejector II"
+msgstr ""
+
+msgctxt "/396B18094D309B210A6FC89C266C0483"
+msgid "Purple Electric Ejector III"
+msgstr ""
+
+msgctxt "/F4D19FA941AD129DC774A1A8FE0FF81A"
+msgid "Purple Electric Ejector IV"
+msgstr ""
+
+msgctxt "/FB2405D5457582C0C398C7ACE648B2E8"
+msgid "Purple Electric Ejector V"
+msgstr ""
+
+msgctxt "/874C6ED44741D3C30BE744A4463533DC"
+msgid "Purple Electric Ejector VI"
+msgstr ""
+
+msgctxt "/156A7CE14BFA8D4C0F85E3852DFF213B"
+msgid "Accumulated damage"
+msgstr "累積ダメージ"
+
+msgctxt "/59958F9B430CD40E57FF03A286A541A2"
+msgid "Accumulated damage reaches:"
+msgstr "累積ダメージ到達:"
+
+msgctxt "/5610494E4A2358662CDDBBBC78638EB8"
+msgid "Accumulated Kill"
+msgstr "累積キル"
+
+msgctxt "/46EFD6D9497A49810DD405A7994BAF04"
+msgid "Accumulated kill reached:"
+msgstr "累積キル到達:"
+
+msgctxt "/AFA378634940EAD2FC0631A9B5556102"
+msgid "Accumulated Kill:"
+msgstr "累積キル:"
+
+msgctxt "/428E34AD479C5C536C7FAEB7C2FBA0CF"
+msgid "The cumulative number of completed explorations has reached:"
+msgstr ""
+
+msgctxt "/B14F766341A4CF529973CEA5DAAF064B"
+msgid "Accumulate and restore health points"
+msgstr ""
+
+msgctxt "/C6558BED43598A7F37853C94102D6A15"
+msgid "Accumulated health recovery has reached:"
+msgstr ""
+
+msgctxt "/20FCF9704FE4AAF9A736B6BBB13C3108"
+msgid "Accumulated recovery of life:"
+msgstr ""
+
+msgctxt "/BF037D0349B5B802C21E8F8DE7C831F2"
+msgid "Accumulated damage tolerance reaches:"
+msgstr ""
+
+msgctxt "/8B92708D41892EBB216DEEA6FB4B8FBE"
+msgid "Accumulated damage taken:"
+msgstr "累積被ダメージ:"
+
+msgctxt "/9A45D9C64CF73429775A35804C74245B"
+msgid "Accumulated collection of space gems reaches:"
+msgstr "累積収集ジェム到達:"
+
+msgctxt "/51C9609B4313F58CD1D1B0B883D904D2"
+msgid "Accumulated collection of gems:"
+msgstr "累積収集ジェム:"
+
+msgctxt "/F85912FC443A8881C1452FA6F7BDCC03"
+msgid "Accumulated savings on gems"
+msgstr ""
+
+msgctxt "/DF2AC6BA4CE52EEAC174C9BF80065F47"
+msgid "Accumulated clearance times have reached:"
+msgstr ""
+
+msgctxt "/43847A2045558F0830931993B6672D83"
+msgid "Accumulated damage caused:"
+msgstr "累積与ダメージ:"
+
+msgctxt "/A80947CF427A24543C1828AE050978DD"
+msgid "Entanglement"
+msgstr ""
+
+msgctxt "/356FDB234188C6D507C64ABDFD509813"
+msgid "Release of constraints"
+msgstr ""
+
+msgctxt "/34A226474590EC97795B6699563D9221"
+msgid "Nanocells"
+msgstr ""
+
+msgctxt "/3345423E4F3774E0367CC2BC21400EEF"
+msgid "Operation"
+msgstr "経営"
+
+msgctxt "/534FF2104EE7D82F8B1543B738DCFF46"
+msgid "Business"
+msgstr "経営"
+
+msgctxt "/78FC78464252581E8415D0A4D71F23A6"
+msgid "the way of management"
+msgstr ""
+
+msgctxt "/8349FD2F49561666AA2A878478F92590"
+msgid " Experience "
+msgstr " 経験値 "
+
+msgctxt "/12EF01C5417FAF03436B66B301E2472F"
+msgid "Experience bonus"
+msgstr "経験値ボーナス"
+
+msgctxt "/29C623B049B4C05023555AB31F28D698"
+msgid "Finish Battle"
+msgstr ""
+
+msgctxt "/573872454662F3E1ADA85EB3A3C21E64"
+msgid "End the battle"
+msgstr ""
+
+msgctxt "/37975963465508E4BAB85787165E679E"
+msgid "Survival from the Jedi"
+msgstr ""
+
+msgctxt "/407EA8AA419C5B1C3BDDBC9193DC9144"
+msgid "Absolute force field"
+msgstr ""
+
+msgctxt "/4B8226014F999D48F139B998E03B47CD"
+msgid "Absolute power"
+msgstr ""
+
+msgctxt "/584A8EBD4A5EADA71ACD9C925DFE582C"
+msgid "Continue"
+msgstr ""
+
+msgctxt "/5C9A7F4845D827276B6EBB916BFD4FB4"
+msgid "Continue"
+msgstr ""
+
+msgctxt "/D763FBD14CB9DB25C48BBAAC9DE91E22"
+msgid "comprehensive development"
+msgstr ""
+
+msgctxt "/794C636A473E259E816895876E9AE20B"
+msgid "comprehensive strength"
+msgstr ""
+
+msgctxt "/2069DE5A4C77A0AE2C07B79EDF907455"
+msgid "Buffer"
+msgstr ""
+
+msgctxt "/947B845C46E43C4721D13F8DD9625C94"
+msgid "Bond Upgrade XP"
+msgstr ""
+
+msgctxt "/A19969A14F86D2A7B3620BBF5F6098E4"
+msgid "Bond level increased"
+msgstr ""
+
+msgctxt "/1AC7B9334701D662B54858A856BA129F"
+msgid "Binding level reached:"
+msgstr ""
+
+msgctxt "/CC89B82A4DB9BB54D20BA4B7081CAD8B"
+msgid "Bond level reduced"
+msgstr ""
+
+msgctxt "/4B2E69FA4D6BA299933E10B7C2A4FDA3"
+msgid "Bond experience value"
+msgstr ""
+
+msgctxt "/8F6959D242830EB98C3AC8A2261848CF"
+msgid "Bond:"
+msgstr ""
+
+msgctxt "/24DAD6D544DBD00CB39A5099DA7AEF36"
+msgid "investigate"
+msgstr ""
+
+msgctxt "/DF2848284350300B7C434EA3F9E7A909"
+msgid "Beacon"
+msgstr ""
+
+msgctxt "/BD8021124623D5369F9DDA8B462A56AC"
+msgid "Victory Dawn"
+msgstr ""
+
+msgctxt "/471B727649B76C20D6C1DBA09640BF0A"
+msgid "Energy Sword"
+msgstr ""
+
+msgctxt "/5045BEFC4235CA06C7CF5BA8FB72797F"
+msgid "Energy Sword II"
+msgstr ""
+
+msgctxt "/B52E80184F13B4309051339A0F31D32E"
+msgid "Energy Sword III"
+msgstr ""
+
+msgctxt "/B3D87A204A8D893CDAF2679CB9BD9B26"
+msgid "Energy Sword IV"
+msgstr ""
+
+msgctxt "/9A7431804C879A97ACBC7A9C7018ABD0"
+msgid "Energy Sword V"
+msgstr ""
+
+msgctxt "/E7C4057443AE58DA1A6F6FB1DCAF2CF8"
+msgid "Energy Sword VI"
+msgstr ""
+
+msgctxt "/3425B194462B796FBEE0B9832C694C47"
+msgid "energy shield "
+msgstr ""
+
+msgctxt "/6ABACE12424CB165F5EA81A9F56734B6"
+msgid "Energy Shield II"
+msgstr ""
+
+msgctxt "/D7EADA58405E07AA426513B92F65FEC3"
+msgid "Energy Shield III"
+msgstr ""
+
+msgctxt "/38C75A0F4BD65FD0CA346080CFB16A47"
+msgid "Energy Shield IV"
+msgstr ""
+
+msgctxt "/736A3C424B022302A15970B52D671C7B"
+msgid "Energy Shield V"
+msgstr ""
+
+msgctxt "/F96C85F44B494B0B3A59BE808CCC4383"
+msgid "Energy Shield VI"
+msgstr ""
+
+msgctxt "/85689A434A708349D4C2A88DFC83313A"
+msgid "Energy burst"
+msgstr ""
+
+msgctxt "/FBEC4A5A44A8704D45AA9B83761CC2AE"
+msgid "Energy burst"
+msgstr ""
+
+msgctxt "/68AAF22D4EEAACCC3F7B8EBB04BCC840"
+msgid "Energy matrix"
+msgstr ""
+
+msgctxt "/E004760C4114F2486519BDA5B19EBB0F"
+msgid "Energy Matrix V"
+msgstr ""
+
+msgctxt "/0A37CBC84C688EED93C73E80F07D94B1"
+msgid "Energy Matrix VI"
+msgstr ""
+
+msgctxt "/EF8D61EC4B34C1A249BFB8957E702F70"
+msgid "Pulse engine"
+msgstr ""
+
+msgctxt "/F1BDD481446DC87952E1D3932C7296D7"
+msgid "Pulse Engine V"
+msgstr ""
+
+msgctxt "/8284B7EE40E7601A4EA190A92EC53F37"
+msgid "Pulse Engine VI"
+msgstr ""
+
+msgctxt "/CB6642704964D0F8A9BCB5B247D75FFD"
+msgid "Automatically search for enemies"
+msgstr ""
+
+msgctxt "/A3EF981D48E1C83F85F7789543BDE95D"
+msgid "Automatically collect space gems"
+msgstr ""
+
+msgctxt "/669CD1734AEDB2473E271F81849C096C"
+msgid "Automatic rotation, every"
+msgstr ""
+
+msgctxt "/F2CBC40D4A86AC854BE391A624D96EAC"
+msgid "Automatic rotation, speed increases with technology"
+msgstr ""
+
+msgctxt "/2219D4154CFFCCF00A4C1498791B8D0F"
+msgid "Automatic aiming"
+msgstr ""
+
+msgctxt "/D2727339463A1FF9680F79B790FCF762"
+msgid "Custom Core"
+msgstr ""
+
+msgctxt "/518682544775A35EA7B9CA9BF14D82B4"
+msgid "Self-awareness"
+msgstr ""
+
+msgctxt "/B6E7959741B25C6A1417F08D35B1880D"
+msgid "Freedom"
+msgstr ""
+
+msgctxt "/47BF73ED45665324306CF59E139A08E8"
+msgid "Freedom Angel"
+msgstr ""
+
+msgctxt "/792F951445BA75A07BE0A2BDB25B9885"
+msgid "A fatal blow"
+msgstr ""
+
+msgctxt "/EF1EF67B4769D6E147CE2CA511C6EE13"
+msgid "Chip"
+msgstr ""
+
+msgctxt "/41BFF21B4D3E43FB80E3AE82D4BB2F2F"
+msgid "Chip guidebook"
+msgstr ""
+
+msgctxt "/4047EF8340BDA819C056D29726FB51BF"
+msgid "Chip Master"
+msgstr ""
+
+msgctxt "/E5640E284BF6503F230F4489D7EE888E"
+msgid "Number of chips:"
+msgstr ""
+
+msgctxt "/F8A92B8B4F1DFD20AE4B25BB1B726634"
+msgid "Chip:"
+msgstr ""
+
+msgctxt "/068A415046323B3BBBA7509BB6CC7F2D"
+msgid "Valhalla"
+msgstr ""
+
+msgctxt "/D6357DAC49009C8AF3392484C89CFF83"
+msgid "Heroes"
+msgstr ""
+
+msgctxt "/B02CDFAF4564FF335488A8A88E6A859E"
+msgid "Range"
+msgstr ""
+
+msgctxt "/703E469740664203D4E4BEAF3D9DC374"
+msgid "All units within the scope"
+msgstr ""
+
+msgctxt "/8C7B255C4455C8D524961F8F40FBB4D2"
+msgid "All units within the scope"
+msgstr ""
+
+msgctxt "/66B543994D73311185AA27AD5B6774B8"
+msgid "Each unit within the scope provides core"
+msgstr ""
+
+msgctxt "/884E38024350B2043C4135A3C7C908D3"
+msgid "Scope All Units"
+msgstr ""
+
+msgctxt "/ADA02EEA4975A498C8BF028A44191961"
+msgid "Scope: Each unit is assigned to the core"
+msgstr ""
+
+msgctxt "/79A6CDE04C6663915B8262B7B4491108"
+msgid "Gain increased experience points"
+msgstr ""
+
+msgctxt "/D40DC15941AD621FB8CAA395F19394C5"
+msgid "Gain reduced experience points"
+msgstr ""
+
+msgctxt "/4B1F72324250F76F17EFBEAAA6300938"
+msgid "When obtaining space gems"
+msgstr ""
+
+msgctxt "/FDD065D2439F87607E9E9FBCE78C89C2"
+msgid "When obtaining space gems, launch"
+msgstr ""
+
+msgctxt "/EDE6660D4B062E02866B57B48C254E40"
+msgid ""
+"When obtaining space gemstones, launch lucky missiles that can track enemies"
+msgstr ""
+
+msgctxt "/759457FA47175685E379D8B012A8EADE"
+msgid "When obtaining treasures, launch"
+msgstr ""
+
+msgctxt "/A11CDCB54BDE48F0C12EB0B5CC577F61"
+msgid "Accumulate power"
+msgstr ""
+
+msgctxt "/3A93266C4C651BD5106E6695115640A6"
+msgid "spread"
+msgstr ""
+
+msgctxt "/EBC552A44F6F0310C97C77A911E6E544"
+msgid "Devout"
+msgstr ""
+
+msgctxt "/A6C9DF7044EA763D5BC00F81B85B0E4D"
+msgid "Dragonfly"
+msgstr ""
+
+msgctxt "/8ABE9E824DB773C3A81521AA13E22814"
+msgid "Spiral blade"
+msgstr ""
+
+msgctxt "/F2B0B1294A49B05C9557F9BC14B0949F"
+msgid "Spiral Blade II"
+msgstr ""
+
+msgctxt "/68367E9149C814C4EF3DA494348BF5A7"
+msgid "Spiral Blade III"
+msgstr ""
+
+msgctxt "/FF4D7D3443488BD50F078E93ADCD0AD5"
+msgid "Spiral Blade IV"
+msgstr ""
+
+msgctxt "/52BF8A8B4901D5C417770694A64021EF"
+msgid "Spiral Blade V"
+msgstr ""
+
+msgctxt "/1A01A9E2405AE697E9FBC5B76A886150"
+msgid "Spiral Blade VI"
+msgstr ""
+
+msgctxt "/50166C474ED35B1720FBB0B93DCFFDD2"
+msgid "Bloody battle"
+msgstr ""
+
+msgctxt "/119B86214688DF59C863AC806C2ADF45"
+msgid "Replenish ammunition"
+msgstr ""
+
+msgctxt "/37AFFCBB45817D59BE257581DE75C2A1"
+msgid "Supply upgrade"
+msgstr "補給装置アップグレード"
+
+msgctxt "/DFC3D7D6472816446EF84E92AF00F62D"
+msgid "Supply device"
+msgstr "補給装置"
+
+msgctxt "/45D64182491E088CC0C19A84821222ED"
+msgid "Supply device refresh quantity"
+msgstr "補給装置更新数"
+
+msgctxt "/5098732D4090BD2E2FBFE78F6057ACC5"
+msgid "Supply device refresh time"
+msgstr "補給装置更新時間"
+
+msgctxt "/385ED20C4292BB23BC8A99A17EAFE8DE"
+msgid "The supply device can be broken down in one go"
+msgstr ""
+
+msgctxt "/57E9E9B444032C4DFFD3F68A70B60A90"
+msgid "Supply device provides gemstones"
+msgstr "補給装置によるジェム供給"
+
+msgctxt "/157EF66547E3A2083826D48683DDF7D4"
+msgid ""
+"Upgrade the space gems provided by the supply device to advanced space gems,"
+" which can earn double space gems"
+msgstr ""
+
+msgctxt "/28AF18464FDB03D1780360940DCEED90"
+msgid "Resupply device refresh speed accelerated"
+msgstr ""
+
+msgctxt "/0227DCA142EDD49ED04C44BDAD6D95F0"
+msgid "Attacks"
+msgstr ""
+
+msgctxt "/887439804FF157505A269596D6C9A8FA"
+msgid "Equipment"
+msgstr ""
+
+msgctxt "/05D4C0DF4D0B28CE01B4B5960814784D"
+msgid "Assembly"
+msgstr ""
+
+msgctxt "/2261D3B743AB556658A7839CCF18FAED"
+msgid "Assembling"
+msgstr ""
+
+msgctxt "/353C1BE648BACF2D4590F1AE80E8E6BE"
+msgid "Assembly"
+msgstr ""
+
+msgctxt "/2F92ED3244BE0CF9580D869ED713C57C"
+msgid "Window"
+msgstr ""
+
+msgctxt "/C9C9ADD640767A04CE852EBBE9966403"
+msgid "Sight distance locking"
+msgstr ""
+
+msgctxt "/032389A243B21E627649D0A531F0B9A6"
+msgid "Field of view"
+msgstr "視野"
+
+msgctxt "/EFC09AA34F66786D88B2C68052FCA2E6"
+msgid "Reduced height of field of view"
+msgstr ""
+
+msgctxt "/D83F977D4DE4892E2963F8ADFC1EC3E9"
+msgid "Increased height of field of view"
+msgstr ""
+
+msgctxt "/5F22259C4AA16AAF2CB9C1AA54CBDD31"
+msgid "Liberation"
+msgstr ""
+
+msgctxt "/41863E2C498FFD06EC85EE90C2393E2A"
+msgid "Unlock"
+msgstr ""
+
+msgctxt "/9F933C1840509783252C8893314A9E3A"
+msgid "Achievement Unlocked"
+msgstr "実績アンロック"
+
+msgctxt "/D975E053414B144CF5ADBDA0E1B34BA6"
+msgid "Unlock all achievements and levels"
+msgstr ""
+
+msgctxt "/4F8A1A0B4D45BC4063B9B793341086D7"
+msgid "Warning: Once equipped, it cannot be restored"
+msgstr ""
+
+msgctxt "/415C49C04D25BEBC16DF1EA297A166F3"
+msgid "Settings"
+msgstr "設定"
+
+msgctxt "/5D51FF134D57C045F98B06B81E4F16D0"
+msgid "Settings"
+msgstr "設定"
+
+msgctxt "/C4183FED4D6406BA79B27BA3452D785D"
+msgid "Settings"
+msgstr "設定"
+
+msgctxt "/D397886F49BEDCF8908CD7A1F7FB13A4"
+msgid ""
+"The trial version is currently not available for this content. Please add "
+"this game to your wish list on Steam. Stay tuned for the official version!"
+msgstr ""
+
+msgctxt "/D0BFA2AC4F434AFF1A8CF2A9C5929C24"
+msgid "Test item"
+msgstr ""
+
+msgctxt "/634117CD4EF0078244199BA189927785"
+msgid "Test item II"
+msgstr ""
+
+msgctxt "/236085F449C240AC92F6CCA321B04B99"
+msgid "Test item III"
+msgstr ""
+
+msgctxt "/C64FA9B245B7C02299CA258026E58DD0"
+msgid "Test item IV"
+msgstr ""
+
+msgctxt "/D1604AA6405D24CC79AAEDB076ECFD11"
+msgid "Test item V"
+msgstr ""
+
+msgctxt "/608C618A445C32B01371AFB89063DB71"
+msgid "Test item VI"
+msgstr ""
+
+msgctxt "/75F910214721CD489D5040A78233EF51"
+msgid "Experimenter"
+msgstr ""
+
+msgctxt "/DC7F9FD6428E5B26C18BD29987027B6F"
+msgid ""
+"The content has been developed and can be experienced in the official "
+"version~"
+msgstr ""
+
+msgctxt "/8541C49E44DC671CA37821970587F290"
+msgid "Not yet open, please stay tuned~"
+msgstr ""
+
+msgctxt "/E2746D4D4DCFD7FEBCF027BABCF2363F"
+msgid "This Leaderboard is currently unchallenged"
+msgstr ""
+
+msgctxt "/4B89270A4A09029CAF4E83BAFCE37BA2"
+msgid "The ranking list is currently not open"
+msgstr ""
+
+msgctxt "/CBE1DBAC4EE98D0A5D298FBE61C2FA08"
+msgid "The overall ranking of all cores in the galaxy"
+msgstr ""
+
+msgctxt "/F25C863A4C6A950B64D2CEAEFC715132"
+msgid "Language"
+msgstr "言語"
+
+msgctxt "/21D711014159B5D41A20EEB998DC749B"
+msgid "Please uninstall before making adjustments"
+msgstr ""
+
+msgctxt "/966DCBA54E52D59296E3AFB0EA81EDD9"
+msgid "Expired file reading"
+msgstr ""
+
+msgctxt "/1C627ABE41DCE44A30984097AD4AC095"
+msgid "Beta "
+msgstr "ベータ "
+
+msgctxt "/375B182340FEDCAE6F8F79A8D1C03AC4"
+msgid "Beta"
+msgstr "ベータ"
+
+msgctxt "/BBA10C06476A6138112189B70B14FFA3"
+msgid "Beta "
+msgstr "ベータ "
+
+msgctxt "/1ADE9DE4433BB538B3CDEDB294D957E4"
+msgid "Beta galaxy"
+msgstr "ベータ銀河"
+
+msgctxt "/58A95FE843D748A6D9BF2B86FF81DEC7"
+msgid "Beta galaxy"
+msgstr "ベータ銀河"
+
+msgctxt "/AA0DD4E94351A89B3237F59334473F47"
+msgid "Beta galaxy"
+msgstr "ベータ銀河"
+
+msgctxt "/9635C46645D9049A972824BEA111E64A"
+msgid "Unlock Beta Galaxy after clearance"
+msgstr ""
+
+msgctxt "/68F59B694C05ADC76FE6DBA428C8587B"
+msgid "Load"
+msgstr "ロード"
+
+msgctxt "/3FEF48A04C6F7D68BF1A9AAED59A4279"
+msgid "Load+1"
+msgstr "+1 ロード"
+
+msgctxt "/64595A8E447CAEC2A4315195A1742186"
+msgid ""
+"The load effect only affects operations and does not affect the property "
+"panel"
+msgstr ""
+
+msgctxt "/3AEDCB9649F166765789C39565C4FD03"
+msgid ""
+"When the load exceeds the upper limit, all \"guns\" will aim at the cursor "
+"and shoot, and"
+msgstr ""
+
+msgctxt "/9C28D29848E01C1ACFB0A8B004E34F55"
+msgid "Load:"
+msgstr "ロード:"
+
+msgctxt "/F474956242769501ECD1A2A37D163582"
+msgid "Load Bearer"
+msgstr ""
+
+msgctxt "/6D0D1D7845B21C065D555D99723C5D83"
+msgid "Sage"
+msgstr ""
+
+msgctxt "/B96EA68B4C2CD64B8CADC69129313E6C"
+msgid ""
+"Purchasing a unit (at any level) is free and each wave can only purchase one"
+" unit"
+msgstr ""
+
+msgctxt "/4C6FEE57448033B3CCC752A9CF63635D"
+msgid ""
+"Purchasing chips (at any level) is free and each wave can only purchase 2 "
+"chips"
+msgstr ""
+
+msgctxt "/8E25550748499866481E41B0CD6A3258"
+msgid "Penetrating missile"
+msgstr ""
+
+msgctxt "/4B7DB9EF4F6EDAA88436D3957737571B"
+msgid "Resource flight speed"
+msgstr ""
+
+msgctxt "/600CA925422FB9F01165BBAFA94482B2"
+msgid "Galaxy Wager"
+msgstr ""
+
+msgctxt "/C2227E754437F4D8135711856330F2FD"
+msgid "Origin"
+msgstr ""
+
+msgctxt "/61DD800149841ED9B2FAF5B1630E2EFE"
+msgid "Takeoff"
+msgstr ""
+
+msgctxt "/C4629DD84608A089B2C727AE0A167695"
+msgid "Super Power"
+msgstr ""
+
+msgctxt "/C040BB4F4BD927BC0BEA4BB400BB8B02"
+msgid "Superalloy"
+msgstr ""
+
+msgctxt "/9FE22B954C994584E036F490603FDAE5"
+msgid "Super Flame"
+msgstr ""
+
+msgctxt "/A3E095B148107B963D2B7AB9E897F7E4"
+msgid "Superenergy gemstone"
+msgstr ""
+
+msgctxt "/28DEA36543DC80B099A6AD824DD7ECF3"
+msgid "transcend"
+msgstr ""
+
+msgctxt "/7E8326BF4773A0151263E49BA870B3CF"
+msgid "Beyond I"
+msgstr ""
+
+msgctxt "/FEF2BFF14FC8E7A168C6B49032CE9556"
+msgid "Beyond II"
+msgstr ""
+
+msgctxt "/9B2427EC48AB3238F85377BC3AA28DD4"
+msgid "Beyond III"
+msgstr ""
+
+msgctxt "/B08EDB8F42CFF5BEAB75459EA50B203E"
+msgid "Beyond IV"
+msgstr ""
+
+msgctxt "/D9086D594731B66E3DFF648C39B19728"
+msgid "Beyond V"
+msgstr ""
+
+msgctxt "/6EAAFFA4483203997E019D8619E9BC30"
+msgid "Beyond VI"
+msgstr ""
+
+msgctxt "/467599D24EE9DCE958B7C6BEC3823276"
+msgid "Speed Combat"
+msgstr ""
+
+msgctxt "/278C41604D9C0758D72D4988F5BA16EA"
+msgid "Distance amplifier"
+msgstr ""
+
+msgctxt "/141298784054E7ABC3A35A96C011B016"
+msgid "Distance amplifier IV"
+msgstr ""
+
+msgctxt "/92498B69435913D3A238F4B5C9C04A45"
+msgid "Distance amplifier V"
+msgstr ""
+
+msgctxt "/DAB0E0054AC2E22E39E23EBA64009C82"
+msgid "Distance amplifier VI"
+msgstr ""
+
+msgctxt "/E119EF1E4C77EF6AD716F6935602550C"
+msgid "Transfer"
+msgstr ""
+
+msgctxt "/0EA6B0194ABACB68B10F619FDBF0332E"
+msgid "Bombing"
+msgstr ""
+
+msgctxt "/FD8A48E94115A1E8A438279BFD7808C1"
+msgid "Lightweight"
+msgstr ""
+
+msgctxt "/16692D194D552155B9600D8364A18847"
+msgid "Light load"
+msgstr ""
+
+msgctxt "/F58F19224CB698E27B1F6C8170B3F407"
+msgid "Support"
+msgstr "サポート"
+
+msgctxt "/9E8E92BB46850E62E44FBF9CFAEF2CFA"
+msgid "Radiation engine"
+msgstr ""
+
+msgctxt "/7497E7194B1C3DD1ED2B23A83A150EE7"
+msgid "Radiation Engine II"
+msgstr ""
+
+msgctxt "/7166D8334D6C870F7B41E39713F26A10"
+msgid "Radiation Engine III"
+msgstr ""
+
+msgctxt "/9CDB55304758296E9307C6BFA04DEB28"
+msgid "Radiation Engine IV"
+msgstr ""
+
+msgctxt "/E5F58BA14600989B3D2032A4312AF405"
+msgid "Radiation Engine V"
+msgstr ""
+
+msgctxt "/10252AC7407FF64774E833ADCAB2482C"
+msgid "Radiation Engine VI"
+msgstr ""
+
+msgctxt "/1EB1E2E049DE9849928907A5312A8A94"
+msgid "achieve"
+msgstr "達成"
+
+msgctxt "/B9BC17AA4D0051AFB336A7B8958E9016"
+msgid "Overload Titan"
+msgstr ""
+
+msgctxt "/4774F1DA4F288CB5C6D92080E12AA60A"
+msgid "Luck"
+msgstr "運"
+
+msgctxt "/1B678E7C46354CA5D38E1AB7864F3570"
+msgid "Close combat"
+msgstr "近接"
+
+msgctxt "/7DEE35C0464E0ABE2ECF92A30FFD1180"
+msgid "Melee"
+msgstr "近接"
+
+msgctxt "/FDB881944B1A1512D96B61B0CE132DDA"
+msgid "Melee"
+msgstr "近接"
+
+msgctxt "/121251C047EF2DAD1077AAB3CE4166A7"
+msgid "melee damage"
+msgstr "近接ダメージ"
+
+msgctxt "/27DF27DE4716E7B1F6A93B9274DE7B42"
+msgid "Melee damage"
+msgstr "近接ダメージ"
+
+msgctxt "/4489F1024A1DD4E45BAAA9A63916FD92"
+msgid "Melee damage"
+msgstr "近接ダメージ"
+
+msgctxt "/490E78894F8BCFEFA8B825B4A6EA1837"
+msgid "Melee damage"
+msgstr "近接ダメージ"
+
+msgctxt "/D1BC24674E2A1AC2B7D71590ED31C001"
+msgid "Melee damage"
+msgstr "近接ダメージ"
+
+msgctxt "/C569168D4F2A92D049ACD98D65686B84"
+msgid "Close combat damage+2"
+msgstr "+2 近接ダメージ"
+
+msgctxt "/1782E51842A4F694E7D2ECBB0CFB7105"
+msgid "Melee damage, ranged damage, quantum damage, technology"
+msgstr "近接ダメージ, 遠隔ダメージ, 量子ダメージ, テクノロジー"
+
+msgctxt "/D341585046BD3FF04EE308AE2F9D9C86"
+msgid "Return"
+msgstr ""
+
+msgctxt "/73750CC14DD5460AF49A28BBDB794AAD"
+msgid "Enter angelic form! "
+msgstr ""
+
+msgctxt "/83656E93451D6622B9370BB2293BD2A7"
+msgid "Enter demon form! "
+msgstr ""
+
+msgctxt "/4DCB202E422E885CC21ACB82479290DE"
+msgid "Enter the final form!"
+msgstr ""
+
+msgctxt "/3ADE6924461C17CF44FF9C92D424A06F"
+msgid "Evolution"
+msgstr ""
+
+msgctxt "/EFF5368E48E1CA78CFC62FAAC1315747"
+msgid "Evolution Craft"
+msgstr ""
+
+msgctxt "/80CCD3F24B2B3C22C5A75CA25ACD45C8"
+msgid "progress"
+msgstr ""
+
+msgctxt "/20E04AE1452C6C8343F892A6CC60B1C0"
+msgid "Ranged"
+msgstr "遠隔"
+
+msgctxt "/23A7A69C4AF2D794B9BD559EC8185DF1"
+msgid "Ranged"
+msgstr "遠隔"
+
+msgctxt "/9FBECFE549FE50845DFC5794DF498AF9"
+msgid "Remote"
+msgstr "遠隔"
+
+msgctxt "/DC28DFBF4BF9EC0DDB6E67989B0D3841"
+msgid "Ranged"
+msgstr "遠隔"
+
+msgctxt "/42AF051441BB4802A79562B652BFD000"
+msgid "Remote specialization"
+msgstr ""
+
+msgctxt "/0ED3FF594770CBB6CC8E40A5551AD366"
+msgid "Remote damage"
+msgstr "遠隔ダメージ"
+
+msgctxt "/1168A2BE47657050381FB6B3B01C1895"
+msgid "Ranged damage"
+msgstr "遠隔ダメージ"
+
+msgctxt "/4EE3DAA64C084C4FBD54F8BBCB81835A"
+msgid "Ranged damage"
+msgstr "遠隔ダメージ"
+
+msgctxt "/73FA0F7B4C4D4D55B236B1A3DFF993DC"
+msgid "Ranged damage"
+msgstr "遠隔ダメージ"
+
+msgctxt "/7DB1609545C397CF702E50A8A0DBD24A"
+msgid "Ranged damage"
+msgstr "遠隔ダメージ"
+
+msgctxt "/8C439D644B7D5C33CDF44EB6D71F926B"
+msgid "vision"
+msgstr ""
+
+msgctxt "/810E226346FBB8379D8CD092314143B1"
+msgid "Continuous upgrade"
+msgstr ""
+
+msgctxt "/424450184ABA6CEEA120EEB647F70363"
+msgid "Chaining"
+msgstr "連鎖"
+
+msgctxt "/465CA243416AFB42F1178DA918067A2E"
+msgid "Mist Ejector"
+msgstr ""
+
+msgctxt "/516F2F874F8811DB226977B1B4577C6F"
+msgid "Mist Ejector II"
+msgstr ""
+
+msgctxt "/892C0D284FC4B8820998E38B58B1650F"
+msgid "Mist Ejector III"
+msgstr ""
+
+msgctxt "/48DEADAB43B9FA056061DC8A5611F1A6"
+msgid "Mist Ejector IV"
+msgstr ""
+
+msgctxt "/0F3123C843DEB25CC5C5CBBC5076E1F1"
+msgid "Mist Ejector V"
+msgstr ""
+
+msgctxt "/1680CFE74513C5052556DB8F1F70CEB1"
+msgid "Mist Ejector VI"
+msgstr ""
+
+msgctxt "/972F23834848E20C30D94188268BDE5E"
+msgid "Mist research"
+msgstr ""
+
+msgctxt "/E6D36FED48EA40B4852E808B7E4A2D79"
+msgid "Mist Sovereign"
+msgstr ""
+
+msgctxt "/AA0848F54A847EADDFDA659A6F66FC13"
+msgid "Mist Voyager"
+msgstr ""
+
+msgctxt "/ACBCB5364DAD4741F6502BA797164E3E"
+msgid "Mist lightning"
+msgstr ""
+
+msgctxt "/E94FBFFD4F2A8257443399BE94B62021"
+msgid "Mist Lightning II"
+msgstr ""
+
+msgctxt "/235815EF482F90FD0B7F27B5E72F18A8"
+msgid "Mist Lightning III"
+msgstr ""
+
+msgctxt "/8BC9D395493B8472D4C7558B5B4DB05E"
+msgid "Mist Lightning IV"
+msgstr ""
+
+msgctxt "/C85FB5DE4798CFAB06CF8C98BF2C30B9"
+msgid "Mist Lightning V"
+msgstr ""
+
+msgctxt "/CB3AAE53496CBB692B543B957DFA63D3"
+msgid "Mist Lightning VI"
+msgstr ""
+
+msgctxt "/2C1F9D614A5F99A5A6EE7FA442E677F2"
+msgid "Exit"
+msgstr ""
+
+msgctxt "/B4BFA0234D22FFDB03CD3EB1F8CCBDA4"
+msgid "quit"
+msgstr ""
+
+msgctxt "/91EF2A494273226C5DE519800A6DD048"
+msgid "Exit Editing"
+msgstr ""
+
+msgctxt "/46D7EBCF499FBB0E987B6AB8341B33F7"
+msgid "Select"
+msgstr ""
+
+msgctxt "/2F4412AC411DAF7E5030129FE7368033"
+msgid "Select operation mode (can be modified at any time in system settings)"
+msgstr ""
+
+msgctxt "/C4A3C7D747F691D4EE45A2BC40C7E627"
+msgid "Choose this"
+msgstr ""
+
+msgctxt "/949B696D4A82AD259C4117B23D77132D"
+msgid "Clearance "
+msgstr ""
+
+msgctxt "/CC136A31442DF50A27082B9913DB3D03"
+msgid "Clearance"
+msgstr ""
+
+msgctxt "/871616204CFD70E58DCD80A123E526E1"
+msgid "Pass count:"
+msgstr ""
+
+msgctxt "/145DC36947EA68CE0D945EB3DD71E619"
+msgid "Unlock after clearing Beta Galaxy!"
+msgstr ""
+
+msgctxt "/483D6AB94066801AC6398E8E3D147E3D"
+msgid "Speed limit"
+msgstr ""
+
+msgctxt "/247EDEE540E51FC90DD2B3966848A6E4"
+msgid "When causing harm, there are"
+msgstr ""
+
+msgctxt "/A6EC97704722F3CAD4D0BCA0E4E29CBA"
+msgid "Item discount"
+msgstr "アイテム割引"
+
+msgctxt "/7AC7686B422A8DC36282AF8713A00682"
+msgid "Don't even move"
+msgstr ""
+
+msgctxt "/FF5E3EFB4F2206B536C4689B60409D59"
+msgid "Collector"
+msgstr ""
+
+msgctxt "/4336E19F4296604DBCD56CAA075DF6F5"
+msgid "Collector III"
+msgstr ""
+
+msgctxt "/0CDBA3574E5886B05D5A618D01ACBC73"
+msgid "Collector IV"
+msgstr ""
+
+msgctxt "/AF0A76734731E8C5F3060B9B65BB94CC"
+msgid "Collector V"
+msgstr ""
+
+msgctxt "/862287AE4D73F94CDC9DB792A0759A3E"
+msgid "Collector VI"
+msgstr ""
+
+msgctxt "/355A19AD4895DE7398C8409D03AA226E"
+msgid "Collection Master"
+msgstr ""
+
+msgctxt "/B7C01C1D4A36BB84C15D75A3C1B27C86"
+msgid "Collecting achievements"
+msgstr ""
+
+msgctxt "/54D8816C4F54AC21F3B561A00D9689E1"
+msgid "Gatherer"
+msgstr ""
+
+msgctxt "/90BFA3DF4EAB72C876398A9813473F41"
+msgid "Refactoring"
+msgstr ""
+
+msgctxt "/052A7FC34B92EE7279EC4FA4299E0D54"
+msgid "Rebirth"
+msgstr ""
+
+msgctxt "/9A6B723648DF8908A23B4FAB7A37D409"
+msgid "Rebirth"
+msgstr ""
+
+msgctxt "/C094260D40DBE26DA51252ACC0DBB481"
+msgid "After rebirth, all core effects disappear"
+msgstr ""
+
+msgctxt "/4506E488441E96FB56FAC1863F3CEF8A"
+msgid ""
+"When reborn, lose all space gems and deal damage equivalent to losing space "
+"gems to all enemies"
+msgstr ""
+
+msgctxt "/7B7C823741A3CDE4E95C69B25B132E1E"
+msgid "Heavy shield"
+msgstr ""
+
+msgctxt "/0AAFEE0A4C4DB2000C7105849F06E86B"
+msgid "Heavy Shield II"
+msgstr ""
+
+msgctxt "/F437EF8843D1C8B662B90D9C4C6DA2D3"
+msgid "Heavy Shield III"
+msgstr ""
+
+msgctxt "/BC0E7EC1410375C8B7E03D99326FC7CD"
+msgid "Heavy Shield IV"
+msgstr ""
+
+msgctxt "/81E02BF1451885674C8B43B2D37FB3FA"
+msgid "Heavy Shield V"
+msgstr ""
+
+msgctxt "/AA7DD7D342ABB0F5C5F7368CCC174C42"
+msgid "Heavy Shield VI"
+msgstr ""
+
+msgctxt "/A3ADC00C4B8A9A4023A2FC9D5C5F6912"
+msgid "Reset"
+msgstr "リセット"
+
+msgctxt "/6A6582F64D9C47279E1773B3771D628E"
+msgid "Try again"
+msgstr ""
+
+msgctxt "/BBEB112B4EF184CF117EA286013EE553"
+msgid "retry"
+msgstr ""
+
+msgctxt "/6A37429B40A480AEC830C6985EC4E4BB"
+msgid "Heavy load"
+msgstr ""
+
+msgctxt "/2E3DE6114DB9264C64640384AE37B5F3"
+msgid "Quantum"
+msgstr "量子"
+
+msgctxt "/7B90EED04CAB6A8E7BA573A1B5DC4E19"
+msgid "Quantum"
+msgstr "量子"
+
+msgctxt "/EEE99B76430A2848D016ED86B0CC279B"
+msgid "quantum"
+msgstr "量子"
+
+msgctxt "/5E97E32A47D7727EE580C7A3309360D1"
+msgid "Quantum specialization"
+msgstr ""
+
+msgctxt "/6C12C2444ACFE8FABF1202A23EE32DCD"
+msgid "Quantum damage"
+msgstr "量子ダメージ"
+
+msgctxt "/73D27C0C41072572DC370CAAFFE43960"
+msgid "Quantum damage"
+msgstr "量子ダメージ"
+
+msgctxt "/983B7D1E475EBD3CF4733988FA16DBF7"
+msgid "Quantum damage"
+msgstr "量子ダメージ"
+
+msgctxt "/D9BB914C4ABA071B77714EAE0906EFEA"
+msgid "Quantum damage"
+msgstr "量子ダメージ"
+
+msgctxt "/DC3EEA5F4E6319C186A9648FCF8FB10A"
+msgid "Quantum damage"
+msgstr "量子ダメージ"
+
+msgctxt "/235820B1438B27B4F902EE8A0D75BA1B"
+msgid "quantum mechanics"
+msgstr ""
+
+msgctxt "/DB00DB9B493B24293191BFB093713257"
+msgid "Quantum Vessel"
+msgstr ""
+
+msgctxt "/03A9E5834C3A75484CF36DA775BBF7FC"
+msgid "Quantum Armor"
+msgstr ""
+
+msgctxt "/9210F1B14F599ABFF95233A1467A2024"
+msgid "Quantum flame"
+msgstr ""
+
+msgctxt "/B5C807F3485F8470AA4C8BBE36B8DE1A"
+msgid "Quantum flame"
+msgstr ""
+
+msgctxt "/A1F718C445A99F248B976E867030635B"
+msgid "Quantum research"
+msgstr ""
+
+msgctxt "/92945F544733D64D79E157BAFB0CB127"
+msgid "Quantum Break"
+msgstr ""
+
+msgctxt "/A2C58EEC41662E9F5EF50A939F53A89F"
+msgid "Quantum Cracks II"
+msgstr ""
+
+msgctxt "/553D5DA0487EE42AEAC982A01C0DEF83"
+msgid "Quantum Cracks III"
+msgstr ""
+
+msgctxt "/472279874A98BEBA48BE459D6E1ADAD4"
+msgid "Quantum Cracks IV"
+msgstr ""
+
+msgctxt "/376AB4BE499C54CC7CA8548EA49F534F"
+msgid "Quantum Cracks V"
+msgstr ""
+
+msgctxt "/581F0F4A4D77E070E2379F977F1328C6"
+msgid "Quantum Cracks VI"
+msgstr ""
+
+msgctxt "/E12665864B90F3B65F7406ACC07760E5"
+msgid "Quantum exceedance"
+msgstr ""
+
+msgctxt "/20A773AC4F85FB074A5873BA9D88DB71"
+msgid "Quantum lightning"
+msgstr ""
+
+msgctxt "/AF38B6FE43EC3CFCC7DEBD86F8803D73"
+msgid "Quantum Lightning II"
+msgstr ""
+
+msgctxt "/CE04F8494FEB3F450F7D45842614FF98"
+msgid "Quantum Lightning III"
+msgstr ""
+
+msgctxt "/8FDAB2FF49A45DCCB63E14A9433FD80F"
+msgid "Quantum Lightning IV"
+msgstr ""
+
+msgctxt "/A6496CF146C2FF5946151594F4A7DCB9"
+msgid "Quantum Lightning V"
+msgstr ""
+
+msgctxt "/9401E25643E311306AEF7498C146FBEF"
+msgid "Quantum Lightning VI"
+msgstr ""
+
+msgctxt "/DF0657F742DE8390DD2784A9750B7061"
+msgid "Golden Body"
+msgstr ""
+
+msgctxt "/D6B5D06741962346BD44C187D5F7A540"
+msgid "Titanium alloy armor"
+msgstr ""
+
+msgctxt "/FE93610C46B479D9AF459C8C40359DF6"
+msgid "The Body of Steel"
+msgstr ""
+
+msgctxt "/A62F77474F91E17668A5C08D607FADE9"
+msgid "Delve into research"
+msgstr ""
+
+msgctxt "/B997C1094DFB46132608C197ACF35E40"
+msgid "Iron Curtain Defense"
+msgstr ""
+
+msgctxt "/09111CF841F44BCF63C53EAD533CF2F6"
+msgid "Linked"
+msgstr ""
+
+msgctxt "/CDC1450649D9DA99514354BE667BC424"
+msgid "Linked"
+msgstr ""
+
+msgctxt "/B88189174239A993C5C453AA8313E864"
+msgid "locking"
+msgstr ""
+
+msgctxt "/7FE6329249713992E1339FB9BA45D7E4"
+msgid ""
+"Lock enemies within the attack range and deal massive explosive damage to "
+"all enemies within the lock point in 2 seconds"
+msgstr ""
+
+msgctxt "/51D98F5C4C78086083E34388D5A2ED6D"
+msgid "Lock rotation"
+msgstr ""
+
+msgctxt "/2A85B3DE4C3FD62665C5D88D3A19770B"
+msgid "Lock the target"
+msgstr ""
+
+msgctxt "/67CFDA234886507304564F887A7CE911"
+msgid "Exercise"
+msgstr ""
+
+msgctxt "/24DBA2A7419B43E1379802A05363968B"
+msgid "Lightning Wings"
+msgstr ""
+
+msgctxt "/55D4F577489DC8FC1E4570BA77312EF0"
+msgid "Lightning Flyer"
+msgstr ""
+
+msgctxt "/5C90AC4C4F0B6AF4FBDDC9A6A2563F40"
+msgid "Lightning Flyer II"
+msgstr ""
+
+msgctxt "/B468361144642E819D862387C1550DB5"
+msgid "Lightning Flyer III"
+msgstr ""
+
+msgctxt "/6178B8614B9AE6C7B5C943BE57842E46"
+msgid "Lightning Flyer IV"
+msgstr ""
+
+msgctxt "/C14BBF2A46F65D1809E97D8E0A22C6BE"
+msgid "Lightning Flyer V"
+msgstr ""
+
+msgctxt "/782EE860486193EECF0B03AC2DED0984"
+msgid "Lightning Flyer VI"
+msgstr ""
+
+msgctxt "/1DC20C1D4BBD1F885D30258F745EFF5F"
+msgid "Dodge"
+msgstr "回避"
+
+msgctxt "/53FB3D8C4B1657BDD6818082BFC0A627"
+msgid "Dodge"
+msgstr "回避"
+
+msgctxt "/529559714520BE537A0F6482DD2713CB"
+msgid "Increase the maximum dodge rate to 90%"
+msgstr ""
+
+msgctxt "/1F8967304F0143598F5ECFB254DCEDA4"
+msgid "Dodge counterattack"
+msgstr ""
+
+msgctxt "/ACC566B649E7ACAC5A52B4A4736B4430"
+msgid "Dodge engine"
+msgstr ""
+
+msgctxt "/0CE3F78D4C27E31FD0A4EBBAA71DEA24"
+msgid "Dodge Engine V"
+msgstr ""
+
+msgctxt "/78A7D1684C6825DBEF49B1900938F52D"
+msgid "Dodge Engine VI"
+msgstr ""
+
+msgctxt "/98CEEB894BBCA5774C41EEBE4FC34CB9"
+msgid "Dodge recovery"
+msgstr ""
+
+msgctxt "/C0117E6046569C334EF7CAAFBA06BDC2"
+msgid "When dodged successfully, deal 5+200% melee damage to a random enemy"
+msgstr "回避時にランダムな敵に5+200%の近接ダメージを与える"
+
+msgctxt "/A969F44345E2110D32AA1AABC71BD77D"
+msgid ""
+"When successfully dodging, deal 200% damage to random enemies (ignoring the "
+"maximum dodge limit)"
+msgstr "回避時にランダムな敵に回避値の200%のダメージを与える (回避の上限は無視する)"
+
+msgctxt "/6EA5129A46112D9BA46602A9BDAAE53F"
+msgid "When dodged successfully, restore 2 health points"
+msgstr "回避時にライフを2点回復する"
+
+msgctxt "/E4984BFD4B9B651CDD7113AB896620A7"
+msgid "When dodging, launch dodge missiles that can track the enemy"
+msgstr "回避時に敵を追尾するミサイルを発射する"
+
+msgctxt "/C6D17B1B41E8FEA5B01A37B733288C02"
+msgid "Experience"
+msgstr "経験値"
+
+msgctxt "/1E33E1C14E1E76A84B8D65972EC83801"
+msgid "Defense"
+msgstr "防御"
+
+msgctxt "/247B8D0840AFD3A7F2584697113D7C4A"
+msgid "Defense"
+msgstr "防御"
+
+msgctxt "/ADCB69CE48FA1671002085ACE65E9D61"
+msgid "Defense"
+msgstr "防御"
+
+msgctxt "/E202BB0C43790A43DD58DF85D5E897F7"
+msgid "Defensive fortification"
+msgstr ""
+
+msgctxt "/C5EAB0DA4C6480BE39CC1BB6C3ABCFEC"
+msgid "Defense engine"
+msgstr ""
+
+msgctxt "/315C30D648993FD1F19A04B6F4581FD5"
+msgid "Defense Engine V"
+msgstr ""
+
+msgctxt "/11ED0FD842915B43FD3E0FB5423B263D"
+msgid "Defense Engine VI"
+msgstr ""
+
+msgctxt "/2F3EE47C4305A60E39E56196EC351AE6"
+msgid "Defender"
+msgstr ""
+
+msgctxt "/12D9D6C94742A1EF3730ACA0C7928082"
+msgid "Defender II"
+msgstr ""
+
+msgctxt "/0AA5310343FA9F6C6385449E1377B44B"
+msgid "Defender III"
+msgstr ""
+
+msgctxt "/F342945240DF13D4E2FDCFAB2E3AB18B"
+msgid "Defender IV"
+msgstr ""
+
+msgctxt "/AED91EA941F969679E9355B64262A74B"
+msgid "Defender V"
+msgstr ""
+
+msgctxt "/469E106A447E937B63EE528E77E07A23"
+msgid "Defender VI"
+msgstr ""
+
+msgctxt "/07ED4F444FF1353E1EB6A1858BCDEA11"
+msgid "Defense against lightning"
+msgstr ""
+
+msgctxt "/EDB109304C65D389D31500ACFB387459"
+msgid "Defense Against Lightning II"
+msgstr ""
+
+msgctxt "/3D6FA4C2465512F17444C7A06C03185C"
+msgid "Defense Against Lightning III"
+msgstr ""
+
+msgctxt "/673755EC47183D1B5C212AB14F3B4EE3"
+msgid "Defense Against Lightning IV"
+msgstr ""
+
+msgctxt "/84880CA042E697BF1DD65281435A4B1C"
+msgid "Defense Against Lightning V"
+msgstr ""
+
+msgctxt "/A59CED98426DD20A4259FF8D1CB4DC71"
+msgid "Defense Against Lightning VI"
+msgstr ""
+
+msgctxt "/0AE392DC44E01B1879493F8AA86E26F8"
+msgid "Formation Formation"
+msgstr ""
+
+msgctxt "/A5378CFC48CF58192A9ED8BEC6092C51"
+msgid "Stage achievements"
+msgstr ""
+
+msgctxt "/9A093ADF46EF7C867B2BE793773DD4C5"
+msgid "Obstruction"
+msgstr ""
+
+msgctxt "/60EF44114906904F3DB8D5B49F9BEB72"
+msgid "Blocker"
+msgstr ""
+
+msgctxt "/949E20C548B09D136B3DA4A2A0EE83C2"
+msgid "Blocker II"
+msgstr ""
+
+msgctxt "/8E57D04440452C8D7B2CF68D075F6C03"
+msgid "Blocker III"
+msgstr ""
+
+msgctxt "/7A30203D4D8A68FCAC7D55861E42069B"
+msgid "Blocker IV"
+msgstr ""
+
+msgctxt "/BBE476034E37A12F5545EBBD1BD5FE05"
+msgid "Blocker V"
+msgstr ""
+
+msgctxt "/1C5C4D2D43133C4234F84DA75C01E40D"
+msgid "Blocker VI"
+msgstr ""
+
+msgctxt "/2FE8202C451688B5AA87739628A9E845"
+msgid "Alpha "
+msgstr "アルファ "
+
+msgctxt "/4E6EDF2F495C96E9CAAC799ED52B42E5"
+msgid "Alpha "
+msgstr "アルファ "
+
+msgctxt "/99BB59D44FC6330E0792A69AEC62641E"
+msgid "Alpha"
+msgstr "アルファ"
+
+msgctxt "/298D14714A0F13C5E984CF918ACC68C4"
+msgid "Alpha Galaxy"
+msgstr "アルファ銀河"
+
+msgctxt "/60BAAA7B46DC6178F4074AB92A8CB6E0"
+msgid "Alpha Galaxy"
+msgstr "アルファ銀河"
+
+msgctxt "/A992F084449C952F8EA3CF838EAB82CA"
+msgid "Alpha galaxy"
+msgstr "アルファ銀河"
+
+msgctxt "/AA87ADFE44EB4DB551E4BFACA07F924B"
+msgid "Unlock Alpha Galaxy after clearance"
+msgstr ""
+
+msgctxt "/0258308F4BE93F1D6E50FFB05CFC81A9"
+msgid "Gyro Voyager"
+msgstr ""
+
+msgctxt "/A9232EC142E273FCCC4E38B1D9570DA5"
+msgid "Reduce"
+msgstr ""
+
+msgctxt "/5FC1946A46CE3EE93465169305EC25BF"
+msgid "Restrictions:"
+msgstr ""
+
+msgctxt "/7A2ACC704CCE3DCBB1B41E907C2300F6"
+msgid "Restriction lifting"
+msgstr ""
+
+msgctxt "/93248FE54369621B2759C39D4DE25687"
+msgid "Meteorite pilot station"
+msgstr ""
+
+msgctxt "/2EEEC1B142DCE9704E2848B3A1896E10"
+msgid "Meteorite Pilot Station II"
+msgstr ""
+
+msgctxt "/847EBB7646C9A3092C3CC3AC7F25A82D"
+msgid "Meteorite Pilot Station III"
+msgstr ""
+
+msgctxt "/B7B1BD7E4712DCC7120845B6CE159CC4"
+msgid "Meteorite Pilot Station IV"
+msgstr ""
+
+msgctxt "/62235B7243084308727EB09607A21251"
+msgid "Meteorite Navigation Station V"
+msgstr ""
+
+msgctxt "/E22834FF420040DB261CB085D51B48C0"
+msgid "Meteorite Pilot Station VI"
+msgstr ""
+
+msgctxt "/33D4F83A4A0F529DFD459F805EDD3A85"
+msgid "Random"
+msgstr ""
+
+msgctxt "/8144815943895B3FFB93EBBB94054490"
+msgid "Randomly select a core you have unlocked"
+msgstr ""
+
+msgctxt "/FE12551B48679B0CE83B658EF8840B5E"
+msgid "Randomly obtain units of the same level"
+msgstr ""
+
+msgctxt "/F91FCBAF409B607B703221982A17B7F2"
+msgid "stealth"
+msgstr ""
+
+msgctxt "/C1AA03824F708CE5868182A1CD86BC77"
+msgid ""
+"Hide cursor and automatically turn around.\n"
+"When equipped with automatic aiming units, the battle will be relatively easy"
+msgstr ""
+
+msgctxt "/4F72E4CB41DE339D68589882AEE33792"
+msgid "Hide player name"
+msgstr ""
+
+msgctxt "/79D0D74E44FC5C03B823F2A297613D60"
+msgid "Retreat"
+msgstr ""
+
+msgctxt "/975FA3BE4C31CDD93041BFA0A20F9A79"
+msgid "Difficulty skyrocketing"
+msgstr ""
+
+msgctxt "/A5DBA8E64BE24A472DFE189EB96C363F"
+msgid "Difficulty:"
+msgstr ""
+
+msgctxt "/D0E207EF4237A62292CC57AB5A9AECB2"
+msgid "Difficulty:"
+msgstr ""
+
+msgctxt "/A5D0C02F49514F71CC3168BED370B95D"
+msgid "Minor renovation"
+msgstr ""
+
+msgctxt "/8954E78F42C8B64542C558BCB4E42020"
+msgid "Thor"
+msgstr ""
+
+msgctxt "/5AF38A2A46BA5A9E919B3E83D1E92F81"
+msgid "frost"
+msgstr "冷却"
+
+msgctxt "/AE477130493C1A9669BF449411870C1A"
+msgid "Frost deceleration effect"
+msgstr ""
+
+msgctxt "/FA561215474CA19912A5E0809925F258"
+msgid "Frost deepens"
+msgstr ""
+
+msgctxt "/AD93D9F943EC598EBAEF90BD47AF4586"
+msgid "Frost engine"
+msgstr ""
+
+msgctxt "/B990F05841C60F367009B18DAB02D685"
+msgid "Frost Engine II"
+msgstr ""
+
+msgctxt "/787A44304F56357F709E7992BD3F5364"
+msgid "Frost Engine III"
+msgstr ""
+
+msgctxt "/F6F12A7446EB75BC358E4B8C8B2AF491"
+msgid "Frost Engine IV"
+msgstr ""
+
+msgctxt "/1005BD2A4B8D1F7C6AFEACB58BBA059F"
+msgid "Frost Engine V"
+msgstr ""
+
+msgctxt "/D642D2FA4DFD3272001DABB088AFEF92"
+msgid "Frost Engine VI"
+msgstr ""
+
+msgctxt "/737CA7A5429FEC113621B38EBAA72843"
+msgid "Frost duration"
+msgstr ""
+
+msgctxt "/31463FD6452C541848AEFDB4B9DED00A"
+msgid "Enemies in frost state will take an additional 25% damage"
+msgstr "凍らされた敵は25%の追加ダメージを受ける"
+
+msgctxt "/BC5DC3CE47E7E2AA7DE5AC81FB9DBF72"
+msgid "Frost: reduces target's movement speed by 30% for 2 seconds"
+msgstr "冷却: 2秒間、対象の移動速度が30%低下する"
+
+msgctxt "/61114FA6421129E984B6B397E72679DF"
+msgid "Shotgun launcher"
+msgstr ""
+
+msgctxt "/57A6E3D347D9C88C7F11A0B04643F5A0"
+msgid "Shotgun Launcher II"
+msgstr ""
+
+msgctxt "/0345A6F145B09C95B28E83B936960199"
+msgid "Shotgun Launcher III"
+msgstr ""
+
+msgctxt "/EA3EF1D34010719D541892BBC44C7DFC"
+msgid "Shotgun Launcher IV"
+msgstr ""
+
+msgctxt "/D34D28D24F933B09387D3DAB70146C79"
+msgid "Shotgun Launcher V"
+msgstr ""
+
+msgctxt "/E16EE4BE4833BDC8D550F999EED6C566"
+msgid "Shotgun Launcher VI"
+msgstr ""
+
+msgctxt "/4F0067DB49B988E6E58BDF8CD34E0EE0"
+msgid ""
+"Unfortunately, I have bad news for you. Your game save has been damaged... "
+"The game progress has been reset"
+msgstr ""
+
+msgctxt "/7B6ECB2F473AA8CE03536188D2D49F6B"
+msgid "Music"
+msgstr "音楽"
+
+msgctxt "/6CC87D6E491B204C096D338FE06A6DC8"
+msgid "Sound"
+msgstr "効果音"
+
+msgctxt "/5B46C268496ED5E37A7AAFAE33E98FD0"
+msgid "Epiphany"
+msgstr ""
+
+msgctxt "/4F3038924F1BCAA38B442A9A6D1A292F"
+msgid "Lord Summoning"
+msgstr ""
+
+msgctxt "/114A02FB4A0BE0A2E501D7A7C875482E"
+msgid "Obtain additional gems"
+msgstr ""
+
+msgctxt "/6C6A3DB345CCF235B72482A3726559DA"
+msgid "Extra load"
+msgstr ""
+
+msgctxt "/F2471FA24C0EC3DB69F60387D5EFBD74"
+msgid "Stormbringer"
+msgstr ""
+
+msgctxt "/E4FDCC4F4F90604748532ABC0561FCC7"
+msgid "Storm Blade"
+msgstr ""
+
+msgctxt "/CEE9A7B54EAAD99FFDA8CD8B281C5443"
+msgid "Storm Blade II"
+msgstr ""
+
+msgctxt "/9610B7544D41C82CD0259F9F1502667A"
+msgid "Storm Blade III"
+msgstr ""
+
+msgctxt "/1628CF724D683E19307B718079A81787"
+msgid "Storm Blade IV"
+msgstr ""
+
+msgctxt "/CA9EE94D4FFEF636A0FA0E8C6C330ED1"
+msgid "Storm Blade V"
+msgstr ""
+
+msgctxt "/E7B4DAE0411BE31EE7E455A7D8D35381"
+msgid "Storm Blade VI"
+msgstr ""
+
+msgctxt "/60B3691142E16EB04248078EC5017B92"
+msgid "Storm attack"
+msgstr ""
+
+msgctxt "/6D51B34F47589D97CDD04E9F427213A1"
+msgid "Storm Attack"
+msgstr ""
+
+msgctxt "/96A78A244137394AC636EAAF300221F7"
+msgid "Storm Attack II"
+msgstr ""
+
+msgctxt "/07F1DEFC40E77A213703ED8CC7D50F21"
+msgid "Storm Attack III"
+msgstr ""
+
+msgctxt "/4BBFB4D1443128E35B1BEC869BF50F89"
+msgid "Storm Attack IV"
+msgstr ""
+
+msgctxt "/7CC2122E48CC93A6999527BBFD53FD58"
+msgid "Storm Attack V"
+msgstr ""
+
+msgctxt "/EB8306BC4B4D2ECCC95D109EAD6D4C17"
+msgid "Storm Attack VI"
+msgstr ""
+
+msgctxt "/CD0B407F4A4C12013DFC7DAEA225D4FF"
+msgid ""
+"When the missile disappears, it splits into 3 small missiles (with 50% "
+"damage)"
+msgstr ""
+
+msgctxt "/9F9169ED4F66E3D05006A88CC6EF7C19"
+msgid ""
+"When the missile disappears, it splits into 4 small missiles (with 50% "
+"damage)"
+msgstr ""
+
+msgctxt "/87ECDC474122DE8FEDFC2B97FFE15F22"
+msgid ""
+"When the missile disappears, it splits into 5 small missiles (with 50% "
+"damage)"
+msgstr ""
+
+msgctxt "/EEB91F9E4784AD996DB4D48E0B5D3CDA"
+msgid ""
+"When the missile disappears, it splits into 6 small missiles (with 50% "
+"damage)"
+msgstr ""
+
+msgctxt "/2EA148064E3661231A57828CE0B21C74"
+msgid ""
+"When the missile disappears, it splits into 7 small missiles (with 50% "
+"damage)"
+msgstr ""
+
+msgctxt "/0A6EE1C94873A073BC40E282F45E8CED"
+msgid ""
+"When the missile disappears, it splits into 8 small missiles (with 50% "
+"damage)"
+msgstr ""
+
+msgctxt "/40E748A6461B610D3FF644810BF86490"
+msgid "When bullet penetrate enemy, they will bounce to the nearest enemy"
+msgstr ""
+
+msgctxt "/7B11C12841701307AD298595F0DBF3D0"
+msgid "Missiles automatically track enemies"
+msgstr ""
+
+msgctxt "/7EEE6542454DADB3CA9EC9A760854310"
+msgid "Leap Forward"
+msgstr ""
+
+msgctxt "/6BD7D0774E65D2931E4FFE8F27E990DD"
+msgid "Merge unit once"
+msgstr ""
+
+msgctxt "/9176D59548E8113A7CC5ABB7CDA0B508"
+msgid ""
+"When playing the game for the first time, please log in to Steam and ensure "
+"network connectivity (if you have purchased the game but still fail to "
+"verify, please contact the author: 417563640@qq.com ）"
+msgstr ""
+
+msgctxt "/09ABA7CA4E8D68572AACBDB5BF52C745"
+msgid "Knight"
+msgstr ""
+
+msgctxt "/49D7FB064C321165369BAE9D438AA6B6"
+msgid "High tech barrier"
+msgstr ""
+
+msgctxt "/D8C5E5F142773BDFD87D38A2DF7CD1E4"
+msgid "Advanced Properties"
+msgstr ""
+
+msgctxt "/10BE8C8F48542470F0C3A1B3768C0F0B"
+msgid "Advanced Destroyer"
+msgstr ""
+
+msgctxt "/0DF2338744F9BCB261CFCE947776DFB4"
+msgid "Advanced Supply"
+msgstr ""
+
+msgctxt "/BBE45099466F7B989A125C87C0441811"
+msgid "High-energy ammunition"
+msgstr ""
+
+msgctxt "/18A065F54A6FF10DCCCF8F835175AACF"
+msgid "High frequency jet attack"
+msgstr ""
+
+msgctxt "/F000D817425E5810CB2E2A98E4A81749"
+msgid "Regeneration"
+msgstr ""
+
+msgctxt "/ED31867249E0C1D52FBD0199B7210791"
+msgid "Magic Voyager"
+msgstr ""
+
+msgctxt "/4154458541F660F52002C9B9C21D2ECF"
+msgid "Magic Master"
+msgstr ""
+
+msgctxt "/039D015445326F1F029D2CA6C0069A9E"
+msgid "Magic Marksman"
+msgstr ""
+
+msgctxt "/7A322ECF4E460824A8B181A66084070D"
+msgid "Magic manipulation"
+msgstr ""
+
+msgctxt "/3CB5C1DB4B4312CAB1165393237A4622"
+msgid "Magic Tracking"
+msgstr ""
+
+msgctxt "/EBB979784405EA2B8CD69C80AC3447E6"
+msgid "Demon King"
+msgstr ""
+
+msgctxt "/737BF5584C92CC704C81A28E47FF0217"
+msgid "Magic Turning Buddha"
+msgstr ""
+
+msgctxt "/A4EF6A4E46D8878C6D6D749A31581998"
+msgid "Magic Cannon"
+msgstr ""
+
+msgctxt "/702F236D48FB54549F4E6599C2AA6A30"
+msgid "Magic Cannon II"
+msgstr ""
+
+msgctxt "/D7C0F98B49D5D245EA074A97D98DE378"
+msgid "Magic Cannon III"
+msgstr ""
+
+msgctxt "/86BC2DCD4F2642D42B34E99E3F807095"
+msgid "Magic Cannon IV"
+msgstr ""
+
+msgctxt "/0A20A5C14C2D36BE1D0B01A021F1FD74"
+msgid "Magic Cannon V"
+msgstr ""
+
+msgctxt "/A5A082C943AE47B0EF699FA13E660316"
+msgid "Magic Cannon VI"
+msgstr ""
+
+msgctxt "/2D0DAE3B43E1D0192EC036A3F1EE7EA3"
+msgid "Golden Top"
+msgstr ""
+
+msgctxt "/A97379484EED5D99EC388F9A458158E7"
+msgid "Golden Top II"
+msgstr ""
+
+msgctxt "/9F61B26048CD52241AFA81B1F8E0AFBC"
+msgid "Golden Top III"
+msgstr ""
+
+msgctxt "/5A5F0F37476028DF18665EBCCA602AF2"
+msgid "Golden Top IV"
+msgstr ""
+
+msgctxt "/3FDA4EEF4CCD5215D1181C885975BD51"
+msgid "Golden Top V"
+msgstr ""
+
+msgctxt "/A97152F549F29A1075D88D85DBE138B4"
+msgid "Golden Top VI"
+msgstr ""
+
+msgctxt "/631D7FEE435C18220AB9088FFBA56A2E"
+msgid "Mist of Darkness"
+msgstr ""
+
+msgctxt "/4A2014074AB696FDF42BBF8C5D2E28C2"
+msgid "(Will not affect non projectiles, such as lasers, melee weapons, etc.)"
+msgstr ""
+
+msgctxt "/618EDC3D4B3A92925F1E69B035747D83"
+msgid "(Appearing in the 10th wave of the Epsilon galaxy)"
+msgstr ""
+
+msgctxt "/3545C743448DB84C5F25B68948886F0D"
+msgid "(Appearing in the 20th wave of the Epsilon galaxy)"
+msgstr ""
+
+msgctxt "/F3A11FEF4C63AB92BF3B4BAA3C29A693"
+msgid "(Appearing in the 10th wave of the Gamma Galaxy)"
+msgstr ""
+
+msgctxt "/5C108BE14E82788C24CE43A2D3FBF365"
+msgid "(Appearing in the 20th wave of the Gamma Galaxy)"
+msgstr ""
+
+msgctxt "/A24BEFCE44AFFDCB3BF115A0C9441B7E"
+msgid "(Appearing in the 10th wave of the Delta Galaxy)"
+msgstr ""
+
+msgctxt "/3501C7F9464D80E024B10C8A041CFD1D"
+msgid "(Appearing in the 20th wave of the Delta Galaxy)"
+msgstr ""
+
+msgctxt "/0F81BDCF4E8FA489EAD89A91F2E32487"
+msgid "(Appearing in the 15th wave of all galaxies)"
+msgstr ""
+
+msgctxt "/7E9200684B8EBDBDEDAEEEB8C7210DCB"
+msgid "(Appearing in the 10th wave of the Beta galaxy)"
+msgstr ""
+
+msgctxt "/61EA9C444A970E64D82E21B8303A3B94"
+msgid "(Appearing in the 20th wave of the Beta galaxy)"
+msgstr ""
+
+msgctxt "/60AC562A43D2BBD254A055A491DD6D22"
+msgid "(Appearing in the 10th wave of the Alpha Galaxy)"
+msgstr ""
+
+msgctxt "/2293D9D4438807926832CA8CBFF7205A"
+msgid "(Appearing in the 20th wave of the Alpha Galaxy)"
+msgstr ""
+
+msgctxt "/712C13A54C6D3DD354940F98EDF05488"
+msgid "(When equipped)"
+msgstr ""
+
+msgctxt "/9D332CDB41C5E1DAE221B782C0C50378"
+msgid "(When dragging/when not equipped)"
+msgstr ""
+
+msgctxt "/E45239F44594F668631FE98E2376B588"
+msgid "(Random appearance during exploration)"
+msgstr ""
+
+msgctxt "/F2B2AA204172194F0912A995E9127B2F"
+msgid "(Critical damage is 150%, dealing at least 2 damage points)"
+msgstr "(クリティカルダメージ150%, 最低でも2点ダメージを与える)"
+
+msgctxt "/AAC1E6234CF0098827BBDCA8824E4088"
+msgid "(The final attack speed of the unit is: attack speed * cooldown)"
+msgstr ""
+
+msgctxt "/D0B4DC4C456235293D9BEC90B5AB9D28"
+msgid "(The final attack speed of the unit is: attack speed * cooldown)"
+msgstr ""
+
+msgctxt "/3C9FD70440E61CB334FBC391E8C8DB8B"
+msgid "(Each wave can increase by up to 10)"
+msgstr "(各ウェーブにつき最大で10まで)"
+
+msgctxt "/82EDD7E441DB3B0D0609D292D230B715"
+msgid ""
+"(After the 21st wave, the enemy will gradually become immune and repel)"
+msgstr ""
+
+msgctxt "/07C01A4A4BDA22742F368FAC764A5E75"
+msgid ", with an upper limit of"
+msgstr ", 上限は"
+
+msgctxt "/7A4857EA49F35DED92CFE0B22A7F6303"
+msgid ", will not exceed basic damage"
+msgstr ", 基本ダメージを超えることはない"
+
+msgctxt "/4EA56BFF4AD764CEA9E56DAC2CD8131A"
+msgid "You can see more enemies"
+msgstr ""
+
+msgctxt "/5BFB678F476BB10E3BE952B1559FA8A4"
+msgid "And increase the recycling warehouse"
+msgstr ""
+
+msgctxt "/96BA6F0C4884CDBC8E1DA59DDBD660BF"
+msgid "Being able to target the enemy more clearly"
+msgstr ""
+
+msgctxt "/C9EB875341D001BBD05D5C9D625059BC"
+msgid "Cause at least 1 point of damage"
+msgstr ""
