@@ -405,3 +405,11 @@ msgstr = '\1敵を\2体倒す毎に\3'
 [[rules]]
 msgid  = '(\s*)Kill (\d+) enemies per kill(\s*)$'
 msgstr = '\1敵を\2体倒す毎に\3'
+
+[[rules]]
+msgid  = '(\s*)Reflect enemy bullets (\d+) times \(unable to reflect laser\), the bullets inherit all the effects of the core and increase ranged damage by 100%(\s*)$'
+msgstr = '\1敵の弾丸を\2回まで反射する(レーザーは反射できない)。弾丸はコアのすべての効果を引き継ぎ遠隔ダメージが100%増加する\3'
+
+[[rules]]
+msgid  = '(\s*)Resist (\d+) rounds of bullet or laser damage(\s*)$'
+msgstr = '\1弾丸またはレーザーを\2回まで無効化する\3'

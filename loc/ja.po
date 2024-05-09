@@ -42,7 +42,7 @@ msgstr "(レーザー半減)"
 
 msgctxt "/FD5D37D049164E1C2E219EA48CA489F7"
 msgid "(Wave "
-msgstr "(第"
+msgstr "(ウェーブ "
 
 msgctxt "/94C03E52485C0DECA88CC1BF4104B3BF"
 msgid "(Half for melee)"
@@ -1246,23 +1246,23 @@ msgstr ""
 
 msgctxt "/3F89C4D1465568B915A65AA84B91C0DA"
 msgid "Reflect enemy bullets 10 times (unable to reflect laser), the bullets inherit all the effects of the core and increase ranged damage by 100%"
-msgstr ""
+msgstr "敵の弾丸を10回まで反射する(レーザーは反射できない)。弾丸はコアのすべての効果を引き継ぎ遠隔ダメージが100%増加する"
 
 msgctxt "/963ABA5C41443E6B6348ECA6D6A83ADC"
 msgid "Reflect enemy bullets 20 times (unable to reflect laser), the bullets inherit all the effects of the core and increase ranged damage by 100%"
-msgstr ""
+msgstr "敵の弾丸を20回まで反射する(レーザーは反射できない)。弾丸はコアのすべての効果を引き継ぎ遠隔ダメージが100%増加する"
 
 msgctxt "/795783254824B469B4A86AA054A9FC49"
 msgid "Reflect enemy bullets 30 times (unable to reflect laser), the bullets inherit all the effects of the core and increase ranged damage by 100%"
-msgstr ""
+msgstr "敵の弾丸を30回まで反射する(レーザーは反射できない)。弾丸はコアのすべての効果を引き継ぎ遠隔ダメージが100%増加する"
 
 msgctxt "/3ADEA5334BBDC13EEDDC40B02C629C52"
 msgid "Reflect enemy bullets 40 times (unable to reflect laser), the bullets inherit all the effects of the core and increase ranged damage by 100%"
-msgstr ""
+msgstr "敵の弾丸を40回まで反射する(レーザーは反射できない)。弾丸はコアのすべての効果を引き継ぎ遠隔ダメージが100%増加する"
 
 msgctxt "/51ED7EED45D9921EB282A8816A02EA89"
 msgid "Reflect enemy bullets 50 times (unable to reflect laser), the bullets inherit all the effects of the core and increase ranged damage by 100%"
-msgstr ""
+msgstr "敵の弾丸を50回まで反射する(レーザーは反射できない)。弾丸はコアのすべての効果を引き継ぎ遠隔ダメージが100%増加する"
 
 msgctxt "/B095C9284570E592F47750A7720A60A0"
 msgid "Anti shock"
@@ -1450,11 +1450,11 @@ msgstr "ユニーク"
 
 msgctxt "/7383F36C44F916C052A3219EC779F016"
 msgid "Store"
-msgstr "店"
+msgstr "お店"
 
 msgctxt "/DD28D9FA4226543D688896AE2E7DE5D2"
 msgid "Store"
-msgstr "店"
+msgstr "お店"
 
 msgctxt "/4668CC0E4EB57C44E32F48888309AA46"
 msgid "Units will not appear in the store"
@@ -3018,27 +3018,27 @@ msgstr ""
 
 msgctxt "/5C5419414D283B7C0C336CB3BBA37621"
 msgid "Resist 10 rounds of bullet or laser damage"
-msgstr ""
+msgstr "弾丸またはレーザーを10回まで無効化する"
 
 msgctxt "/F8A0EB024F979EAD912918ABC24B81B4"
 msgid "Resist 15 rounds of bullet or laser damage"
-msgstr ""
+msgstr "弾丸またはレーザーを15回まで無効化する"
 
 msgctxt "/7F6C7746492B589E4D8BD2A383EDDA55"
 msgid "Resist 20 rounds of bullet or laser damage"
-msgstr ""
+msgstr "弾丸またはレーザーを20回まで無効化する"
 
 msgctxt "/422438D94F810FBC4D7BE0BACCE28B58"
 msgid "Resist 25 rounds of bullet or laser damage"
-msgstr ""
+msgstr "弾丸またはレーザーを25回まで無効化する"
 
 msgctxt "/FC9D8D0F4E7D6455692CD0A7FE779043"
 msgid "Resist 30 rounds of bullet or laser damage"
-msgstr ""
+msgstr "弾丸またはレーザーを30回まで無効化する"
 
 msgctxt "/2718057A4537FF56693F9997A34816FA"
 msgid "Resist 5 rounds of bullet or laser damage"
-msgstr ""
+msgstr "弾丸またはレーザーを5回まで無効化する"
 
 msgctxt "/6D09C9544F2FB6114DB5F0AF3FF69A0C"
 msgid "Drag and drop"
@@ -3094,23 +3094,23 @@ msgstr ""
 
 msgctxt "/19D92A7348C713DCE7A1F6948F98FB5B"
 msgid "Explore"
-msgstr ""
+msgstr "探査"
 
 msgctxt "/1D3F768442A6E3663CE35CB072170607"
 msgid "Explore"
-msgstr ""
+msgstr "探査"
 
 msgctxt "/A1B1F3A24AEA72911F60139BBDA4E63C"
 msgid "Explore"
-msgstr ""
+msgstr "探査"
 
 msgctxt "/7A4D57654B55077E9865DBBCBEF43C89"
 msgid "Explore (Wave "
-msgstr ""
+msgstr "探査 (ウェーブ "
 
 msgctxt "/E79ACDD740AA8A9D8CBA35A87DAC253D"
 msgid "Explore (Wave "
-msgstr ""
+msgstr "探査 (ウェーブ "
 
 msgctxt "/7EB4070E4103FA80FCE242BF6F990CE0"
 msgid "Exploration I"
@@ -3158,7 +3158,7 @@ msgstr "探査中はコアから分離する"
 
 msgctxt "/4574CF98475F87CE124EDD9B7925AA6E"
 msgid "Exploration:"
-msgstr ""
+msgstr "探査:"
 
 msgctxt "/25D4E8184B95779983453DBCA2ED4653"
 msgid "End of exploration"
@@ -3270,11 +3270,11 @@ msgstr ""
 
 msgctxt "/D54AA15D42ACC6CDA998D0AAB4E25ED0"
 msgid "Control movement speed"
-msgstr ""
+msgstr "操作時移動速度"
 
 msgctxt "/256D25C049E6F6956E094497FEB4CE83"
 msgid "Control turning speed"
-msgstr ""
+msgstr "操作時回転速度"
 
 msgctxt "/6EC3E49642CC4DCC5A6C3CA687B004A7"
 msgid "Harvesting"
@@ -5910,15 +5910,15 @@ msgstr ""
 
 msgctxt "/05D4C0DF4D0B28CE01B4B5960814784D"
 msgid "Assembly"
-msgstr ""
+msgstr "組み立て"
 
 msgctxt "/2261D3B743AB556658A7839CCF18FAED"
 msgid "Assembling"
-msgstr ""
+msgstr "組み立てる"
 
 msgctxt "/353C1BE648BACF2D4590F1AE80E8E6BE"
 msgid "Assembly"
-msgstr ""
+msgstr "組み立て"
 
 msgctxt "/2F92ED3244BE0CF9580D869ED713C57C"
 msgid "Window"
