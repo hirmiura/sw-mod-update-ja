@@ -63,7 +63,7 @@ def procee() -> int:
         int: 成功時は0を返す
     """
     for file in conf["files"]:
-        pofile = polib.pofile(file)
+        pofile = polib.pofile(file, wrapwidth=0)
         for entry in pofile:
             for rule in conf["rules"]:
                 match = rule["msgid"].match(entry.msgid)
