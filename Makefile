@@ -9,9 +9,9 @@ D_SRC		:= src
 D_BIN		:= bin
 D_PAK		:= pak
 # Note: \\wsl$\Debian は駄目なのでドライブを割り当てる
-D_PAK_WIN	:= $(shell readlink -f $(D_PAK) | sed -e 's|^|L:|; s|/|\\|g')
+D_PAK_WIN	:= $(shell readlink -f $(D_PAK) | sed -e 's|^/mnt/\(\w\)/|\1:/|; s|/|\\|g')
 D_LOC		:= loc
-D_LOC_WIN	:= $(shell readlink -f $(D_LOC) | sed -e 's|^|L:|; s|/|\\|g')
+D_LOC_WIN	:= $(shell readlink -f $(D_LOC) | sed -e 's|^/mnt/\(\w\)/|\1:/|; s|/|\\|g')
 D_GAME_LOCS	:= $(D_PAK)/StarryGame/Content/Localization/Game
 
 # 各種ファイル
