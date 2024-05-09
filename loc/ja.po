@@ -170,7 +170,7 @@ msgstr "1 テクノロジー"
 
 msgctxt "/DFF291E249740951A736A18C7C9D4EA2"
 msgid "Level 1 chip"
-msgstr ""
+msgstr "レベル1チップ"
 
 msgctxt "/F4670BF4484166C4A41439B288F61181"
 msgid "1 speed"
@@ -190,7 +190,7 @@ msgstr ""
 
 msgctxt "/71A036D2490B1B273ABA399DA3F5B751"
 msgid "Level 2 chip"
-msgstr ""
+msgstr "レベル2チップ"
 
 msgctxt "/0F62FD894D07731101EDC9A600383B04"
 msgid "3% probability of upgrade failure, unit damage and disappearance"
@@ -202,7 +202,7 @@ msgstr ""
 
 msgctxt "/9BD0119C4E6E26CCA29FF5A3B89EA0C9"
 msgid "Level 3 chip"
-msgstr ""
+msgstr "レベル3チップ"
 
 msgctxt "/46BABD814BDA16CD5D1735B5F7F32FC3"
 msgid "40% damage"
@@ -218,7 +218,7 @@ msgstr ""
 
 msgctxt "/8967C3184BE761EB7724C68F6C7F07D1"
 msgid "Level 4 chip"
-msgstr ""
+msgstr "レベル4チップ"
 
 msgctxt "/9813BA594F14BA283FA6878602FFFAE8"
 msgid "5% probability"
@@ -242,7 +242,7 @@ msgstr ""
 
 msgctxt "/337696FD480B77305CE1F58E77D3B8AC"
 msgid "Level 5 chip"
-msgstr ""
+msgstr "レベル5チップ"
 
 msgctxt "/9C9E311D43C98AEE719419954161BB8B"
 msgid "60% damage"
@@ -254,7 +254,7 @@ msgstr ""
 
 msgctxt "/D64C604948A5DE5EE4255F95C5A19908"
 msgid "Level 6 chip"
-msgstr ""
+msgstr "レベル6チップ"
 
 msgctxt "/66961B9D45CBEDBF750E7E860370F817"
 msgid "Trispectral cannon"
@@ -2046,7 +2046,7 @@ msgstr ""
 
 msgctxt "/DA97E546462C9C3520B1B9AE2DE06E96"
 msgid "Deals chaining piercing damage to hit targets"
-msgstr ""
+msgstr "命中した相手に連鎖貫通ダメージを与える"
 
 msgctxt "/C16290694E7398056C6E29A368030760"
 msgid "Increase damage to elite monsters and leader monsters"
@@ -3146,7 +3146,7 @@ msgstr ""
 
 msgctxt "/7979FC124CC8EE737047149DC135EF3A"
 msgid "Explore endless modes and join the leaderboard! "
-msgstr ""
+msgstr "エンドレスモードを探査してリーダーボードに載ろう！ "
 
 msgctxt "/2FCF336C49D28664A190D7B349AFB9E8"
 msgid "During exploration, all units detached from the core"
@@ -3414,15 +3414,15 @@ msgstr ""
 
 msgctxt "/45E575B249D58BDB9852FD9AB916176D"
 msgid "Enemy damage"
-msgstr ""
+msgstr "敵のダメージ"
 
 msgctxt "/CCCB2F134F22528C31582191988825F3"
 msgid "Enemy damage increased"
-msgstr ""
+msgstr "敵のダメージが増加"
 
 msgctxt "/620BE58B4D0C37B50D851B97697C6269"
 msgid "Enemy damage reduced"
-msgstr ""
+msgstr "敵のダメージが減少"
 
 msgctxt "/1758D02640F8CB3ABEBA459D96477613"
 msgid "Number of enemies"
@@ -3438,27 +3438,27 @@ msgstr ""
 
 msgctxt "/9223F371421D3D8AEC7930B0D2172364"
 msgid "Enemy Life"
-msgstr ""
+msgstr "敵のライフ"
 
 msgctxt "/21C29C9B4E36EEFC5765C8897D343689"
 msgid "Enemy health increased"
-msgstr ""
+msgstr "敵のライフが増加"
 
 msgctxt "/FDF452CF475700DE278BDCB936CD4885"
 msgid "Enemy health reduced"
-msgstr ""
+msgstr "敵のライフが減少"
 
 msgctxt "/FC7FB01B4657AF5CAF718EA74E484E8E"
 msgid "Enemy Speed"
-msgstr ""
+msgstr "敵の速度"
 
 msgctxt "/7633699F4FE19450286A42B1AB568976"
 msgid "Enemy speed increased"
-msgstr ""
+msgstr "敵の速度が増加"
 
 msgctxt "/D2B9F26641377E16E634BC9F08E350FA"
 msgid "Enemy speed reduced"
-msgstr ""
+msgstr "敵の速度が減少"
 
 msgctxt "/D300BD4F411E062425D46FA4DA8D8EDF"
 msgid "Pontiff"
@@ -3754,7 +3754,7 @@ msgstr ""
 
 msgctxt "/9FBE5A2F45FCCD138F9493843A1FC224"
 msgid "Final wave:"
-msgstr ""
+msgstr "最終ウェーブ:"
 
 msgctxt "/EF8AC68C45701B418AAE20987D510CC8"
 msgid "The highest exploration wave reaches:"
@@ -3762,11 +3762,11 @@ msgstr ""
 
 msgctxt "/0CC538E74B9FB8514A9E8DB9FB36C96B"
 msgid "Highest wave"
-msgstr ""
+msgstr "最高ウェーブ"
 
 msgctxt "/CD13DE3C45BEF72A335BE499C20E3590"
 msgid "Highest wave"
-msgstr ""
+msgstr "最高ウェーブ"
 
 msgctxt "/137A78744AF829C0D1F4CA83E58728A7"
 msgid "Maximum wave:"
@@ -3786,7 +3786,7 @@ msgstr ""
 
 msgctxt "/CE2D12E041DD6F0B42BF11BB0949BC80"
 msgid "Highest level:"
-msgstr ""
+msgstr "最高レベル:"
 
 msgctxt "/B9DDCC694ECCE3837BA914810BD84401"
 msgid "Highest clearance galaxy"
@@ -3930,7 +3930,7 @@ msgstr ""
 
 msgctxt "/B4AF57DA4F55B4C7DB17F087E2428651"
 msgid "During construction, rotation does not change the direction of the weapon"
-msgstr ""
+msgstr "構築時に回転させても武器の向きが変わらない"
 
 msgctxt "/4C8CF87847222FB3176698A94AF1AAB4"
 msgid "Architect Prime"
@@ -4034,7 +4034,7 @@ msgstr ""
 
 msgctxt "/BC6BDFB5451F59F253CD6294C118EBE0"
 msgid "During core movement, continuously increase damage based on current movement speed"
-msgstr ""
+msgstr "コアの移動中、現在の移動速度に応じてダメージを継続的に増加させる"
 
 msgctxt "/A78FF72D4805CE0E2B3F3ABABAA4C423"
 msgid "When the core is destroyed, it can be fought again (before returning to the current wave of exploration)"
@@ -4170,11 +4170,11 @@ msgstr ""
 
 msgctxt "/428F5E9444D0F44161AD2590DD215D1B"
 msgid "Each point of armor can reflect twice more"
-msgstr ""
+msgstr "アーマー1点につき2回多く反射する"
 
 msgctxt "/8193582347CACF92A1F0C8B33EE5F6E0"
 msgid "Each point of armor can reflect twice more"
-msgstr ""
+msgstr "アーマー1点につき2回多く反射する"
 
 msgctxt "/7B72C06847DA4394206A878757E00958"
 msgid "Each point of armor can withstand 1 more damage"
@@ -4386,7 +4386,7 @@ msgstr "リンク毎に1ユニット"
 
 msgctxt "/D12A7FC74201301CFCF80AA2FC02FE55"
 msgid "Every 24 seconds, absorb all space gems in the scene"
-msgstr ""
+msgstr "24秒ごとに、シーン内のすべてのスペースジェムを吸収する"
 
 msgctxt "/70E85F2B4F7905CA5205A293DF8B5E1A"
 msgid "Every"
@@ -4970,7 +4970,7 @@ msgstr ""
 
 msgctxt "/9FF7CF884AC317A5314888A3AF7C1106"
 msgid "HP/second"
-msgstr ""
+msgstr "HP/秒"
 
 msgctxt "/6CE08F77499752F8E250B3B74AF206D3"
 msgid "When the health value is below 50%, the regeneration of life doubles"
