@@ -3418,15 +3418,15 @@ msgstr ""
 
 msgctxt "/3BD23A48459E021C468A8587C24D8042"
 msgid "Collection scope"
-msgstr ""
+msgstr "収集範囲"
 
 msgctxt "/40E0837D47A603BF5D9E5EA1EB613036"
 msgid "Collection scope"
-msgstr ""
+msgstr "収集範囲"
 
 msgctxt "/51C53ACB413487472C299AB192AD8A47"
 msgid "Collection scope"
-msgstr ""
+msgstr "収集範囲"
 
 msgctxt "/2DA3A88141FF90F743E698BA2779D893"
 msgid "Modification"
