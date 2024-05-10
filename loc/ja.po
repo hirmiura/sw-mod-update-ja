@@ -538,7 +538,7 @@ msgstr "+5% ダメージ"
 
 msgctxt "/00BC159A4A1DC061EABB8CB2DDA7681B"
 msgid "Damage number"
-msgstr ""
+msgstr "ダメージ数を表示"
 
 msgctxt "/1A338C6442695F8C3AE2B1AB5BCA7DA0"
 msgid "Gamma Ray"
@@ -605,12 +605,16 @@ msgid ""
 "You have unassembled modules. Would you like to proceed with exploration anyway?\n"
 " (Unassembled modules will be stored in the warehouse.)"
 msgstr ""
+"未装着のユニットがあります。探査を進めますか？\n"
+"(未装着ユニットは倉庫に保管されます)"
 
 msgctxt "/9D670F4D46B7A62C9B5E73834B69374A"
 msgid ""
 "You have unassembled modules. Would you like to proceed with exploration anyway?\n"
 " (Unassembled modules will be stored in the warehouse.)"
 msgstr ""
+"未装着のユニットがあります。探査を進めますか？\n"
+"(未装着ユニットは倉庫に保管されます)"
 
 msgctxt "/C1D5AEEC40353E728824839E7A6D8F67"
 msgid "Increase all damage you cause by "
@@ -1074,7 +1078,7 @@ msgstr ""
 
 msgctxt "/4488EE004FE0072B6AB8D389B42E6F3B"
 msgid "Power simulation (camera delay)"
-msgstr ""
+msgstr "ダイナミックシミュレーション (カメラ遅延)"
 
 msgctxt "/00404C494694855CE71D17B4AAFA5C31"
 msgid "Warrior"
@@ -1134,7 +1138,7 @@ msgstr ""
 
 msgctxt "/5402DC11496EFC85A574A782D7917589"
 msgid "One handed mode"
-msgstr ""
+msgstr "片手モード"
 
 msgctxt "/620D2CEB472E8F207A1B949ABEEA0D3E"
 msgid "Polymath"
@@ -1198,7 +1202,7 @@ msgstr ""
 
 msgctxt "/14A58B864A2522B0C9A92FB4ECCC4B78"
 msgid "Two handed operation mode, precise targeting of the cursor, suitable for all cores (recommended)"
-msgstr ""
+msgstr "両手操作モード、カーソルに正確に照準でき、すべてのコアに適しています (推奨)"
 
 msgctxt "/699ECAEF4B776EC884E21DBF7126E661"
 msgid "Counter Blade"
@@ -1298,7 +1302,7 @@ msgstr "負傷後の無敵時間"
 
 msgctxt "/10BFCAF94BE0D8137FF8ACA88E5098C9"
 msgid "Shock screen"
-msgstr ""
+msgstr "ショックスクリーン"
 
 msgctxt "/8279CB4240D8B1A51910178F75BBDA18"
 msgid "When taking any damage, restore 1 health point"
@@ -1362,7 +1366,7 @@ msgstr "エピック"
 
 msgctxt "/86D69B0F466C82DEEE624B8A4E2B20B8"
 msgid "Right joystick sensitivity"
-msgstr ""
+msgstr "右ジョイスティック感度"
 
 msgctxt "/C35BBAFE4D859A65CB58A7AC490CC841"
 msgid "Alloy device"
@@ -1390,7 +1394,7 @@ msgstr ""
 
 msgctxt "/A06A84FB4169918127E16E9C41869916"
 msgid "Same row unit"
-msgstr ""
+msgstr "同じ行のユニット"
 
 msgctxt "/BD0B01104E30A3B109B7639F8161EF29"
 msgid "Simultaneously firing three lasers to attack enemies"
@@ -1578,19 +1582,19 @@ msgstr ""
 
 msgctxt "/7722C72E49E5B9CB34329B92BA060B50"
 msgid "Add"
-msgstr ""
+msgstr "追加"
 
 msgctxt "/0C2A81DA4B4DE8AF45935288EB62B22A"
 msgid "Add 1"
-msgstr ""
+msgstr "追加 1"
 
 msgctxt "/CC1E868546D610F26B24AA96C1722A68"
 msgid "Add 1"
-msgstr ""
+msgstr "追加 1"
 
 msgctxt "/DBEF598B46E5F23C1AA1C48EFF64D978"
 msgid "Add 1"
-msgstr ""
+msgstr "追加 1"
 
 msgctxt "/396195274C7EB896F9856BA41B22419B"
 msgid " Increase 1%"
@@ -1602,7 +1606,7 @@ msgstr ""
 
 msgctxt "/7549F4424D478268FC3644A600F6E532"
 msgid "Add 10"
-msgstr ""
+msgstr "追加 10"
 
 msgctxt "/A6CF3E84479AB20621330AB4F9A6B98E"
 msgid "Increase collection radius"
@@ -1870,7 +1874,7 @@ msgstr ""
 
 msgctxt "/033CB75646A74F60165B14B728F4B43C"
 msgid "Duration of immobilization"
-msgstr ""
+msgstr "停止時間"
 
 msgctxt "/5AF62EB647DF8372ACBADC832CCE5F01"
 msgid "Fixed Cannon"
@@ -2042,7 +2046,7 @@ msgstr ""
 
 msgctxt "/46F8F5CF4F4242F99F9DB8BE6B14C7CF"
 msgid "When dealing continuous damage to a single target, the damage is increased by 10%, with a maximum increase of 500% in damage"
-msgstr ""
+msgstr "単体にダメージを与え続けると、最大500%までダメージが10%づつ増加する"
 
 msgctxt "/DA97E546462C9C3520B1B9AE2DE06E96"
 msgid "Deals chaining piercing damage to hit targets"
@@ -2146,7 +2150,7 @@ msgstr ""
 
 msgctxt "/6F5217CD4F3A69377CF5BE91670A1BFC"
 msgid "Left joystick sensitivity"
-msgstr ""
+msgstr "左ジョイスティック感度"
 
 msgctxt "/4DA5BA0348B0918378941CAAFB159206"
 msgid "Southpaw"
@@ -2166,7 +2170,7 @@ msgstr ""
 
 msgctxt "/6881BAB840B6C852B5AE838E9C8A28CC"
 msgid "Increased attack range"
-msgstr ""
+msgstr "射程を増加 "
 
 msgctxt "/1AC8886741AEF9F0696120B781DC0AFE"
 msgid "Increased attack speed percentage"
@@ -2174,11 +2178,11 @@ msgstr ""
 
 msgctxt "/77671CA64A5B3BEFF02AC1BD608636C1"
 msgid "Increased critical hit rate"
-msgstr ""
+msgstr "クリティカル率を増加"
 
 msgctxt "/6377ABF9434A5E92A8A9D8917909658A"
 msgid "Increase maximum health"
-msgstr ""
+msgstr "最大ライフを増加 "
 
 msgctxt "/741A04A449F5C6F6064D6AB51B2959CF"
 msgid "Increased life regeneration"
@@ -2190,7 +2194,7 @@ msgstr ""
 
 msgctxt "/5A7BFA6743B5A33B7444968820EEBC76"
 msgid "Add technology"
-msgstr ""
+msgstr "テクノロジーを追加"
 
 msgctxt "/90F3382E47C8C8596466A8B82DDC3473"
 msgid "Increased movement speed percentage"
@@ -2198,7 +2202,7 @@ msgstr ""
 
 msgctxt "/D4A06B4F418D252293ED638478203922"
 msgid "Increased Business"
-msgstr ""
+msgstr "経営を増加"
 
 msgctxt "/668378B14581CCAEF886D59D2BF74925"
 msgid "Increased field of view percentage"
@@ -2206,19 +2210,19 @@ msgstr ""
 
 msgctxt "/FA6576144F0F75CFAC624295D3CBF1F5"
 msgid "Increased luck"
-msgstr ""
+msgstr "運を増加"
 
 msgctxt "/8C2BDC094F2AC8D7ED8240822A596749"
 msgid "Increase melee damage"
-msgstr ""
+msgstr "近接ダメージを増加 "
 
 msgctxt "/D66EAE4D4FD3EF51EF2E97A1953C167D"
 msgid "Increase ranged damage"
-msgstr ""
+msgstr "遠隔ダメージを増加 "
 
 msgctxt "/0627777E49D64170E8B11581664B61D0"
 msgid "Increase quantum damage"
-msgstr ""
+msgstr "量子ダメージを増加 "
 
 msgctxt "/B5CF9EE346DCCCCE70485AB4EAE5DA54"
 msgid "Effective"
@@ -2242,7 +2246,7 @@ msgstr ""
 
 msgctxt "/6A5E08D944270AA9E99A2D8CF51A9299"
 msgid "Frame rate"
-msgstr ""
+msgstr "フレームレート"
 
 msgctxt "/51F1DBAD4F639E72769D169854F127BD"
 msgid "Interference"
@@ -2598,7 +2602,7 @@ msgstr ""
 
 msgctxt "/9BDDB6204D1DDDA17E2E1099AD2192E5"
 msgid "Recovery amount:"
-msgstr ""
+msgstr "回復量: "
 
 msgctxt "/5BDAEFCF49B94C2051D724B6561E562A"
 msgid "Deterioration"
@@ -2626,7 +2630,7 @@ msgstr ""
 
 msgctxt "/64558E9B409C4DED06ADCD8DF2A12D1F"
 msgid "Number of induced electrical injuries"
-msgstr ""
+msgstr "感電ダメージ数"
 
 msgctxt "/DD5AD26E4DBA31C04DDF949DEC3D0622"
 msgid "Electric damage: 1+50% quantum damage"
@@ -2634,7 +2638,7 @@ msgstr ""
 
 msgctxt "/5299030F43F2049DDFC3BAA5476211C7"
 msgid "Duration of induction"
-msgstr ""
+msgstr "感電時間"
 
 msgctxt "/94AC695D4850937168CA6D9A34DF8209"
 msgid "Electric shock: randomly shocks another enemy when injured"
@@ -2662,15 +2666,15 @@ msgstr "自ランキング:"
 
 msgctxt "/AE1BE9B04C02EDB76DF45EA24629D358"
 msgid "Enlarge cursor during battle"
-msgstr ""
+msgstr "戦闘中のカーソルを大きくする"
 
 msgctxt "/55A327EE419EAF2BE121D095CCD30DC2"
 msgid "Hide interfaces during battles"
-msgstr ""
+msgstr "戦闘中はインタフェースを隠す"
 
 msgctxt "/E8EAC4734910193FB5FDC28C0AF689E1"
 msgid "During combat, hide the unit."
-msgstr ""
+msgstr "戦闘中はユニットを隠す"
 
 msgctxt "/24D7EA6E466D54FA8FBC028C5B4A4F50"
 msgid "At the end of the battle, convert the lost health points into space gems"
@@ -2818,11 +2822,11 @@ msgstr ""
 
 msgctxt "/34269D544918D3324F9580AD5CC3094F"
 msgid "Controller settings"
-msgstr ""
+msgstr "コントローラー設定"
 
 msgctxt "/4177F75D4B1DF13DB474AA97C6FCFE62"
 msgid "Handle vibration"
-msgstr ""
+msgstr "振動機能"
 
 msgctxt "/FB156EC5496E262F14A4B08543C35FF8"
 msgid "Strike I"
@@ -3174,7 +3178,7 @@ msgstr ""
 
 msgctxt "/965737F84A159F11B90284B945A33A7D"
 msgid "control"
-msgstr ""
+msgstr "移動"
 
 msgctxt "/8C012F7D4CEDE68F195F6191E80F3C54"
 msgid "Thrust"
@@ -3182,11 +3186,11 @@ msgstr ""
 
 msgctxt "/D0E3BA4D41CB513E29E87CAA1892C3C2"
 msgid "Improving luck can increase the probability of dropping treasure chests and the probability of high-quality products appearing in the store. Current luck"
-msgstr ""
+msgstr "運が増えると財宝のドロップ率が上がり、店舗に高品質のアイテムが現れやすくなる。現在の運 "
 
 msgctxt "/61AA7E7C47A08518127FBA88ECF664B9"
 msgid "Reminder"
-msgstr ""
+msgstr "確認"
 
 msgctxt "/1C5A46624C7D297D3B1EBEA6763F05D0"
 msgid "Tip: The laboratory is currently under development and will add more features in the future! "
@@ -3266,7 +3270,7 @@ msgstr ""
 
 msgctxt "/1527F427431BC4D27C4374839C8D6EBB"
 msgid "Operation settings"
-msgstr ""
+msgstr "操作設定"
 
 msgctxt "/D54AA15D42ACC6CDA998D0AAB4E25ED0"
 msgid "Control movement speed"
@@ -3342,7 +3346,7 @@ msgstr ""
 
 msgctxt "/0047A05A4AF01DE6E4B4AFB82104D860"
 msgid "When attacking, you can collect space gems"
-msgstr ""
+msgstr "攻撃時にスペースジェムを収集できる"
 
 msgctxt "/3D1E8E2C4A02C40FEFFA2DAA3CAF8F84"
 msgid "Attack range"
@@ -3378,7 +3382,7 @@ msgstr ""
 
 msgctxt "/6E55D6F4497515627AA736B20C4BB38D"
 msgid "Increased attack range"
-msgstr ""
+msgstr "射程を増加 "
 
 msgctxt "/C70CDB1A4DF297300C3AF1990BD23FA9"
 msgid "Attack speed"
@@ -3790,7 +3794,7 @@ msgstr "最高レベル:"
 
 msgctxt "/B9DDCC694ECCE3837BA914810BD84401"
 msgid "Highest clearance galaxy"
-msgstr ""
+msgstr "最高クリア銀河"
 
 msgctxt "/1D3D2C4F45EF4CB11C0259A3DF923B7E"
 msgid "have"
@@ -3950,7 +3954,7 @@ msgstr ""
 
 msgctxt "/A2E1076C45CD0B4F02FC7EA5B5BCF4A7"
 msgid "Standard mode (recommended)"
-msgstr ""
+msgstr "標準 (推奨)"
 
 msgctxt "/71A946B1486738C98140A299AA5B5007"
 msgid "core"
@@ -3958,7 +3962,7 @@ msgstr "コア"
 
 msgctxt "/7A506EF04BFB6E28F634B3AB7F70A894"
 msgid "The core will not rotate with the cursor"
-msgstr ""
+msgstr "コアはカーソル方向に回転しない"
 
 msgctxt "/C8FDA24A43EB793C6C6CEFBA4CF684C0"
 msgid "Core modification: The core will not rotate with the cursor"
@@ -3990,7 +3994,7 @@ msgstr "コアが敵に攻撃されダメージを受けると、そのダメー
 
 msgctxt "/CF5819FA43FD970B2D3A32AA646EC35B"
 msgid "When the core is within the attack range of the crew, launch a therapeutic missile towards the crew"
-msgstr ""
+msgstr "コアがこのユニットの射程内にいると、コアに向けて治癒ミサイルを発射する"
 
 msgctxt "/E78B69A64363EBAEC4CB8390E993B49D"
 msgid "After the core begins to move, it creates fog behind it, poisoning enemies who encounter the fog and dealing damage once per second for 5 seconds"
@@ -4106,7 +4110,7 @@ msgstr ""
 
 msgctxt "/5720A677456F3CDAFF98A5B226BDD091"
 msgid "Probability of restoring 1 health point (up to 10 recoveries per second)"
-msgstr ""
+msgstr "の確率でライフを1点回復する (上限は10回復/秒)"
 
 msgctxt "/A06110A54E2437BC84FF569722FEA417"
 msgid "Probability avoidance"
@@ -4210,7 +4214,7 @@ msgstr ""
 
 msgctxt "/AF5146D6478DECDB1ADECD8C1FE9153D"
 msgid "After each wave of exploration, randomly increase the following attributes by 1 point:"
-msgstr ""
+msgstr "各ウェーブ後に以下の特性からランダムに1点強化する"
 
 msgctxt "/F98AC3394FF95D58FD9DFDB7716B12FB"
 msgid "After each wave of exploration:"
@@ -4218,7 +4222,7 @@ msgstr "各ウェーブ後:"
 
 msgctxt "/1B5985734733B260C6670985C5F39DF4"
 msgid "Add 1 load to each assembled unit"
-msgstr ""
+msgstr "1負荷をそれぞれのユニットに追加"
 
 msgctxt "/4867E6DF4C7418A9BB35F0BE6F44F3B5"
 msgid "Kill every 10 enemies"
@@ -4318,7 +4322,7 @@ msgstr ""
 
 msgctxt "/8E69001040BE504FFF47B88E4A0AD81F"
 msgid "Gain after each round of exploration"
-msgstr ""
+msgstr "各ウェーブ後に増加 "
 
 msgctxt "/0364CDAC45712363F6C969A1B4716D2F"
 msgid "Every chip owned"
@@ -5098,11 +5102,11 @@ msgstr ""
 
 msgctxt "/74DFF5AB4D43305988D7329F7075D111"
 msgid "Aiming"
-msgstr ""
+msgstr "照準"
 
 msgctxt "/BC87698F4E6A13D0123C1CAFB25FC62E"
 msgid "Aiming"
-msgstr ""
+msgstr "照準"
 
 msgctxt "/ACE1E73F48503631814E2B829537F874"
 msgid "Aiming cursor"
@@ -5242,7 +5246,7 @@ msgstr ""
 
 msgctxt "/F81847FE4D61A71A848C6288C5507FC7"
 msgid "Move"
-msgstr ""
+msgstr "移動"
 
 msgctxt "/51D2266C4A8AF555F71C87BC60467765"
 msgid "Movement speed"
@@ -5258,7 +5262,7 @@ msgstr ""
 
 msgctxt "/100264A743A4FF11BED37BA8F32B428E"
 msgid "Increase movement speed by "
-msgstr ""
+msgstr "移動速度を増加 "
 
 msgctxt "/F1596927476BD8805877B39D3BDB6D17"
 msgid "Movement speed reduced by "
@@ -5330,11 +5334,11 @@ msgstr ""
 
 msgctxt "/C23534AF475E5ADAB01E33975CB168F4"
 msgid "Windowed Mode"
-msgstr ""
+msgstr "ウィンドウモード"
 
 msgctxt "/2BA7D7024E98C56383F1CCBF57A96D32"
 msgid "Maximize Window"
-msgstr ""
+msgstr "ボーダレスウィンドウ"
 
 msgctxt "/93E56E9D4FE86ABFF5E5818C76FFAAA5"
 msgid "Immediately obtain 255 Space Gems"
@@ -5482,7 +5486,7 @@ msgstr ""
 
 msgctxt "/C6558BED43598A7F37853C94102D6A15"
 msgid "Accumulated health recovery has reached:"
-msgstr ""
+msgstr "累積ライフ回復到達:"
 
 msgctxt "/20FCF9704FE4AAF9A736B6BBB13C3108"
 msgid "Accumulated recovery of life:"
@@ -5714,7 +5718,7 @@ msgstr "スペースジェムを自動収集"
 
 msgctxt "/669CD1734AEDB2473E271F81849C096C"
 msgid "Automatic rotation, every"
-msgstr ""
+msgstr "自動回転, 毎"
 
 msgctxt "/F2CBC40D4A86AC854BE391A624D96EAC"
 msgid "Automatic rotation, speed increases with technology"
@@ -5922,7 +5926,7 @@ msgstr "組み立て"
 
 msgctxt "/2F92ED3244BE0CF9580D869ED713C57C"
 msgid "Window"
-msgstr ""
+msgstr "ウィンドウ"
 
 msgctxt "/C9C9ADD640767A04CE852EBBE9966403"
 msgid "Sight distance locking"
@@ -6438,11 +6442,11 @@ msgstr ""
 
 msgctxt "/2F4412AC411DAF7E5030129FE7368033"
 msgid "Select operation mode (can be modified at any time in system settings)"
-msgstr ""
+msgstr "操作モードを選択 (設定からいつでも変更可能)"
 
 msgctxt "/C4A3C7D747F691D4EE45A2BC40C7E627"
 msgid "Choose this"
-msgstr ""
+msgstr "選択"
 
 msgctxt "/949B696D4A82AD259C4117B23D77132D"
 msgid "Clearance "
@@ -6466,7 +6470,7 @@ msgstr ""
 
 msgctxt "/247EDEE540E51FC90DD2B3966848A6E4"
 msgid "When causing harm, there are"
-msgstr ""
+msgstr "ダメージを与えた際に"
 
 msgctxt "/A6EC97704722F3CAD4D0BCA0E4E29CBA"
 msgid "Item discount"
@@ -6718,7 +6722,7 @@ msgstr ""
 
 msgctxt "/51D98F5C4C78086083E34388D5A2ED6D"
 msgid "Lock rotation"
-msgstr ""
+msgstr "回転を固定"
 
 msgctxt "/2A85B3DE4C3FD62665C5D88D3A19770B"
 msgid "Lock the target"
@@ -6994,7 +6998,7 @@ msgstr ""
 
 msgctxt "/8144815943895B3FFB93EBBB94054490"
 msgid "Randomly select a core you have unlocked"
-msgstr ""
+msgstr "アンロックされたコアからランダムに選ぶ"
 
 msgctxt "/FE12551B48679B0CE83B658EF8840B5E"
 msgid "Randomly obtain units of the same level"
@@ -7009,10 +7013,12 @@ msgid ""
 "Hide cursor and automatically turn around.\n"
 "When equipped with automatic aiming units, the battle will be relatively easy"
 msgstr ""
+"カーソルを非表示にし、自動的に回転します。\n"
+"自動照準のユニットを使用した場合に戦闘が楽になります"
 
 msgctxt "/4F72E4CB41DE339D68589882AEE33792"
 msgid "Hide player name"
-msgstr ""
+msgstr "プレイヤー名を隠す"
 
 msgctxt "/79D0D74E44FC5C03B823F2A297613D60"
 msgid "Retreat"
