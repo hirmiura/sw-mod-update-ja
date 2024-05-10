@@ -10,7 +10,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 msgctxt "/9145C0894A40160868C78395F66B0A2D"
 msgid "Experience value:"
@@ -414,11 +414,11 @@ msgstr ""
 
 msgctxt "/287C82C24D67A21F996C47A2FBA3E3F9"
 msgid "Starting from the 10th wave of exploration, with an initial possession of 1200 space gemstones"
-msgstr ""
+msgstr "第10ウェーブから開始し、1200ジェムを持っている"
 
 msgctxt "/9CB25C144E29A974B0B953A56BEE78B2"
 msgid "Starting from the 20th wave of exploration, with an initial possession of 3000 space gemstones"
-msgstr ""
+msgstr "第20ウェーブから開始し、3000ジェムを持っている"
 
 msgctxt "/0F6C012C4F9D3ADAC71EA5A3D519E472"
 msgid "warehouse"
@@ -594,11 +594,11 @@ msgstr ""
 
 msgctxt "/DB2E3845467260677111E2BF51F1B1D8"
 msgid "You currently do not have the ability to regenerate life"
-msgstr ""
+msgstr "ライフ再生能力を持たない"
 
 msgctxt "/ACFD7D1F4DAE4FECD70EE0B07F5F5932"
 msgid "You have modules that can be assembled. Would you like to skip assembly and go directly to exploration?"
-msgstr ""
+msgstr "ユニットが装着されていません。組み立てをスキップして探査に向かいますか？"
 
 msgctxt "/019EAFC84EE5BBD368D7759D9FC8DBB6"
 msgid ""
@@ -678,7 +678,7 @@ msgstr ""
 
 msgctxt "/676A6B8F44589D46F44941A834A3DE99"
 msgid "When stopping movement, per second"
-msgstr ""
+msgstr "移動停止中は秒毎に"
 
 msgctxt "/31A738B4485510979BCDE598D546EA07"
 msgid "Raid"
@@ -974,7 +974,7 @@ msgstr ""
 
 msgctxt "/9B8DBCD245E1F68CD7C3839C46763F78"
 msgid "Initially unable to carry any crew members"
-msgstr ""
+msgstr "最初にユニットを選択できない"
 
 msgctxt "/6201E82E4C9D2108197FEF9999907F06"
 msgid "Refresh"
@@ -1318,7 +1318,7 @@ msgstr ""
 
 msgctxt "/F48F163644D1216F68DFE5ADF6DF7D47"
 msgid "Reduced damage received by "
-msgstr ""
+msgstr "被ダメージ減少 "
 
 msgctxt "/7A49649743B1ECA4CC7FB59BCE831CA0"
 msgid "Increased damage received by "
@@ -1342,11 +1342,11 @@ msgstr ""
 
 msgctxt "/D320BC0D443CEE1B2D98339CD9ECCB2C"
 msgid "Summoning a large number of meteors to attack enemies"
-msgstr ""
+msgstr "多数の隕石を召喚し敵を攻撃します"
 
 msgctxt "/D0FB72BD44EE8ABC61E48CA7CEB06F64"
 msgid "Summon Quantum Rift to deal multiple high damage to all enemies within the curve range"
-msgstr ""
+msgstr "量子断層を召喚し断層内のすべての敵に多段高ダメージを与えます"
 
 msgctxt "/7F2A9C6F4F19528DB2E88C9F29EBC523"
 msgid "The damage that can be endured cannot exceed"
@@ -1426,7 +1426,7 @@ msgstr ""
 
 msgctxt "/4E3BE1E94BCC5C6DB2DB739C1637FD33"
 msgid "No"
-msgstr ""
+msgstr "いいえ"
 
 msgctxt "/88E1FD43404B04AE9183B79DFA0F4C51"
 msgid "Inspiration"
@@ -1474,11 +1474,11 @@ msgstr ""
 
 msgctxt "/03C937D34D58D20BEC3F4695F29EEEE1"
 msgid "Store consumption reduction"
-msgstr ""
+msgstr "店舗価格減少"
 
 msgctxt "/65ED39114BCEC373A5908AB19EC33572"
 msgid "Increase in store consumption"
-msgstr ""
+msgstr "店舗価格上昇"
 
 msgctxt "/B2E7A2994EB402AD591834A526F86D2F"
 msgid "Spray"
@@ -1598,7 +1598,7 @@ msgstr "追加 1"
 
 msgctxt "/396195274C7EB896F9856BA41B22419B"
 msgid " Increase 1%"
-msgstr ""
+msgstr "次を1%増加"
 
 msgctxt "/D6D03FA147A4B430D28F668B4EF9594B"
 msgid "Increase by 1%"
@@ -1610,11 +1610,11 @@ msgstr "追加 10"
 
 msgctxt "/A6CF3E84479AB20621330AB4F9A6B98E"
 msgid "Increase collection radius"
-msgstr ""
+msgstr "収集範囲増加"
 
 msgctxt "/996D22764821A50058C032B3715B9B37"
 msgid "Increase space gems equal to the same crew level"
-msgstr ""
+msgstr "ユニットレベルと同じ量のスペースジェムを取得"
 
 msgctxt "/3B70F16B406FCA10E9A3D88AB9577A58"
 msgid "When picking up the \"healing battery\" while in maximum health state"
@@ -1746,7 +1746,7 @@ msgstr ""
 
 msgctxt "/51AAA0E6445C6C882D7B26B7216DAC5E"
 msgid "Space gem drop rate -50%"
-msgstr ""
+msgstr "-50% スペースジェムドロップ率"
 
 msgctxt "/F780D7244D9E3D4B50CC628A3E9803B9"
 msgid "Plunder Master"
@@ -1906,7 +1906,7 @@ msgstr ""
 
 msgctxt "/312511DE498BB03D62E4BF92B15E6E5A"
 msgid "Fixed: unable to move"
-msgstr ""
+msgstr "停止状態: 移動できない"
 
 msgctxt "/BF651ED4438CEB3962D8DD9F1BFB55C4"
 msgid "Gem Warehouse"
@@ -2066,7 +2066,7 @@ msgstr "範囲内のすべて敵にダメージを与え続ける"
 
 msgctxt "/69461ABF444459622A9939B35944A339"
 msgid "When dealing damage to frost enemies, there is a 1% chance to instantly kill the target (ineffective against the leader)"
-msgstr ""
+msgstr "冷却状態の敵にダメージを与えると1%の確率で即死させる (ボスには効かない)"
 
 msgctxt "/09C1729F40C4DB1FB8281BA1B7B16FF0"
 msgid "Damage to the leader"
@@ -2414,7 +2414,7 @@ msgstr "レベル:"
 
 msgctxt "/F7C8906044F728DA96FA3BA5FA234740"
 msgid "The current evasion value is"
-msgstr ""
+msgstr "現在の回避は "
 
 msgctxt "/7248248F4C195E4BD7A63EA4544A383D"
 msgid "Conquest XIII"
@@ -2742,7 +2742,7 @@ msgstr "すべての「分離」ユニットはコアから切り離されなく
 
 msgctxt "/621DEB184CD4BCCB2B451EB218E5E54B"
 msgid "All gunshot damage will put the enemy in a stationary state for 0.5 seconds"
-msgstr ""
+msgstr "すべての銃器ダメージは敵を0.5秒間停止状態にする"
 
 msgctxt "/7141C0314076DA169EE287805B8E8BF1"
 msgid "All \"gun and cannon\" damage will cause enemies to enter an electrified state for 3 seconds"
@@ -2774,11 +2774,11 @@ msgstr "すべての「連鎖」ダメージは敵を3秒間感電状態にす�
 
 msgctxt "/720F9C1A456D6C0321BAB3BA4AB52C8C"
 msgid "All damage increased"
-msgstr ""
+msgstr "すべてのダメージで増加"
 
 msgctxt "/8C876CEE48AA196418B3D78AA34D77D7"
 msgid "All damage reduced"
-msgstr ""
+msgstr "すべてのダメージで減少"
 
 msgctxt "/6F6C32AE401FC3C0F5E2A4B7814618E4"
 msgid "All spray damage will immobilize the enemy for 0.5 seconds"
@@ -2798,7 +2798,7 @@ msgstr ""
 
 msgctxt "/922FB75949C5CE59B410CCBDDD8DFEC5"
 msgid "All crew members can collect space gems"
-msgstr ""
+msgstr "すべてのユニットはジェムを収集できる"
 
 msgctxt "/EB0D0B5049E58AB58BC57D950E736D64"
 msgid "All lasers can collect dropped objects (space gems, healing batteries, item chests)"
@@ -2814,7 +2814,7 @@ msgstr ""
 
 msgctxt "/51DFAF0A4FEF948551768F922F5354DE"
 msgid "When bullet penetrate enemy, they will bounce to the nearest enemy"
-msgstr ""
+msgstr "弾丸が敵を貫通した際に、最も近い敵にバウンスする"
 
 msgctxt "/1ECC30894C1C7BE90C1BFB92D440CB9E"
 msgid "All missiles can collect space gems"
@@ -3218,7 +3218,7 @@ msgstr ""
 
 msgctxt "/7AEB66734645F8880A9D2E8C7F368184"
 msgid "Improve"
-msgstr ""
+msgstr "強化"
 
 msgctxt "/FF57C23243D77B7227D56ABF6A47DCDA"
 msgid "Ingestion"
@@ -3338,11 +3338,11 @@ msgstr ""
 
 msgctxt "/228D00E74F010871DE98D8A1990663AC"
 msgid "Reflect enemy bullets during attack and increase their ranged damage by 100%"
-msgstr ""
+msgstr "攻撃中は敵の弾丸を反射しその遠隔ダメージを100%増加させる"
 
 msgctxt "/C9AEA93F456BF2B11D92FCAC4D028FB2"
 msgid "Destroy all enemy missiles within range during attack"
-msgstr ""
+msgstr "攻撃中は範囲内の敵ミサイルを破壊する"
 
 msgctxt "/0047A05A4AF01DE6E4B4AFB82104D860"
 msgid "When attacking, you can collect space gems"
@@ -3406,7 +3406,7 @@ msgstr "+5% 攻撃速度"
 
 msgctxt "/60A7E9D242847BE437789E96ED389E17"
 msgid "Increase attack speed"
-msgstr ""
+msgstr "攻撃速度増加"
 
 msgctxt "/A5F3B9D049FA93F59C83A093A00E7483"
 msgid "Reduced attack speed"
@@ -3470,7 +3470,7 @@ msgstr ""
 
 msgctxt "/1EBCE95447EEADE083240CA9E6176EB2"
 msgid "Scattering attack"
-msgstr ""
+msgstr "拡散攻撃"
 
 msgctxt "/9D736F34454392CEF269A09B8D4BB3B0"
 msgid "Stay tuned"
@@ -3642,7 +3642,7 @@ msgstr ""
 
 msgctxt "/1B81096E433E3D9450A6678104262085"
 msgid "Yes"
-msgstr ""
+msgstr "はい"
 
 msgctxt "/436E2A0647372B68448EF1BFB2CC6B05"
 msgid "Do you want to fix the core and explore the current wave again? "
@@ -3742,11 +3742,11 @@ msgstr "+5 最大ライフ"
 
 msgctxt "/53AE07854D4D2D5B38F5AAB71416FADA"
 msgid "Maximum health+50, health regeneration+25, collection range+800, ranged damage+10"
-msgstr ""
+msgstr "+50 最大ライフ, +25 ライフ再生, +800 収集範囲, +10 遠隔ダメージ"
 
 msgctxt "/E2E1C7D34DD590F0A0DB6BA7451A07D6"
 msgid "Max Health, melee damage, ranged damage, quantum damage, technology: all+2"
-msgstr ""
+msgstr "最大ライフ、近接ダメージ、遠隔ダメージ、量子ダメージ、テクノロジー: すべて+2"
 
 msgctxt "/7B21E91742E12562E26B34A9039B6765"
 msgid "The Strongest Brave"
@@ -3818,7 +3818,7 @@ msgstr ""
 
 msgctxt "/3E936275462081AB9F3E27A8077C10B8"
 msgid "Unpicked \"space gems\" will be temporarily stored in the warehouse. The next time you pick up space gems, you will receive double the gems (experience points will also be doubled)"
-msgstr ""
+msgstr "拾われなかったスペースジェムは倉庫に一時保管されます。次にスペースジェムを拾った際に受け取るジェムが2倍になります (取得経験値も2倍)"
 
 msgctxt "/0176FA9A49B1429AB62740942C1774C3"
 msgid "Unequipped units will be stored in the warehouse"
@@ -3882,7 +3882,7 @@ msgstr "ユニットアップグレード時、"
 
 msgctxt "/A3ACA2414A3C9BB87D4406AA26CA16A8"
 msgid "When upgrading the unit, the core gains evolution:"
-msgstr ""
+msgstr "ユニットアップグレード時、コアが進化する:"
 
 msgctxt "/934809A84583F6CB0B164FBA123D8D5B"
 msgid "When upgrading the unit:"
@@ -3970,7 +3970,7 @@ msgstr ""
 
 msgctxt "/862E0FF8445F0A9DC3BB3A82C1A5BC90"
 msgid "During core upgrade"
-msgstr ""
+msgstr "コアのアップグレード時"
 
 msgctxt "/44C97E7B4A61A239198461BF01206CBA"
 msgid "When upgrading the core, deal 5+200% melee damage to all enemies and put them in a poisoned state for 20 seconds"
@@ -4030,11 +4030,11 @@ msgstr ""
 
 msgctxt "/A7D8D76441A2B0AD73BF62987A525356"
 msgid "The collection scope of the core has decreased by "
-msgstr ""
+msgstr "コアの収集範囲減少 "
 
 msgctxt "/EDB7961747AB067A7367C8A39696EBBB"
 msgid "The collection scope of the core has increased by "
-msgstr ""
+msgstr "コアの収集範囲増加 "
 
 msgctxt "/BC6BDFB5451F59F253CD6294C118EBE0"
 msgid "During core movement, continuously increase damage based on current movement speed"
@@ -4114,7 +4114,7 @@ msgstr "の確率でライフを1点回復する (上限は10回復/秒)"
 
 msgctxt "/A06110A54E2437BC84FF569722FEA417"
 msgid "Probability avoidance"
-msgstr ""
+msgstr "隔離で回避"
 
 msgctxt "/DC26111F4AAAD7C2F87F1F9A9A4F74DE"
 msgid "times"
@@ -4158,15 +4158,15 @@ msgstr ""
 
 msgctxt "/D4C1B94B413D314A6CE51BAA4086A5CA"
 msgid "Every 1"
-msgstr ""
+msgstr "毎 1"
 
 msgctxt "/EAB0C4CB480976F878198F811EF45293"
 msgid "Every 1"
-msgstr ""
+msgstr "毎 1"
 
 msgctxt "/AD38ABF645F8925680685A842965D362"
 msgid "Every 1%"
-msgstr ""
+msgstr "毎 1%"
 
 msgctxt "/49F30AC643EA2BB86C9077B58DFF8234"
 msgid "Provide a treatment battery every 10 seconds (-0.05 seconds per technology point)"
@@ -4186,11 +4186,11 @@ msgstr "アーマー1点につき1回多く耐える"
 
 msgctxt "/EDC6FFD248C6B20F496F4BB5F1F41EC5"
 msgid "Every 1 point of technology improves"
-msgstr ""
+msgstr "1 テクノロジー毎に"
 
 msgctxt "/A123F45C4E0C6B901B94C581D2B0C828"
 msgid "Every 2"
-msgstr ""
+msgstr "毎 2"
 
 msgctxt "/C281305B4E586F34F3F0E5A8F6BBDC2A"
 msgid "Launch missiles every 3 seconds based on the orientation of the core, causing 1+25% maximum health and 25% ranged damage (affected by attack speed)"
@@ -4198,11 +4198,11 @@ msgstr "コアの向きに3秒ごとにミサイルを発射し、最大ライ�
 
 msgctxt "/254EE36C46728D986EEDAFA9E09C660F"
 msgid "Every 5"
-msgstr ""
+msgstr "毎 5"
 
 msgctxt "/18D3A3B741FFCCF6F8E1E7BCF41593BE"
 msgid "Every 5 seconds"
-msgstr ""
+msgstr "5秒毎に"
 
 msgctxt "/461217C74FA350A316AC8D9068DF5718"
 msgid "Bomb all enemies within a small range of the cursor position every 5 seconds, dealing 5+500% ranged damage and 500% quantum damage (affected by attack speed)"
@@ -4326,7 +4326,7 @@ msgstr "各ウェーブ後に増加 "
 
 msgctxt "/0364CDAC45712363F6C969A1B4716D2F"
 msgid "Every chip owned"
-msgstr ""
+msgstr "所持チップ毎に"
 
 msgctxt "/0262BE9D4887DC7E96BD459E72592600"
 msgid "Every time the store is actively refreshed"
@@ -4394,7 +4394,7 @@ msgstr "24秒ごとに、シーン内のすべてのスペースジェムを吸�
 
 msgctxt "/70E85F2B4F7905CA5205A293DF8B5E1A"
 msgid "Every"
-msgstr ""
+msgstr "毎"
 
 msgctxt "/AD304C954138FD65A4B16AA717312D6F"
 msgid "Launch ionizing radiation (affected by attack range) every 10 seconds (-0.05 seconds per technology point), causing 100% quantum damage and placing enemies in an \"electrified\" state for 3 seconds"
@@ -4970,7 +4970,7 @@ msgstr ""
 
 msgctxt "/6EDDDD734470BC823C74A3A950CC85D3"
 msgid "Health value"
-msgstr ""
+msgstr "ライフ"
 
 msgctxt "/9FF7CF884AC317A5314888A3AF7C1106"
 msgid "HP/second"
@@ -5238,7 +5238,7 @@ msgstr ""
 
 msgctxt "/95746F5649B699C7B3EBB18B15A616F1"
 msgid "Second recovery"
-msgstr ""
+msgstr "秒に回復"
 
 msgctxt "/76A3376748B17F183B3B89962011FBBC"
 msgid "Beheaded"
@@ -5722,7 +5722,7 @@ msgstr "自動回転, 毎"
 
 msgctxt "/F2CBC40D4A86AC854BE391A624D96EAC"
 msgid "Automatic rotation, speed increases with technology"
-msgstr ""
+msgstr "自動回転、テクノロジーで回転速度増加"
 
 msgctxt "/2219D4154CFFCCF00A4C1498791B8D0F"
 msgid "Automatic aiming"
@@ -7238,7 +7238,7 @@ msgstr ""
 
 msgctxt "/6BD7D0774E65D2931E4FFE8F27E990DD"
 msgid "Merge unit once"
-msgstr ""
+msgstr "ユニットを合成する"
 
 msgctxt "/9176D59548E8113A7CC5ABB7CDA0B508"
 msgid "When playing the game for the first time, please log in to Steam and ensure network connectivity (if you have purchased the game but still fail to verify, please contact the author: 417563640@qq.com ）"
