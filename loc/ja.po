@@ -654,7 +654,7 @@ msgstr ""
 
 msgctxt "/4B29BF254380A767FE24D68C17C8D2BD"
 msgid "Challenge the endless abyss with the current assembly? "
-msgstr ""
+msgstr "この構成でエンドレスアビスに挑戦しますか？ "
 
 msgctxt "/F3FB0B2E4D576C075D991ABC8C077AAE"
 msgid "Poison the target, causing damage once per second for 5 seconds"
@@ -3050,7 +3050,7 @@ msgstr "ドラッグ＆ドロップ"
 
 msgctxt "/B11F1D3945A3B9F4E28098B5650A3E97"
 msgid "Challenge"
-msgstr ""
+msgstr "挑戦する"
 
 msgctxt "/3A0FB4584648573FF31A259921AFDAAC"
 msgid "Exciting"
@@ -3514,7 +3514,7 @@ msgstr "エンドレス探査"
 
 msgctxt "/31A8F8DF45A9A95D3557CBAA87F60332"
 msgid "Endless Abyss"
-msgstr ""
+msgstr "エンドレスアビス"
 
 msgctxt "/8E86611844204CEF71639685198125CF"
 msgid "Shadowless"
@@ -3778,11 +3778,11 @@ msgstr "最大ウェーブ:"
 
 msgctxt "/7907663946708FDF56EF73A5CC24C78E"
 msgid "Maximum Abyss Wave:"
-msgstr ""
+msgstr "最高アビスウェーブ:"
 
 msgctxt "/E4C4C74A4695D83D34165287A41E1A14"
 msgid "Maximum Abyss Wave:"
-msgstr ""
+msgstr "最高アビスウェーブ:"
 
 msgctxt "/20413E33477CE2E6CBEB048BB2DEB2B2"
 msgid "The highest level reaches:"
@@ -3830,7 +3830,7 @@ msgstr ""
 
 msgctxt "/8FA46A414682BD9AC439DE86055EE6F5"
 msgid "This Abyssal Wave:"
-msgstr ""
+msgstr "アビスウェーブ:"
 
 msgctxt "/F842E5764C280CA988CA108FF818F1EE"
 msgid "This game was created by \"Zhang Liang 002\" alone. If you think the game is good, please add the full version of \"Star Will\" to your wish list and recommend it to your friends! Thank you very much for your support!"
@@ -4602,19 +4602,19 @@ msgstr ""
 
 msgctxt "/4D442C2141ADC1DDEB89A7B55E1301D2"
 msgid "abyss"
-msgstr ""
+msgstr "アビス"
 
 msgctxt "/A10B680B46C0E8EE27FEA88C5EBFA87B"
 msgid "Abyss"
-msgstr ""
+msgstr "アビス"
 
 msgctxt "/A834C0124E8BA5D300ECAAAB67D169BE"
 msgid "Abyss"
-msgstr ""
+msgstr "アビス"
 
 msgctxt "/BC9EC4504D15196E6CAB3DB5F68A4AEA"
 msgid "The highest wave in the abyss reaches:"
-msgstr ""
+msgstr "アビス最高到達ウェーブ"
 
 msgctxt "/B78130BE4109795D5D17EBB0D1F7BE0B"
 msgid "Abyss highest wave frequency:"
@@ -4622,7 +4622,7 @@ msgstr ""
 
 msgctxt "/B8F10E484CF345A6F02EBB9E8BE99CD6"
 msgid "Abyss combat data will not be saved in achievements! "
-msgstr ""
+msgstr "アビスの戦闘データは実績に保存されません！ "
 
 msgctxt "/B6DD8D534600994C27CEF59F11258281"
 msgid "Clear all achievements"
@@ -5206,7 +5206,7 @@ msgstr ""
 
 msgctxt "/823C8EE74B014219A31EE48AD5F883BC"
 msgid "leave"
-msgstr ""
+msgstr "戻る"
 
 msgctxt "/C00A81C5481ADFC18C798BAE1DB99D3B"
 msgid "Leaving"
