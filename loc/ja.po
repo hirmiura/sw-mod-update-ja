@@ -878,11 +878,11 @@ msgstr "+50 ノックバック"
 
 msgctxt "/79D86CDE4C9D55882DCDE39A65F51EEF"
 msgid "Reduced repel force"
-msgstr ""
+msgstr "ノックバック減少"
 
 msgctxt "/F4DDB23147BA70A9FBE660867E6011DC"
 msgid "Increased repel power"
-msgstr ""
+msgstr "ノックバック増加"
 
 msgctxt "/88708F214D91593B97B8398E992D37FB"
 msgid "Seperated"
@@ -1290,7 +1290,7 @@ msgstr "ランチャーの数"
 
 msgctxt "/7A6C58C14A16BA2082A521B831A94072"
 msgid "Discovering New Chips"
-msgstr ""
+msgstr "新しいチップを発見"
 
 msgctxt "/EF34A20C4B9CDC768DC0B0A1495963B8"
 msgid "Cancel"
@@ -1406,11 +1406,11 @@ msgstr ""
 
 msgctxt "/500858C44FCCF369F4C7419E803DA421"
 msgid "Simultaneously equipped"
-msgstr ""
+msgstr "同時装着"
 
 msgctxt "/E844875E40039C25157C5EB7BD542D9A"
 msgid "Simultaneously equipped"
-msgstr ""
+msgstr "同時装着"
 
 msgctxt "/9355008943F67264BB3702AE2D50670F"
 msgid "Name"
@@ -1466,7 +1466,7 @@ msgstr "ユニットが店舗に現れない"
 
 msgctxt "/D960EA174F07B76DCC883AA937717F1E"
 msgid "All units in the store become \"test items\", and after purchasing the \"test items\", randomly obtain units of the same level (all units that are not unlocked, disabled, or hidden may obtain them)"
-msgstr ""
+msgstr "店舗内のユニットはすべて「テストアイテム」となり、「テストアイテム」を購入すると、同じレベルのユニットがランダムで手に入る (未アンロック、無効化、非表示のすべてのユニットが入手できる可能性がある)"
 
 msgctxt "/277C6F4B461F1425C189BA894CB3A671"
 msgid "Store disabled"
@@ -1626,7 +1626,7 @@ msgstr ""
 
 msgctxt "/32C0C21847AA2A0C49161DB3FD6C4CCB"
 msgid "Invincible time after resurrection"
-msgstr ""
+msgstr "復活後無敵時間"
 
 msgctxt "/9EA1770D4346C9F4D1F55F8E0FCC0905"
 msgid "Resurrected to restore health"
@@ -1874,7 +1874,7 @@ msgstr ""
 
 msgctxt "/033CB75646A74F60165B14B728F4B43C"
 msgid "Duration of immobilization"
-msgstr "停止時間"
+msgstr "静止時間"
 
 msgctxt "/5AF62EB647DF8372ACBADC832CCE5F01"
 msgid "Fixed Cannon"
@@ -1906,7 +1906,7 @@ msgstr ""
 
 msgctxt "/312511DE498BB03D62E4BF92B15E6E5A"
 msgid "Fixed: unable to move"
-msgstr "停止状態: 移動できない"
+msgstr "静止状態: 移動できない"
 
 msgctxt "/BF651ED4438CEB3962D8DD9F1BFB55C4"
 msgid "Gem Warehouse"
@@ -2322,7 +2322,7 @@ msgstr ""
 
 msgctxt "/88CEFC024FA17D0DDDCFACBDEDBAB3BE"
 msgid "Open Challenge: Endless Mode Global Ranking"
-msgstr ""
+msgstr "オープンチャレンジ: エンドレスモードグローバルランキング"
 
 msgctxt "/9B9037864C7EF911B8D211976B5FFB36"
 msgid "Start"
@@ -2642,7 +2642,7 @@ msgstr "感電時間"
 
 msgctxt "/94AC695D4850937168CA6D9A34DF8209"
 msgid "Electric shock: randomly shocks another enemy when injured"
-msgstr ""
+msgstr "感電: 負傷時にランダムで他の敵を感電させる"
 
 msgctxt "/A6CB81FE47A3C738F1FE618862700337"
 msgid "Thank you for testing. That's all for the development of the beta version so far~"
@@ -2742,7 +2742,7 @@ msgstr "すべての「分離」ユニットはコアから切り離されなく
 
 msgctxt "/621DEB184CD4BCCB2B451EB218E5E54B"
 msgid "All gunshot damage will put the enemy in a stationary state for 0.5 seconds"
-msgstr "すべての銃器ダメージは敵を0.5秒間停止状態にする"
+msgstr "すべての銃器ダメージは敵を0.5秒間静止状態にする"
 
 msgctxt "/7141C0314076DA169EE287805B8E8BF1"
 msgid "All \"gun and cannon\" damage will cause enemies to enter an electrified state for 3 seconds"
@@ -2762,11 +2762,11 @@ msgstr "すべての「物理」ダメージは1%の確率で対象を即死さ�
 
 msgctxt "/F04A928D48EF58E70C9751AF1A1704F3"
 msgid "All melee damage will cause enemies to enter an electrified state for 3 seconds"
-msgstr ""
+msgstr "すべての近接ダメージは敵を3秒間感電状態にする"
 
 msgctxt "/00BC386649D9CEE03112D19AC7BD85F2"
 msgid "All \"Chaining\" damage will cause the enemy to enter a stationary state for 0.5 seconds"
-msgstr "すべての「連鎖」ダメージは敵を0.5秒間停止状態にする"
+msgstr "すべての「連鎖」ダメージは敵を0.5秒間静止状態にする"
 
 msgctxt "/7FC494D3400C1122DEB99581A5A64422"
 msgid "All \"Chaining\" damage will cause enemies to enter an electrified state for 3 seconds"
@@ -2810,7 +2810,7 @@ msgstr "すべてのマトリックス効果はスタック可能"
 
 msgctxt "/B499D84949AEEAFE764E5F916BC608B7"
 msgid "All quantum damage can cause the target to enter a permanent burning state, causing burning damage every 0.5 seconds"
-msgstr ""
+msgstr "すべての量子ダメージは対象を永遠に燃焼状態にし、0.5秒毎に燃焼ダメージを与える"
 
 msgctxt "/51DFAF0A4FEF948551768F922F5354DE"
 msgid "When bullet penetrate enemy, they will bounce to the nearest enemy"
@@ -2818,7 +2818,7 @@ msgstr "弾丸が敵を貫通した際に、最も近い敵にバウンスする
 
 msgctxt "/1ECC30894C1C7BE90C1BFB92D440CB9E"
 msgid "All missiles can collect space gems"
-msgstr ""
+msgstr "すべてのミサイルはスペースジェムを収集できる"
 
 msgctxt "/34269D544918D3324F9580AD5CC3094F"
 msgid "Controller settings"
@@ -3722,7 +3722,7 @@ msgstr "クリティカル率"
 
 msgctxt "/31A07F8B4B5AB30E452E2F9E0B94DE7A"
 msgid "When critical hit rate is modified, critical damage is equally modified"
-msgstr ""
+msgstr "クリティカル率が修正を受けた時、クリティカルダメージも同じ修正を受ける"
 
 msgctxt "/38B3F52C4A035E2080C51FB14C2C87AB"
 msgid "Max Health"
@@ -3978,7 +3978,7 @@ msgstr ""
 
 msgctxt "/625E825E4961AD0696041B8D50CCF02A"
 msgid "When upgrading the core, release a new star burst that deals damage to surrounding enemies (150% maximum health+150% luck) and puts them in a stationary state for 0.5 seconds"
-msgstr ""
+msgstr "コアをアップグレードすると、スターバーストを放ち、周囲の敵にダメージ(150%最大ライフ +150%運)を与え、0.5秒間静止状態にする"
 
 msgctxt "/E9E408F74206C4B1E7404DAF07E87F01"
 msgid "When the core is damaged, launch defensive lightning to attack the enemy"
@@ -4330,7 +4330,7 @@ msgstr "所持チップ毎に"
 
 msgctxt "/0262BE9D4887DC7E96BD459E72592600"
 msgid "Every time the store is actively refreshed"
-msgstr ""
+msgstr "店舗をリフレッシュする毎に "
 
 msgctxt "/07E5BB584A56E005B2C0E48EF1248045"
 msgid "Every time burning damage occurs, there is a 5% chance that it will spread to nearby enemies"
@@ -4990,7 +4990,7 @@ msgstr "ライフ再生"
 
 msgctxt "/7AFBBA8E4033BEF68B79FAA14F3B129F"
 msgid "Life regeneration and recovery amount"
-msgstr ""
+msgstr "ライフ再生回復量"
 
 msgctxt "/7D1CCCA34C19B540D7CD1D94E54F75D9"
 msgid "Life absorption"
@@ -4998,7 +4998,7 @@ msgstr "ライフ吸収"
 
 msgctxt "/B380C9344D8807D8EC4496A2A452BCC3"
 msgid "Life absorption recovery amount"
-msgstr ""
+msgstr "ライフ吸収回復量"
 
 msgctxt "/9D06AF5F475E70EB7F91738E14810113"
 msgid "Life Gem"
@@ -6026,7 +6026,7 @@ msgstr ""
 
 msgctxt "/CBE1DBAC4EE98D0A5D298FBE61C2FA08"
 msgid "The overall ranking of all cores in the galaxy"
-msgstr ""
+msgstr "この銀河における全コアを含めた総合ランキング"
 
 msgctxt "/F25C863A4C6A950B64D2CEAEFC715132"
 msgid "Language"
@@ -6718,7 +6718,7 @@ msgstr "以下をロックする"
 
 msgctxt "/7FE6329249713992E1339FB9BA45D7E4"
 msgid "Lock enemies within the attack range and deal massive explosive damage to all enemies within the lock point in 2 seconds"
-msgstr ""
+msgstr "射程内の敵をロックオンし、2秒後にロックポイント内のすべての敵に大爆発ダメージを与える"
 
 msgctxt "/51D98F5C4C78086083E34388D5A2ED6D"
 msgid "Lock rotation"
@@ -7026,7 +7026,7 @@ msgstr ""
 
 msgctxt "/975FA3BE4C31CDD93041BFA0A20F9A79"
 msgid "Difficulty skyrocketing"
-msgstr ""
+msgstr "難易度急上昇"
 
 msgctxt "/A5DBA8E64BE24A472DFE189EB96C363F"
 msgid "Difficulty:"
@@ -7142,7 +7142,7 @@ msgstr ""
 
 msgctxt "/6C6A3DB345CCF235B72482A3726559DA"
 msgid "Extra load"
-msgstr ""
+msgstr "追加負荷"
 
 msgctxt "/F2471FA24C0EC3DB69F60387D5EFBD74"
 msgid "Stormbringer"
@@ -7254,7 +7254,7 @@ msgstr ""
 
 msgctxt "/D8C5E5F142773BDFD87D38A2DF7CD1E4"
 msgid "Advanced Properties"
-msgstr ""
+msgstr "上級特性"
 
 msgctxt "/10BE8C8F48542470F0C3A1B3768C0F0B"
 msgid "Advanced Destroyer"
