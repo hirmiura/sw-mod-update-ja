@@ -286,11 +286,11 @@ msgstr "次ウェーブの探査がライフ1で始まる"
 
 msgctxt "/841C01814C27BD8C075747BFCBE01F39"
 msgid "In the next wave of exploration, randomly summon 1 leader (after killing, you will definitely receive a golden item chest)"
-msgstr ""
+msgstr "次ウェーブでランダムにボスを1体召喚する (倒すと金のアイテムチェストが必ず手に入る)"
 
 msgctxt "/1F8581BF437BF5966A7885803A98F187"
 msgid "Number of leaders in the next wave"
-msgstr ""
+msgstr "次ウェーブでのボス数"
 
 msgctxt "/223B89F3446C7A41C3B0EAA2EED586E2"
 msgid "Not Upgradable"
@@ -298,7 +298,7 @@ msgstr "アップグレード不能"
 
 msgctxt "/4FB9364743A92D337CCC99AC68A25E83"
 msgid "Do not carry any crew to clear customs"
-msgstr ""
+msgstr "ユニットを装着せずにクリアする"
 
 msgctxt "/E6230DA44FB0EB407126799D1267946E"
 msgid "Unidentified jet"
@@ -4366,7 +4366,7 @@ msgstr "各ウェーブの開始時に、すべてのスペースジェムとジ
 
 msgctxt "/D86053CC40ABEFDCC6BF809A0F97D71C"
 msgid "Provide a prop chest for each wave of exploration"
-msgstr ""
+msgstr "ウェーブ毎に小道具箱がもらえる"
 
 msgctxt "/E38BB3044341CC8D05A1AA81A4CEC5BC"
 msgid "Shoot one origin missile at the cursor every second, dealing 1+100% ranged damage (affected by attack speed), and immobilizing the target for 0.5 seconds"
@@ -5210,7 +5210,7 @@ msgstr "戻る"
 
 msgctxt "/C00A81C5481ADFC18C798BAE1DB99D3B"
 msgid "Leaving"
-msgstr ""
+msgstr "戻る"
 
 msgctxt "/E34DC76A481F0DAF1570A0AA0FC0FDDF"
 msgid "Scientific development"
@@ -6770,7 +6770,7 @@ msgstr "回避"
 
 msgctxt "/529559714520BE537A0F6482DD2713CB"
 msgid "Increase the maximum dodge rate to 90%"
-msgstr ""
+msgstr "回避の最大値が90%に増える"
 
 msgctxt "/1F8967304F0143598F5ECFB254DCEDA4"
 msgid "Dodge counterattack"
