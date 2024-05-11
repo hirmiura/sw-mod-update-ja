@@ -662,7 +662,7 @@ msgstr ""
 
 msgctxt "/F04DE4C141B044BCF5435F9A2C47C3D1"
 msgid "Causes the target to enter a burning state, dealing burning damage every 0.5 seconds for 3 seconds"
-msgstr ""
+msgstr "ターゲットを燃焼状態にし、燃焼ダメージを0.5秒おきに3秒間与える"
 
 msgctxt "/439B03254FFE02A72F15D6AAAA966976"
 msgid "Beacon"
@@ -954,15 +954,15 @@ msgstr ""
 
 msgctxt "/7233050E4E8AD87B9EDC128CFED7A807"
 msgid "Initially capable of equipping level 4 units"
-msgstr ""
+msgstr "初期ユニットがレベル4"
 
 msgctxt "/C7DDF0214C9376F181AC26BB2F2866C4"
 msgid "Initially capable of equipping Level 5 units"
-msgstr ""
+msgstr "初期ユニットがレベル5"
 
 msgctxt "/FFF80B9243DBCD8E78C25D8FAEF08767"
 msgid "Initially capable of equipping level 6 units"
-msgstr ""
+msgstr "初期ユニットがレベル6"
 
 msgctxt "/955054154E325461D875D581A2465D7F"
 msgid "Initially ready for assembly"
@@ -1130,7 +1130,7 @@ msgstr "アップグレード失敗"
 
 msgctxt "/7423C4A549DA43A20BF511B2CBF392F4"
 msgid "When the upgrade fails, a small amount of space gems will be returned"
-msgstr ""
+msgstr "アップグレード失敗時には少量のスペースジェムが返ってくる"
 
 msgctxt "/FE3CFF5E464C2D72FF1E6EBD65BCF095"
 msgid "Lifting lens"
@@ -1278,7 +1278,7 @@ msgstr ""
 
 msgctxt "/83EE55F44D2BB3FC798A58A339C83C9B"
 msgid "After launch, it will briefly stop and then quickly fly back and stop. Continuous damage during launch and dwell"
-msgstr ""
+msgstr "発射された後に短時間滞空し、すぐに後ろに戻って留まる。発射時と滞空時の両方で継続的にダメージを与える"
 
 msgctxt "/7914679A4D9477C7AD0D3B8F6FD02402"
 msgid "Number of missiles launched+"
@@ -1314,7 +1314,7 @@ msgstr "各ウェーブ終了まで被ダメージ時に+5%ダメージを与え
 
 msgctxt "/D17D565249B797B10306BB96D6A493C8"
 msgid "When damaged by bullets, restore 1 health point and reflect enemy bullets, adding damage equivalent to armor value to the bullets"
-msgstr ""
+msgstr "弾丸によってダメージを負うと、ライフが1点回復し敵の弾丸を反射し、アーマー値と同等のダメージをその弾丸に追加する"
 
 msgctxt "/F48F163644D1216F68DFE5ADF6DF7D47"
 msgid "Reduced damage received by "
@@ -1418,7 +1418,7 @@ msgstr "名前"
 
 msgctxt "/F2BCBB374F47496C65586CB750660E0B"
 msgid "Launch pulse attacks around"
-msgstr ""
+msgstr "周囲にパルスを発射"
 
 msgctxt "/F6CFA1C746D0F30D7719899D16194EEC"
 msgid "Devouring Sagittarius"
@@ -1550,23 +1550,23 @@ msgstr ""
 
 msgctxt "/C9DB0BA54D6E8F76CFB14181FAF81296"
 msgid "Basic movement speed: 1000"
-msgstr ""
+msgstr "基本移動速度: 1000"
 
 msgctxt "/D012FF3D454D1A501C11069A4CB4BB5D"
 msgid "Basic movement speed: 200"
-msgstr ""
+msgstr "基本移動速度: 200"
 
 msgctxt "/2D7ED10D4E29487136FDCF83ABE78CCF"
 msgid "Basic movement speed: 400"
-msgstr ""
+msgstr "基本移動速度: 400"
 
 msgctxt "/9D993FDF417BEA0FF1996580AFAD40F7"
 msgid "Basic movement speed: 600"
-msgstr ""
+msgstr "基本移動速度: 600"
 
 msgctxt "/8C2DA6B2454B72D74077679707D72630"
 msgid "Basic movement speed: 800"
-msgstr ""
+msgstr "基本移動速度: 800"
 
 msgctxt "/BE33056840866D6D0F577FA80057CACC"
 msgid "Basic chip"
@@ -1630,7 +1630,7 @@ msgstr ""
 
 msgctxt "/9EA1770D4346C9F4D1F55F8E0FCC0905"
 msgid "Resurrected to restore health"
-msgstr ""
+msgstr "復活によるライフ回復"
 
 msgctxt "/ABAD71F74655326EC8CF07BEEC7BCAEF"
 msgid "When resurrected, immobilize all enemies for 3 seconds"
@@ -1638,7 +1638,7 @@ msgstr ""
 
 msgctxt "/F89965B54EFF94A7F5D1DEB61ED486F1"
 msgid "Resurrection times"
-msgstr ""
+msgstr "復活回数"
 
 msgctxt "/6DA7C4704183F68E9F700792574AB492"
 msgid "Recovery"
@@ -2626,7 +2626,7 @@ msgstr ""
 
 msgctxt "/B71D53354B1D19FD9A590AACFB14984E"
 msgid "Electric damage"
-msgstr ""
+msgstr "電気ダメージ"
 
 msgctxt "/64558E9B409C4DED06ADCD8DF2A12D1F"
 msgid "Number of induced electrical injuries"
@@ -2634,7 +2634,7 @@ msgstr "感電ダメージ数"
 
 msgctxt "/DD5AD26E4DBA31C04DDF949DEC3D0622"
 msgid "Electric damage: 1+50% quantum damage"
-msgstr ""
+msgstr "電気ダメージ: 1+50% 量子ダメージ"
 
 msgctxt "/5299030F43F2049DDFC3BAA5476211C7"
 msgid "Duration of induction"
@@ -2678,7 +2678,7 @@ msgstr "戦闘中はユニットを隠す"
 
 msgctxt "/24D7EA6E466D54FA8FBC028C5B4A4F50"
 msgid "At the end of the battle, convert the lost health points into space gems"
-msgstr ""
+msgstr "戦闘終了時に失ったライフをスペースジェムに変換する"
 
 msgctxt "/F97BA65449A716C461EF4DB15382A597"
 msgid "God of War"
@@ -3570,7 +3570,7 @@ msgstr ""
 
 msgctxt "/7D3C4B2349005ABA4EB2A4B019B46E9F"
 msgid "Date sorting"
-msgstr ""
+msgstr "日時で並び替え"
 
 msgctxt "/9380456044CE1D84EC94A383BE2B96CE"
 msgid "Time goes back"
@@ -3914,7 +3914,7 @@ msgstr "ユニット耐久度"
 
 msgctxt "/6D8004C94E0EE8F596915FB35838E5D0"
 msgid "Unit, increase equivalent to unit level"
-msgstr ""
+msgstr "ユニット、ユニットレベルと同じだけ以下の特性を増加"
 
 msgctxt "/CA8EDAAD4351F891AC5AE6B8762223BD"
 msgid "Unit:"
@@ -4146,7 +4146,7 @@ msgstr ""
 
 msgctxt "/B0F6BCEA440E0366139C95A94D8AA42A"
 msgid "Residual: Causing high-frequency damage to enemies on the flight path (missile destroyed and ineffective)"
-msgstr ""
+msgstr "残留: 飛行経路上の敵に高周波ダメージを与える (ミサイル破壊で無効)"
 
 msgctxt "/7DDE3E634397AD7BB0FFE48C8020C880"
 msgid "Destroyer"
@@ -4334,7 +4334,7 @@ msgstr ""
 
 msgctxt "/07E5BB584A56E005B2C0E48EF1248045"
 msgid "Every time burning damage occurs, there is a 5% chance that it will spread to nearby enemies"
-msgstr ""
+msgstr "燃焼ダメージが発生する毎に5%の確率で周辺に拡散する"
 
 msgctxt "/907D63244923D44CECCBCA8179899548"
 msgid "Every time dealing critical damage to an enemy,+1% of the critical damage is dealt until the end of each exploration wave"
@@ -4354,7 +4354,7 @@ msgstr ""
 
 msgctxt "/365BEF564D365501543B8CB70D675029"
 msgid "Each time you obtain a space gem, deal 200% armor value+5 damage to a random enemy"
-msgstr ""
+msgstr "スペースジェムを入手するたびに、ランダムな敵1体に5+200%アーマー値のダメージを与える"
 
 msgctxt "/573DB36744B6BC97D1491EA5021B84B4"
 msgid "Each time you obtain a space gem, deal 50% maximum health damage to a random enemy"
@@ -4362,7 +4362,7 @@ msgstr ""
 
 msgctxt "/2C4685D94F467D1A06C335A3C2936F8B"
 msgid "At the beginning of each exploration wave, clear all space gems and gem warehouses"
-msgstr ""
+msgstr "各ウェーブの開始時に、すべてのスペースジェムとジェム倉庫をクリアする"
 
 msgctxt "/D86053CC40ABEFDCC6BF809A0F97D71C"
 msgid "Provide a prop chest for each wave of exploration"
@@ -4398,7 +4398,7 @@ msgstr "毎"
 
 msgctxt "/AD304C954138FD65A4B16AA717312D6F"
 msgid "Launch ionizing radiation (affected by attack range) every 10 seconds (-0.05 seconds per technology point), causing 100% quantum damage and placing enemies in an \"electrified\" state for 3 seconds"
-msgstr ""
+msgstr "電離放射線(攻撃範囲の影響を受ける)を、10秒毎(テクノロジー1点につき-0.05秒)に発射し、100%の量子ダメージを与え、敵を3秒間「感電」状態にする"
 
 msgctxt "/19C8C30E44A81843CBC667A23A53CD53"
 msgid "Graduation"
@@ -4430,7 +4430,7 @@ msgstr ""
 
 msgctxt "/1923021647E6FF4B1915669C623FEDF0"
 msgid "Permanent spraying"
-msgstr ""
+msgstr "永続噴射"
 
 msgctxt "/84DAA2A042FCF39FC1EAA3A9B00A50E8"
 msgid "Eternal"
@@ -4562,7 +4562,7 @@ msgstr ""
 
 msgctxt "/33C6A0EA4408554218948C888528355B"
 msgid "Wave sorting"
-msgstr ""
+msgstr "ウェーブ数で並び替え"
 
 msgctxt "/00B829F6483FE2D5BD7D958EC042DCF4"
 msgid "Wave number:"
@@ -4658,27 +4658,27 @@ msgstr "レーザー"
 
 msgctxt "/A8FF868543148E3D17B8A5B602B2F2A9"
 msgid "When the laser is connected to the core, the core restores 1 health every 3 seconds"
-msgstr ""
+msgstr "レーザーがコアに接続していれば、3秒毎にライフ1点を回復する"
 
 msgctxt "/11B863A14E6279226385C8AE6C6B7D45"
 msgid "When the laser is connected to the core, the core recovers 2 health points every 3 seconds"
-msgstr ""
+msgstr "レーザーがコアに接続していれば、3秒毎にライフ2点を回復する"
 
 msgctxt "/EA07AF564E7C7CCDBCF3FFBEA3C0776F"
 msgid "When the laser is connected to the core, the core restores 3 health points every 3 seconds"
-msgstr ""
+msgstr "レーザーがコアに接続していれば、3秒毎にライフ3点を回復する"
 
 msgctxt "/8519F6854883A5E012623DB3E103C724"
 msgid "When the laser is connected to the core, the core restores 4 health points every 3 seconds"
-msgstr ""
+msgstr "レーザーがコアに接続していれば、3秒毎にライフ4点を回復する"
 
 msgctxt "/4406ED0347A05F64958F63BD423132E4"
 msgid "When the laser is connected to the core, the core restores 5 health points every 3 seconds"
-msgstr ""
+msgstr "レーザーがコアに接続していれば、3秒毎にライフ5点を回復する"
 
 msgctxt "/33E5335D41216AC9A64278A8A69DAE67"
 msgid "When the laser is connected to the core, the core restores 6 health points every 3 seconds"
-msgstr ""
+msgstr "レーザーがコアに接続していれば、3秒毎にライフ6点を回復する"
 
 msgctxt "/6D495BCE4F2891076B98A9A65DDAAF89"
 msgid "Laser control"
@@ -5258,7 +5258,7 @@ msgstr "+1% 移動速度"
 
 msgctxt "/766D72874A6DA3596DF2EEB628D1646C"
 msgid "Movement speed is increased by the core movement speed"
-msgstr ""
+msgstr "このユニットの移動速度はコアの移動速度で増加する"
 
 msgctxt "/100264A743A4FF11BED37BA8F32B428E"
 msgid "Increase movement speed by "
@@ -5266,7 +5266,7 @@ msgstr "移動速度を増加 "
 
 msgctxt "/F1596927476BD8805877B39D3BDB6D17"
 msgid "Movement speed reduced by "
-msgstr ""
+msgstr "移動速度減少"
 
 msgctxt "/DF1D1DAE4E348811886F9DAFF0967EF3"
 msgid "Stable as a rock"
@@ -6082,7 +6082,7 @@ msgstr ""
 
 msgctxt "/3AEDCB9649F166765789C39565C4FD03"
 msgid "When the load exceeds the upper limit, all \"guns\" will aim at the cursor and shoot, and"
-msgstr ""
+msgstr "負荷が上限を超えると、すべての銃器ユニットはカーソルに照準するようになり "
 
 msgctxt "/9C28D29848E01C1ACFB0A8B004E34F55"
 msgid "Load:"
@@ -6526,11 +6526,11 @@ msgstr ""
 
 msgctxt "/C094260D40DBE26DA51252ACC0DBB481"
 msgid "After rebirth, all core effects disappear"
-msgstr ""
+msgstr "復活時、すべてのコア効果が消える"
 
 msgctxt "/4506E488441E96FB56FAC1863F3CEF8A"
 msgid "When reborn, lose all space gems and deal damage equivalent to losing space gems to all enemies"
-msgstr ""
+msgstr "復活時に、すべてのスペースジェムを失い、すべての敵にスペースジェムを失ったのと同等のダメージを与える"
 
 msgctxt "/7B7C823741A3CDE4E95C69B25B132E1E"
 msgid "Heavy shield"
@@ -7202,27 +7202,27 @@ msgstr ""
 
 msgctxt "/CD0B407F4A4C12013DFC7DAEA225D4FF"
 msgid "When the missile disappears, it splits into 3 small missiles (with 50% damage)"
-msgstr ""
+msgstr "ミサイル消滅時に小型ミサイル3つに分裂する (50%ダメージ)"
 
 msgctxt "/9F9169ED4F66E3D05006A88CC6EF7C19"
 msgid "When the missile disappears, it splits into 4 small missiles (with 50% damage)"
-msgstr ""
+msgstr "ミサイル消滅時に小型ミサイル4つに分裂する (50%ダメージ)"
 
 msgctxt "/87ECDC474122DE8FEDFC2B97FFE15F22"
 msgid "When the missile disappears, it splits into 5 small missiles (with 50% damage)"
-msgstr ""
+msgstr "ミサイル消滅時に小型ミサイル5つに分裂する (50%ダメージ)"
 
 msgctxt "/EEB91F9E4784AD996DB4D48E0B5D3CDA"
 msgid "When the missile disappears, it splits into 6 small missiles (with 50% damage)"
-msgstr ""
+msgstr "ミサイル消滅時に小型ミサイル6つに分裂する (50%ダメージ)"
 
 msgctxt "/2EA148064E3661231A57828CE0B21C74"
 msgid "When the missile disappears, it splits into 7 small missiles (with 50% damage)"
-msgstr ""
+msgstr "ミサイル消滅時に小型ミサイル7つに分裂する (50%ダメージ)"
 
 msgctxt "/0A6EE1C94873A073BC40E282F45E8CED"
 msgid "When the missile disappears, it splits into 8 small missiles (with 50% damage)"
-msgstr ""
+msgstr "ミサイル消滅時に小型ミサイル8つに分裂する (50%ダメージ)"
 
 msgctxt "/40E748A6461B610D3FF644810BF86490"
 msgid "When bullet penetrate enemy, they will bounce to the nearest enemy"
@@ -7422,11 +7422,11 @@ msgstr "(クリティカルダメージ150%, 最低でも2点ダメージを与�
 
 msgctxt "/AAC1E6234CF0098827BBDCA8824E4088"
 msgid "(The final attack speed of the unit is: attack speed * cooldown)"
-msgstr ""
+msgstr "(最終的な攻撃速度: 攻撃速度 ✕ クールダウン)"
 
 msgctxt "/D0B4DC4C456235293D9BEC90B5AB9D28"
 msgid "(The final attack speed of the unit is: attack speed * cooldown)"
-msgstr ""
+msgstr "(最終的な攻撃速度: 攻撃速度 ✕ クールダウン)"
 
 msgctxt "/3C9FD70440E61CB334FBC391E8C8DB8B"
 msgid "(Each wave can increase by up to 10)"

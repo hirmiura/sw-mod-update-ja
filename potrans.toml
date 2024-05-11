@@ -417,3 +417,15 @@ msgstr = '\1弾丸またはレーザーを\2回まで無効化する\3'
 [[rules]]
 msgid  = '(\s*)Level (\d+) chip(\s*)$'
 msgstr = '\1レベル\2チップ\3'
+
+[[rules]]
+msgid  = '(\s*)Basic movement speed: (\d+)(\s*)$'
+msgstr = '\1基本移動速度: \2\3'
+
+[[rules]]
+msgid  = '(\s*)When the laser is connected to the core, the core recovers (\d+) health points every 3 seconds(\s*)$'
+msgstr = '\1レーザーがコアに接続していれば、3秒毎にライフ\2点を回復する\3'
+
+[[rules]]
+msgid  = '(\s*)When the missile disappears, it splits into (\d+) small missiles \(with 50% damage\)(\s*)$'
+msgstr = '\1ミサイル消滅時に小型ミサイル\2つに分裂する (50%ダメージ)\3'
