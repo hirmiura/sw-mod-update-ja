@@ -1918,11 +1918,11 @@ msgstr ""
 
 msgctxt "/7D5B7A0C4B2A35DF1F8705A53FC61DF7"
 msgid "Laboratory"
-msgstr "研究所"
+msgstr "研究室"
 
 msgctxt "/E6580DB14677D9F316889AB333D719E2"
 msgid "Laboratory"
-msgstr "研究所"
+msgstr "研究室"
 
 msgctxt "/1D974DEC4CA26BCF128780B7EE873B4D"
 msgid "Experimental error"
