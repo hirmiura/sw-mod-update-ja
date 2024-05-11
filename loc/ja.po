@@ -1338,7 +1338,7 @@ msgstr ""
 
 msgctxt "/E41B58164A015BD281B18C83F546B3C7"
 msgid "Can only equip \"physical\" units"
-msgstr ""
+msgstr "「物理」ユニットのみ装着可能"
 
 msgctxt "/D320BC0D443CEE1B2D98339CD9ECCB2C"
 msgid "Summoning a large number of meteors to attack enemies"
@@ -4102,7 +4102,7 @@ msgstr ""
 
 msgctxt "/C7F6710F44FCD0584F675D8CE68C4053"
 msgid "Based on the attack range and orientation, move away from the core and shoot laser towards the core"
-msgstr ""
+msgstr "射程と向きに応じて、コアから離れコアに向かってレーザーを撃つ"
 
 msgctxt "/A301B03A4C5F258D66BDA688F03EA360"
 msgid "Dream"
@@ -4338,11 +4338,11 @@ msgstr "燃焼ダメージが発生する毎に5%の確率で周辺に拡散す�
 
 msgctxt "/907D63244923D44CECCBCA8179899548"
 msgid "Every time dealing critical damage to an enemy,+1% of the critical damage is dealt until the end of each exploration wave"
-msgstr ""
+msgstr "敵にクリティカルを与えるたび、各ウェーブ終了までクリティカルダメージ+1%"
 
 msgctxt "/BD76955941AE65C4EC695FA7E9E2A074"
 msgid "Launch healing lightning to attack enemies every time health is restored"
-msgstr ""
+msgstr "ライフが回復するたびに、ヒーリングライトニングを発射して敵を攻撃する"
 
 msgctxt "/F562AE684AE399DACB69B6B7259C8CD3"
 msgid "Each time health is restored, fire one catapult at the nearest enemy"
